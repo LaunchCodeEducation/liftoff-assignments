@@ -2,4 +2,4 @@
 
 ## Section \#1: St. Louis (November 2017)
 
-[MASON, MELISSA (@GIVEEMMEIL)](https://github.com/giveemmel/liftoff)
+[MASON, MELISSA (@GIVEEMMEL)](https://github.com/giveemmel/liftoff)
