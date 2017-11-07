@@ -7,7 +7,7 @@
 	The idea for this project came from my own struggles keeping track of my movie and book collections.  
 	I have loaned books to friends only to forget about it later and never get them back.  
 	I have also ended up buying a second copy of a good book or movie when I found a bargain because 
-	I couldn't remember at the time if I owned.  
+	I couldn't remember at the time if I owned it.  
 	
 
 ## Features
@@ -22,7 +22,13 @@
 	
 
 ## Technologies
-	Java, Spring, PostgresSQL, Web Interface using either Angular or React
+	- Java
+	- Spring
+	- PostgresSQL
+	- Web Interface using either Angular or React
 
 ## What I'll Have to Learn
-	Spring (Spring Data, Spring Security, Spring Boot), SQL, Angular or React, REST design principles
+	- Spring (Spring Data, Spring Security, Spring Boot)
+	- SQL
+	- Angular or React
+	- REST design principles
