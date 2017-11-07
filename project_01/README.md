@@ -1,9 +1,13 @@
 # Capstone Project Plan
 
 ## Overview
-	The media inventory app project will allow users to have accounts and keep an inventory of items in their media collections and keep track of items loaned to others. 
+	The media inventory app project will allow users to have accounts and keep 
+	an inventory of items in their media collections and keep track of items loaned to others. 
 
-	The idea for this project came from my own struggles keeping track of my movie and book collections.  I have loaned books to friends only to forget about it later and never get them back.  I have also ended up buying a second copy of a good book or movie when I found a bargain because I couldn't remember at the time if I owned.  
+	The idea for this project came from my own struggles keeping track of my movie and book collections.  
+	I have loaned books to friends only to forget about it later and never get them back.  
+	I have also ended up buying a second copy of a good book or movie when I found a bargain because 
+	I couldn't remember at the time if I owned.  
 	
 
 ## Features
@@ -13,7 +17,8 @@
 
 	User Login: Users will be able to have individual accounts and login.
 
-	User Access Control: Users will have accounts and account permissions will determine what a user can do and see with respect to their own and other users collections.
+	User Access Control: Users will have accounts and account permissions will 
+	determine what a user can do and see with respect to their own and other users collections.
 	
 
 ## Technologies
