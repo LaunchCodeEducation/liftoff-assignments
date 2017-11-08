@@ -6,6 +6,7 @@
 [Wills, Jordan (@jordo14)](https://github.com/jordo14/liftoff-assignments)
 [Burkiett, Joseph (@jtburkiett)](https://github.com/jtburkiett/liftoff-assigments)
 [Niederschmidt, Mary (@mniederschmidt)](https://github.com/mniederschmidt/liftoff-assignments)
+[Abdi, Mohamed (@warfahas)](https://github.com/warfahas/liftoff-assignments)
 [Swoboda, Lynn (@lmswoboda)](https://github.com/lmswoboda/liftoff)
 [Garrett, John (@johngarrett718)](https://github.com/johngarrett718/liftoff-assignments)
 [Young, James (@jameslyleyoung)](https://github.com/jameslyleyoung/liftoff)
