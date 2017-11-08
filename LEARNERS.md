@@ -1,8 +1,9 @@
 # Liftoff Learners
 
 ## Section \#1: St. Louis (November 2017)
-[Abbott, Nicholas (@crystalcoder)](https://github.com/crystalcoder/liftoff-assignments)
 
+[Abbott, Nicholas (@crystalcoder)](https://github.com/crystalcoder/liftoff-assignments)
+[BODASINGI, VASANTHI (@VasanthiBodasingi)](https://github.com/VasanthiBodasingi/liftoff-assignments)
 [Thirugnanam, Kokila (@KokilaGit)](https://github.com/KokilaGit/liftoff)
 [McManemin, Justin (@gitschwiftyyy)] (https://github.com/gitschwiftyyy/liftoff-assignments) 
 [Snyder, Lonny (@lsnyder1)](https://github.com/lsnyder1/liftoff)
