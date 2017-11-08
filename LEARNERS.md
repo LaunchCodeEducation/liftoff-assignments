@@ -2,6 +2,7 @@
 
 ## Section \#1: St. Louis (November 2017)
 
+[MASON, MELISSA (@GIVEEMMEL)](https://github.com/giveemmel/liftoff-assignments)
 [PARIS, CAMERON (@CAMERONPARIS)](https://github.com/CameronParis/liftoff-assignments)
 [DUNCAN, MERRITT (@merrittduncan)](https://github.com/merrittduncan/liftoff-assignments)
 [Rea, Andrew (@therealandrewrea)](https://github.com/therealandrewrea/liftoff-assignments)
