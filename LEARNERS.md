@@ -1,8 +1,9 @@
 # Liftoff Learners
 
 ## Section \#1: St. Louis (November 2017)
-[McManemin, Justin (@gitschwiftyyy)] (https://github.com/gitschwiftyyy/liftoff-assignments) 
 
+[Thirugnanam, Kokila (@KokilaGit)](https://github.com/KokilaGit/liftoff)
+[McManemin, Justin (@gitschwiftyyy)] (https://github.com/gitschwiftyyy/liftoff-assignments) 
 [Snyder, Lonny (@lsnyder1)](https://github.com/lsnyder1/liftoff)
 [Guruge, Praveen (@pcginc)](https://github.com/pcginc/liftoff-assignments)
 [Wittwer, Katy (@KatyWittwer)](https://github.com/KatyWittwer/liftoff-assignments.git)
@@ -14,4 +15,3 @@
 [Niederschmidt, Mary (@mniederschmidt)](https://github.com/mniederschmidt/liftoff-assignments)
 [Scalise, Andrew (@AndrewScalise)](https://github.com/AndrewScalise/liftoff-assignments)
 [Wills, Jordan (@jordo14)](https://github.com/jordo14/liftoff-assignments)
-
