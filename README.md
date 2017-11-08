@@ -11,7 +11,7 @@ If you are enrolled in the Liftoff program, fork this repository and then clone 
 Open `LEARNERS.md` and add your repository below heading for your Liftoff section. Your link should look like the following example, with appropriate substitutions:
 
 ```md
-[LAST_NAME, FIRST_NAME (@GITHUB_USERNAME)](https://github.com/GITHUB_USERNAME/liftoff)
+[LAST_NAME, FIRST_NAME (@GITHUB_USERNAME)](https://github.com/GITHUB_USERNAME/liftoff-assignments)
 ```
 
 > The file `LEARNERS.md`, and many of those you'll be working in, are written in a markup language called Markdown. If you're new to markdown, read and bookmark [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
