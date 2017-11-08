@@ -2,6 +2,7 @@
 
 ## Section \#1: St. Louis (November 2017)
 
+[Wayne, Darrell (@GITHUB_USERNAME)](https://github.com/dwayne8877/liftoff)
 [MATTINGLY, KERRI (@GITHUB_kerrimattingly)](https://github.com/kerrimattingly/liftoff)
 [FLEAK, REBECCA (@fleakrl)](https://github.com/fleakrl/liftoff-assignments)
 [Abbott, Nicholas (@crystalcoder)](https://github.com/crystalcoder/liftoff-assignments)
