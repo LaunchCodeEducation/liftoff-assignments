@@ -2,10 +2,10 @@
 
 ## Section \#1: St. Louis (November 2017)
 
-<<<<<<< HEAD
+[Wills, Jordan (@jordo14)](https://github.com/jordo14/liftoff-assignments)
+[Burkiett, Joseph (@jtburkiett)](https://github.com/jtburkiett/liftoff-assigments)
 [Niederschmidt, Mary (@mniederschmidt)](https://github.com/mniederschmidt/liftoff-assignments)
 [Young, James (@jameslyleyoung)](https://github.com/jameslyleyoung/liftoff)
-=======
 [Wolf, Neill (@leftydrummer)](https://github.com/leftydrummer/liftoff)
 [ENDEJAN, NICHOLAS (@nendejan)](https://github.com/nendejan/liftoff)
 [Kerry, Sean (@spkerry)](https://github.com/spkerry/liftoff)
@@ -28,4 +28,3 @@
 [Niederschmidt, Mary (@mniederschmidt)](https://github.com/mniederschmidt/liftoff-assignments)
 [Scalise, Andrew (@AndrewScalise)](https://github.com/AndrewScalise/liftoff-assignments)
 [Wills, Jordan (@jordo14)](https://github.com/jordo14/liftoff-assignments)
->>>>>>> bc4ddf81393c46b758ec3277b6d98c3d445006dc
