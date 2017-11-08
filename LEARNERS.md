@@ -2,6 +2,7 @@
 
 ## Section \#1: St. Louis (November 2017)
 
+[Guruge, Praveen (@pcginc)](https://github.com/pcginc/liftoff-assignments)
 [Wittwer, Katy (@KatyWittwer)](https://github.com/KatyWittwer/liftoff-assignments.git)
 [Jaros, Chris (@cjaros1)](https://github.com/cjaros1/liftoff)
 [MASON, MELISSA (@GIVEEMMEL)](https://github.com/giveemmel/liftoff-assignments)
