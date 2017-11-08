@@ -1,9 +1,9 @@
 # Liftoff Learners
 
-[FLEAK, REBECCA (@fleakrl)](https://github.com/fleakrl/liftoff-assignments)
-
 ## Section \#1: St. Louis (November 2017)
 
+[MATTINGLY, KERRI (@GITHUB_kerrimattingly)](https://github.com/kerrimattingly/liftoff)
+[FLEAK, REBECCA (@fleakrl)](https://github.com/fleakrl/liftoff-assignments)
 [Abbott, Nicholas (@crystalcoder)](https://github.com/crystalcoder/liftoff-assignments)
 [BODASINGI, VASANTHI (@VasanthiBodasingi)](https://github.com/VasanthiBodasingi/liftoff-assignments)
 [Thirugnanam, Kokila (@KokilaGit)](https://github.com/KokilaGit/liftoff)
