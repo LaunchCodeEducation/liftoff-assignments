@@ -2,6 +2,7 @@
 
 ## Section \#1: St. Louis (November 2017)
 
+[Wolf, Neill (@leftydrummer)](https://github.com/leftydrummer/liftoff)
 [ENDEJAN, NICHOLAS (@nendejan)](https://github.com/nendejan/liftoff)
 [Kerry, Sean (@spkerry)](https://github.com/spkerry/liftoff)
 [DENNIS, LISETTE (@ELLEDENNIS](https://github.com/ELLEDENNIS/liftoff)
