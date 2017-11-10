@@ -19,6 +19,7 @@
 ### Andrew Scalise's Group (- [@AndrewScalise](https://github.com/AndrewScalise/))
 
 - [Mattingly, Kerri (@kerrimattingly)](https://github.com/kerrimattingly/liftoff-assignments)
+- [McDonnell, Christina (@christinamcdonnell)](https://github.com/christinamcdonnell/liftoff-assignments)
 - [Wismar, Tom (@tomjwismar)](https://github.com/tomjwismar/liftoff-assignments)
 - [Wittwer, Katy (@KatyWittwer)](https://github.com/KatyWittwer/liftoff-assignment)
 
