@@ -33,7 +33,7 @@
 ### Shawn Jones' Group
 
 - [Endejan, Nichola (@nendejan)](https://github.com/nendejan/liftoff-assignments)
-- [McManemin, Justin (@gitschwiftyyy)](https://github.com/gitschwiftyyy/liftoff-assignments) 
+- [McManemin, Justin (@gitschwiftyyy)](https://github.com/gitschwiftyyy/liftoff-assignments)
 - [Guruge, Praveen (@pcginc)](https://github.com/pcginc/liftoff-assignments)
 - [Roig, Ben (@bgroig)](https://github.com/bgroig/liftoff-assignments)
 - [Swoboda, Lynn (@lmswoboda)](https://github.com/lmswoboda/liftoff-assignments)
@@ -43,6 +43,7 @@
 - [Fleak, Rebecca (@fleakrl)](https://github.com/fleakrl/liftoff-assignments)
 - [Niederschmidt, Mary (@mniederschmidt)](https://github.com/mniederschmidt/liftoff-assignments)
 - [Jaros, Chris (@cjaros1)](https://github.com/cjaros1/liftoff-assignments)
+- [Pavani, Amudalapalli (@amudalapalli123)](https://github.com/amudalapalli123/liftoff-assignments)
 
 ### Sarah Searls' Group
 
