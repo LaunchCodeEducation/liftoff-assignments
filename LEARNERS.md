@@ -14,6 +14,7 @@
 
 - [Abbott, Nicholas (@crystalcoder)](https://github.com/crystalcoder/liftoff-assignments)
 - [Kerry, Sean (@spkerry)](https://github.com/spkerry/liftoff-assignments)
+- [Reichert, Mark(@markareichert)](https://github.com/markareichert/liftoff)
 - [Young, James (@jameslyleyoung)](https://github.com/jameslyleyoung/liftoff-assignments)
 
 ### Andrew Scalise's Group (- [@AndrewScalise](https://github.com/AndrewScalise/))
