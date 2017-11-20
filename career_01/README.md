@@ -1,7 +1,6 @@
 <h1>Attend a Meetup</h1>
 
 <h3>Meetup Details</h3>
-<p>(Name, Date, Time, and Topic of Meetup)</p>
 <ul>
     <li>Meetup Name</li>
     <li>Meetup Date</li>
