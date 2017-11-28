@@ -31,7 +31,6 @@ with their actual bank statements.
 * Java 7
 * Spring Framework 4.3.12
 
-* 
 ### License
 This is free and unencumbered software released into the public domain.
 
