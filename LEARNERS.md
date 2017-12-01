@@ -12,7 +12,7 @@
 
 ### Andrew Clark's Group
 
-- [Abbott, Nicholas (@crystalcoder)](https://github.com/crystalcoder/liftoff-assignments)
+- [Abbott, Nicholas  (@abbottn)](https://github.com/abbottn/liftoff-assignments)
 - [Kerry, Sean (@spkerry)](https://github.com/spkerry/liftoff-assignments)
 - [Reichert, Mark(@markareichert)](https://github.com/markareichert/liftoff)
 - [Young, James (@jameslyleyoung)](https://github.com/jameslyleyoung/liftoff-assignments)
@@ -32,7 +32,7 @@
 - [Wills, Jordan (@jordo14)](https://github.com/jordo14/liftoff-assignments)
 
 
-### Shawn Jones' Group
+### Dave Morse's Group
 
 - [Endejan, Nichola (@nendejan)](https://github.com/nendejan/liftoff-assignments)
 - [McManemin, Justin (@gitschwiftyyy)](https://github.com/gitschwiftyyy/liftoff-assignments)
