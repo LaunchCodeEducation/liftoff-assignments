@@ -1,27 +1,22 @@
-# Liftoff Assignments
+# Start Here!
+Welcome to Liftoff! We are excited to have you in this course.
 
-This repository is the base repo for all assignments in LaunchCode's [Liftoff](http://education.launchcode.org/liftoff/) course.
+You are currently viewing the Liftoff Assignments Repository. This repo contains information about all of the assignments in the course, and will be how you will submit much of your work.
 
-## Getting Started
+## Repo Explanation
+In Liftoff we are focusing on two things: your Personal Project, and Career Readiness skills. Throughout this course you will have assignments related to both of those core areas. Looking through this repo you can see Personal Project assignments, and Career Readiness assignments.
 
-If you are enrolled in the Liftoff program, fork this repository and then clone it to your computer. Have a look through the directories. Each one corresponds to an assignment, and the README will provide additional details on the tasks to be carried out.
+Personal Project Assignments are flagged with P#, and Career Readiness assignments are flagged with C#, both are followed by the name of the assignment.
 
-### Add your repository to the Liftoff index
+You will use this repository in tandem with Canvas. All of your grades will be recorded in Canvas, however you will submit your work through this GitHub repository.
 
-Open `LEARNERS.md` and add your repository below heading for your Liftoff section. Your link should look like the following example, with appropriate substitutions:
+We are making you use GitHub for two important reasons:
+<ol>
+<li>You will get more practice with GitHub</li>
+<li>Your assignments are all stored in one place</li>
+</ol>
 
-```md
-[LAST_NAME, FIRST_NAME (@GITHUB_USERNAME)](https://github.com/GITHUB_USERNAME/liftoff-assignments)
-```
+## Next Step
+Now that you know what this repo is for let's get it setup.
 
-> The file `LEARNERS.md`, and many of those you'll be working in, are written in a markup language called Markdown. If you're new to markdown, read and bookmark [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
-
-Once you've added your link to the learners index, you should stage, commit, and push your changes.
-
-### Make a pull request
-
-Visit your repo page on GitHub and submit a pull request to the **upstream** repository. The upstream repository is the original repo under the LaunchCodeEducation organization that you forked from.
-
-Read and follow the steps in the [GitHub Help article on creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
-
-Your request will be merged by a LaunchCode staff member, and then your addition will be part of the main repository.
+Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) repo for further instructions.
