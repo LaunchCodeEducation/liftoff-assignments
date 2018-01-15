@@ -1,7 +1,7 @@
 # Liftoff Learners
 
 ## Section \#1: St. Louis (November 2017)
-
+[MCKINNEY, JASON (@JMCKINNEY123)](https://github.com/JMCKINNEY123/liftoff-assignments)
 ### Andrew Bell's Group
 
 - [Abdi, Mohamed (@warfahas)](https://github.com/warfahas/liftoff-assignments)
