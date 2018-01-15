@@ -52,6 +52,7 @@
 - [Garrett, John (@johngarrett718)](https://github.com/johngarrett718/liftoff-assignments)
 - [Mason, Melissa (@giveemmel)](https://github.com/giveemmel/liftoff-assignments)
 - [Thirugnanam, Kokila (@KokilaGit)](https://github.com/KokilaGit/liftoff-assignments)
+- [Shuman, Tom (@GitMeOutaHere)](https://github.com/GitMeOutaHere/liftoff-assignments)
 
 ### Jonathan Ward's Group
 
