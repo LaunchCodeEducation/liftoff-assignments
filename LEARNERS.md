@@ -1,5 +1,7 @@
 # Liftoff Learners
 
+
+
 ## Section \#1: St. Louis (November 2017)
 
 ### Andrew Bell's Group
@@ -59,3 +61,7 @@
 - [Wayne, Darrell (@dwayne8877)](https://github.com/dwayne8877/liftoff-assignments)
 - [Mihalevich, Andrew (@apmihal)](https://github.com/apmihal/liftoff-assignments)
 - [Potter, Chaz (@chazcpotter)](https://github.com/chazcpotter/liftoff-assignments)
+
+### Dave Moeller's Group
+
+- [Hoffman, Richard (@rhoffman219)](https://github.com/rhoffman219/liftoff-assignments)
