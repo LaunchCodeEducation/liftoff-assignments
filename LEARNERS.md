@@ -59,3 +59,11 @@
 - [Wayne, Darrell (@dwayne8877)](https://github.com/dwayne8877/liftoff-assignments)
 - [Mihalevich, Andrew (@apmihal)](https://github.com/apmihal/liftoff-assignments)
 - [Potter, Chaz (@chazcpotter)](https://github.com/chazcpotter/liftoff-assignments)
+
+
+## Section \#2: St. Louis (January 2018)
+
+### Ryan Coleman's Group
+
+- [Germano, Katherine (@kgermano)](https://github.com/kgermano/liftoff-assignments)
+
