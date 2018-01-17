@@ -2,6 +2,8 @@
 
 ## Section \#1: St. Louis (November 2017)
 
+[Holt, Crystal (@Chrissy-Kellie)](https://github.com/Chrissy-Kellie/liftoff-assignments)
+
 ### Andrew Bell's Group
 
 - [Abdi, Mohamed (@warfahas)](https://github.com/warfahas/liftoff-assignments)
