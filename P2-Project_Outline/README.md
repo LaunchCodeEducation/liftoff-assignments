@@ -23,6 +23,7 @@ that store.
 - connect with Twitter to automatically tweet when new stock arrives
 - has a search function for the stock items
 - will show online reviews of searched for stock items
+- user login
 
 ### Technologies
 - Twitter API
@@ -34,3 +35,4 @@ that store.
 - Bootstrap
 - API usage
 - How to implement credit card usage
+
