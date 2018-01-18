@@ -1,5 +1,7 @@
 # Liftoff Learners
 
+- [Tenholder, Andy (@AndyTenholder)](https://github.com/AndyTenholder/liftoff-assignments)
+
 ## Section \#1: St. Louis (November 2017)
 
 ### Andrew Bell's Group
