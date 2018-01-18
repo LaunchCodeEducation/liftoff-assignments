@@ -59,3 +59,10 @@
 - [Wayne, Darrell (@dwayne8877)](https://github.com/dwayne8877/liftoff-assignments)
 - [Mihalevich, Andrew (@apmihal)](https://github.com/apmihal/liftoff-assignments)
 - [Potter, Chaz (@chazcpotter)](https://github.com/chazcpotter/liftoff-assignments)
+
+# Liftoff Learners
+
+## Section \#2: St. Louis (January 2018)
+### Kasey's  Group
+- [Flores, Jim (@jimflores5)](https://github.com/jimflores5/liftoff-assignments)
+
