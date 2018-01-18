@@ -9,6 +9,7 @@
 - [Dennis, Lisette (@ElleDennis)](https://github.com/ElleDennis/liftoff-assignments)
 - [Paris, Cameron (@CameronParis)](https://github.com/CameronParis/liftoff-assignments)
 - [Wolf, Neill (@leftydrummer)](https://github.com/leftydrummer/liftoff-assignments)
+-[Moehle, Jayme (@2x3x7)](https://github.com/2x3x7/liftoff-assignments)
 
 ### Andrew Clark's Group
 
