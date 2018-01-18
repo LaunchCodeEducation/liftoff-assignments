@@ -1,3 +1,8 @@
 .DS_Store
 .vs/
 .idea/
+.gradle/
+gradle/wrapper
+gradlew
+gradlew.bat
+liftoff-assignments.iml
