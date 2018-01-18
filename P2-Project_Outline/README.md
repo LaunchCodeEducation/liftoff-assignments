@@ -25,5 +25,5 @@ Include overview here
 ### What I'll Have to Learn
  - JavaScript (for performance tracker)
  - Review database I/O using Python and SQLAlchemy
- - How to let a student user send performance results to the teacher
+ - How to allow a student to send performance results to his/her teacher
  - Integrate results with Google Classroom?
