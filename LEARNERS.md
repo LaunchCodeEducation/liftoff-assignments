@@ -1,6 +1,6 @@
 # Liftoff Learners
 
-## Section \#1: St. Louis (November 2017)
+## Section \#1: St. Louis (January 2018)
 
 ### Andrew Bell's Group
 
@@ -59,3 +59,8 @@
 - [Wayne, Darrell (@dwayne8877)](https://github.com/dwayne8877/liftoff-assignments)
 - [Mihalevich, Andrew (@apmihal)](https://github.com/apmihal/liftoff-assignments)
 - [Potter, Chaz (@chazcpotter)](https://github.com/chazcpotter/liftoff-assignments)
+
+
+### Michael Corey-Yares's Group
+
+-[Donnelly, Terica (@tericad)](https://github.com/tericad/liftoff-assignments)
