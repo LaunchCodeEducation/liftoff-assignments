@@ -20,4 +20,4 @@ An app that tells you where the cheapest groceries are. Users enter in items - l
 - Hibernate
 - Thymeleaf
 ### What I'll Have to Learn
-To build this project, I will need to learn how to have my program produce custom PDFs and emails. If I wish to include a feature to sort items by distance from users’ current location, I will likely need to learn how to integrate Google Maps API and its functionality into my app. If I wish to build my program as an actual offline app for mobile devices, I may need to learn Swift. 
+To build this project, I will need to learn how to have my program produce custom PDFs and emails. If I wish to include a feature to only display items within an inputted distance from users’ current location, I will likely need to learn how to integrate Google Maps API and its functionality into my app. If I wish to build my program as an actual offline app for mobile devices, I may need to learn Swift. 
