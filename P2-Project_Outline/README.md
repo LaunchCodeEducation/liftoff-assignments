@@ -1,8 +1,5 @@
 # Project Outline
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
-
 ### Overview
    My app will give users access to information about the top 10 twitter hashtags.  The main page will contain info on the top 10 hashtags for the past hour, day, and week.  The data will be displayed in both a data table and a javascript line graph.  Users can then click on links in the data table to find more specific information reguarding that hashtag.  On this page the users will have access to data on hashtag usage, languages, and accompanying hashtags that can be sorted by the past hour, day, or week.  All hashtags on the site will serve as links to a page with informaiton on that hashtag.  There will also be a search feature that will allow users to get information on a specific hashtag without having to search for it.
    The first goal of this site is to make it visually appealing to draw user interest and provide them with easy access to other hashtags they are interested in.  The secondary goal for this site is to provide useful data that users can use for research.  I believe that given the overwelming popularity of Twitter and the prominance of hashtags in daily discorse, there is a sizable user base for a site to satisfy curiousity about hashtag useages and trends.  This will be my primary audience, with a secondary desire to provide useful data for researches.
