@@ -8,9 +8,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
-This is a mobile web optimized web app that allows a user to save their utility and other billing account numbers and search by biller to find a near-by location that will allow them to pay in-person by cash or check
+
+This will be a mobile web optimized web app that allows a user to save their utility and other billing account numbers and search by biller to find a near-by location that will allow them to pay in-person by cash or check.  It would be utilized by companies - retailers, utilities, payment facilitators, and others - that service the unbanked and the cash economy.
+
 ### Features
 Include Features here
+
 1. Private Individual User Accounts
 2. Saves Payment Account Numbers
 3. Uses GPS to locate near-by locations to pay bills (interacts with Google Maps) and provides retailer information (Hours of operation, address, phone number, fees, MAYBE other services)
@@ -18,9 +21,18 @@ Include Features here
 5?. Would like to live-host for testing/demonstration purposes
 ### Technologies
 Include Technologies here
-Email, SMS, Google Maps/GPS
+
+C#
+ASP
+.NET
+Email
+SMS
+Google Maps/GPS
+Bootstrap
+
 ### What I'll Have to Learn
 Include what you will need to learn here
+
 1. Bootstrap
 2. GPS/Google Maps interaction
 3. Calendar interaction
