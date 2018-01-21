@@ -18,7 +18,7 @@ Include Features here
 2. Saves Payment Account Numbers
 3. Uses GPS to locate near-by locations to pay bills (interacts with Google Maps) and provides retailer information (Hours of operation, address, phone number, fees, MAYBE other services)
 4. Allow user to set email (Maybe SMS?) reminders when payment is due - will be set by user, maybe tied to a payment date
-5?. Would like to live-host for testing/demonstration purposes
+5. Would like to live-host for testing/demonstration purposes?
 ### Technologies
 Include Technologies here
 
