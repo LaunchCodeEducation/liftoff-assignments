@@ -10,10 +10,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 Include Overview here
 The Riverbend Yarn Bombers are a group of community minded citizens in Alton, IL. Their mission is to make Alton a more beautiful
 place by creating yarn based street art and turning the mundane (lamp posts, telephone poles, etc.) into objects of beauty.
+They also donate knitted and crocheted items (hats, gloves, scarves, sweaters) to local charitable organizations.
 My project idea is to create a website for the group to increase awareness of their presence in the community.
 My site will allow users to read about what the international movement of yarn bombing is, the autobiographies of the members
 of the Alton group, and members' blog posts. Users will also have access to a photo gallery of members' work. If the user decides
 become a member, they will be able to add their own blog posts and photos.
+
 
 ### Features
 Include Features here
