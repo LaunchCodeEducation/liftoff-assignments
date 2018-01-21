@@ -2,6 +2,9 @@
 
 ## Section \#1: St. Louis (November 2017)
 
+###Michael C's Group
+- [Schmidt, Elliot (@FlawlessLogic)](https://github.com/FlawlessLogic/liftoff-assignments)
+
 ### Andrew Bell's Group
 
 - [Abdi, Mohamed (@warfahas)](https://github.com/warfahas/liftoff-assignments)
