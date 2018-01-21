@@ -13,11 +13,11 @@ I'm trying to eat healthier by cooking at home rather than eating out. However, 
 2. Post recipes: Users will be able to add new recipes when logged in. New recipes will be displayed in a list viewable to the user and any other users to whom the user is connected.
 3. Connect to other users: User will abe able to request and accept connections to other users and if the connection is accepted, the two users will be able to view each other's recipes.
 ### Technologies
-Java
-IntelliJ IDEA
-MAMP
-MySQL
-Spring Boot
+Java,
+IntelliJ IDEA,
+MAMP,
+MySQL,
+Spring Boot,
 Hibernate ORM
 ### What I'll Have to Learn
 1. How to integrate session functionality into a Java application in order to enable user-associated sessions.
