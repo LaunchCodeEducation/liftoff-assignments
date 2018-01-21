@@ -7,11 +7,39 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+DartStat will be a comprehensive data management system for Dart players. While there are a myriad of solutions out there for scorekeeping, statistics, league management, etc. none of them are fully satisfactory, both in terms of UX and in terms of Data Magement. The goal of DartStat is to have persistent player profiles across leagues, teams, and tournaments, and complete player statistics granular to the individual dart.
+
+
 ### Features
-Include Features here
+* User Profile - A persistent dB of users, with basic login/signup front-end
+* Team/League Management - A system for captains/commissioners to maintain rosters and schedules for league play.
+* Match Reporting - A web interface for players in scheduled league matches to upload their results to the master dB
+* Scorekeeping - A mobile-friendly webapp for keeping score of local matches, and recording match data to the DartStat dB
+* Statistics - A suite of customizable reports for users to analyze their results and scoring over time
+* *Data Visualization - Graphical presentations of user's game/practice data (heatmaps, performance over time, etc.) Thinking maybe python?*
+* *Online Play - Real-time competitive play using Node.js to sychronize game states across remote devices.* 
+
+*Features in italics are things I'm considering "stretch goals" beyond the basic functionality needed to complete the assignment.*
+
 ### Technologies
-Include Technologies here
+* Java
+* SpringBoot
+* Thymeleaf
+* HTML/CSS
+* Bootstrap
+* MySql
+* JavaScript
+* Angular.js
+* *node.js*
+* *Python + various dataviz libraries*
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+* Bootstrap
+* JavaScript
+* Angular.js
+* *node.js*
+* *Python + various dataviz libraries*
+
+
