@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/2x3x7
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/jayme-moehle-439a5719/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+Done
