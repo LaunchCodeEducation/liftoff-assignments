@@ -19,7 +19,7 @@
 - Francois, Jacob
 - [Kinder, Travis (@tkinder89)](https://github.com/tkinder89/liftoff-assignments)
 - Matney, David
-- Morrow, Jeff
+- [Morrow, Jeff (@jwmorrow1s)](https://github.com/jwmorrow1s/liftoff-assignments)
 - Zong, Connor
 
 ### Justin Ketterman's Group
