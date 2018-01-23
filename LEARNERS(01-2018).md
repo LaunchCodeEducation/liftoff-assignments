@@ -33,7 +33,7 @@
 - [Terry, Tennille (@tennilleterry)](https://github.com/tennilleterry/liftoff-assignments)
 - Yoon, Douglas
 
-### Kasey O's Group
+### Kasey Oglesby's Group
 - [Flores, Jim (@jimflores5)](https://github.com/jimflores5/liftoff-assignments)
 - [Haderer, Alexandra (@Alexandriniums)](https://github.com/Alexandriniums/liftoff-assignments)
 - Harris, Nora
