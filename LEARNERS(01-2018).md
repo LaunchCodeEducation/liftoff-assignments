@@ -25,7 +25,7 @@
 ### Justin Ketterman's Group
 - Apprill, Benjamin
 - Jeff
-- Meyer, Kevin
+- [Meyer, Kevin (@aeroSME)](https://github.com/aeroSME/liftoff-assignments.git)
 - Misra, Tavish
 - [Moehle, Jayme (@2x3x7)](https://github.com/2x3x7/liftoff-assignments)
 - [Prychitko, Emily (@emilypry)](https://github.com/emilypry/liftoff-assignments)
