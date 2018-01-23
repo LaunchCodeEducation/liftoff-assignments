@@ -9,7 +9,7 @@
 - Diehl, Jared
 - Garms, Brian
 - [Hoffman, Richard (@rhoffman219)](https://github.com/rhoffman219/liftoff-assignments)
-- Oberlohr, Hannah
+- [Oberlohr, Hannah (@hoberlohr0210)](https://github.com/hoberlohr0210/liftoff-assignments)
 - Smereczniak, Philip
 
 ### Dave Morse's Group
