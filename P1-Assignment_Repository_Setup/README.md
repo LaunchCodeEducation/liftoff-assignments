@@ -8,7 +8,7 @@ If you are enrolled in the Liftoff program, fork this repository and then clone 
 
 ### Add your repository to the Liftoff index
 
-Open `LEARNERS.md` and add your repository below heading for your Liftoff section. Your link should look like the following example, with appropriate substitutions:
+Open the `LEARNERS.md` for your class (it should be labeled with a month and date) and add your repository below heading for your Liftoff section. Your link should look like the following example, with appropriate substitutions:
 
 ```md
 [LAST_NAME, FIRST_NAME (@GITHUB_USERNAME)](https://github.com/GITHUB_USERNAME/liftoff-assignments)
