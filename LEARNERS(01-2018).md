@@ -36,7 +36,7 @@
 ### Kasey Oglesby's Group
 - [Flores, Jim (@jimflores5)](https://github.com/jimflores5/liftoff-assignments)
 - [Haderer, Alexandra (@Alexandriniums)](https://github.com/Alexandriniums/liftoff-assignments)
-- Harris, Nora
+- [Harris, Nora (@noragharris)] (https://github.com/noragharris/liftoff-assignments)
 - Hopkins, Brad
 - Kirkum, Robert
 - [Owens, Chris (@ChristopherMichaelOwens)](https://github.com/ChristopherMichaelOwens/liftoff-assignments)
