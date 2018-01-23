@@ -1,4 +1,5 @@
 # Liftoff Learners
+[Kinder, Travis (@tkinder89)](https://github.com/tkinder89/liftoff-assignments)
 
 ## Section \#1: St. Louis (November 2017)
 
