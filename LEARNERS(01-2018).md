@@ -38,7 +38,7 @@
 - [Haderer, Alexandra (@Alexandriniums)](https://github.com/Alexandriniums/liftoff-assignments)
 - Harris, Nora
 - Hopkins, Brad
-- Kirkum, Robert
+- [Kirkum, Robert (@robert113289)](https://github.com/robert113289/liftoff-assignments)
 - [Owens, Chris (@ChristopherMichaelOwens)](https://github.com/ChristopherMichaelOwens/liftoff-assignments)
 - [Schulte, Colin (@pezhead53)](https://github.com/pezhead53/liftoff-assignments)
 - [Tenholder, Andy (@AndyTenholder)](https://github.com/AndyTenholder/liftoff-assignments)
