@@ -25,6 +25,8 @@
 ### Justin Ketterman's Group
 - Apprill, Benjamin
 - Jeff
+- Meyer, Kevin
+- Misra, Tavish
 - [Moehle, Jayme (@2x3x7)](https://github.com/2x3x7/liftoff-assignments)
 - [Prychitko, Emily (@emilypry)](https://github.com/emilypry/liftoff-assignments)
 - [Tanyu, Kingsly (@kstanyu)](https://github.com/kstanyu/liftoff-assignments)
