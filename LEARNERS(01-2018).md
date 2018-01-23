@@ -46,7 +46,7 @@
 ### Max Dobberstein's Group
 - Champion, Mike
 - [Frank, Mia (@rebelalien)](https://github.com/rebelalien/liftoff-assignments)
-- Gregg, Karen
+- [Gregg, Karen (@greggkd)](https://github.com/greggkd/liftoff-assignments)
 - [Langenfeld, Tyler (@tylerco56)](https://github.com/tylerco56/liftoff-assignments)
 - [Riezman, Jonathan (@megodzillaudead)](https://github.com/MeGodzillaUDead/liftoff-assignments)
 - Rober, Kyle
