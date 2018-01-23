@@ -2,6 +2,8 @@
 
 ## Section \#1: St. Louis (November 2017)
 
+-[Corlett, Kevin (@BigKev47)] (https://github.com/BigKev47/liftoff-assignments)
+
 ### Andrew Bell's Group
 
 - [Abdi, Mohamed (@warfahas)](https://github.com/warfahas/liftoff-assignments)
