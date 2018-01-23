@@ -3,7 +3,7 @@
 ## Section \#2: St. Louis (January 2018)
 
 ### Dave Moeller's Group
-- [Beasley, Emily (@EmilyJaneBeasley)] (https://github.com/EmilyJaneBeasley/liftoff-assignments)
+- [Beasley, Emily (@EmilyJaneBeasley)](https://github.com/EmilyJaneBeasley/liftoff-assignments)
 - [Coffman, Colin (@ccoffman1)](https://github.com/ccoffman1/liftoff-assignments)
 - [Cug, Stefan (@StefanLaunchC)](https://github.com/StefanLaunchC/liftoff-assignments)
 - Diehl, Jared
@@ -52,7 +52,7 @@
 - [Win, Michael (@MikeIsAnAsset)](https://github.com/MikeIsAnAsset/liftoff-assignments)
 
 ### Michael Antry's Group
-- [Corlett, Kevin (@BigKev47)] (https://github.com/BigKev47/liftoff-assignments)
+- [Corlett, Kevin (@BigKev47)](https://github.com/BigKev47/liftoff-assignments)
 - Houk, Jason
 - [Jones, Nicholas (@GentlemansKiller)](https://github.com/GentlemansKiller/liftoff-assignments)
 - [Lowell, Anne (@aklowell)](https://github.com/aklowell/liftoff-assignments)
