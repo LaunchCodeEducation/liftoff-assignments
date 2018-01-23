@@ -79,7 +79,7 @@
 - [Gallien, James (@jamesgallien)](https://github.com/jamesgallien/liftoff-assignments)
 - [Germano, Katherine (@kgermano)](https://github.com/kgermano/liftoff-assignments)
 - Ghosh, Shashwati
-- Hogan, Matthew
+- [Hogan, Matthew (@githubbing)](https://github.com/githubbing/liftoff-assignments)
 - [Holt, Crystal (@Chrissy-Kellie)](https://github.com/Chrissy-Kellie/liftoff-assignments)
 - Shuman, Tom
 
