@@ -1,14 +1,10 @@
 # Liftoff Learners
 
-## Section \#1: St. Louis (November 2017)
+## Section \#1: St. Louis (January 2018)
 
-### Andrew Bell's Group
+### Michael C's Group
 
-- [Abdi, Mohamed (@warfahas)](https://github.com/warfahas/liftoff-assignments)
-- [Bodasingi, Vasanthi (@VasanthiBodasingi)](https://github.com/VasanthiBodasingi/liftoff-assignments)
-- [Dennis, Lisette (@ElleDennis)](https://github.com/ElleDennis/liftoff-assignments)
-- [Paris, Cameron (@CameronParis)](https://github.com/CameronParis/liftoff-assignments)
-- [Wolf, Neill (@leftydrummer)](https://github.com/leftydrummer/liftoff-assignments)
+- [Wheelehan, Jeremiah (@jdwheelehan)](https://github.com/jdwheelehan/liftoff-assignments)
 
 ### Andrew Clark's Group
 
