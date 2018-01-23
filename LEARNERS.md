@@ -59,3 +59,7 @@
 - [Wayne, Darrell (@dwayne8877)](https://github.com/dwayne8877/liftoff-assignments)
 - [Mihalevich, Andrew (@apmihal)](https://github.com/apmihal/liftoff-assignments)
 - [Potter, Chaz (@chazcpotter)](https://github.com/chazcpotter/liftoff-assignments)
+
+### Dave Moeller's Group
+
+- [Garms, Brian (@bgarms)](https://github.com/bgarms/liftoff-assignments)
