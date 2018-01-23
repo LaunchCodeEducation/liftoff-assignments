@@ -1,0 +1,19 @@
+Overview:
+This project will keep track of bookings for wrestlers. This can be used for fans to view where a wrestlers bookings are and can also be used for wrestlers to update their bookings for promoters to see where and when a wrestler is booked. This project will contain users(Wrestlers) to input their booking dates and locations. The admin will be able to add/remove wrestlers. Fans (no login required) will be able to view a list of all wrestlers in app and theirbooks.
+
+Features:
+User login: Users will be able to create accounts, login to the application, and update bookings.
+
+Search: Users will be able to search through the list of wrestlers to view upcoming bookings.
+
+Google Maps API: Users will be able to view the location of bookings and the location with a Google Maps API.
+
+Twitter API: Link wrestlers twitter if they have one to their profile page.
+
+Technologies:
+Java
+Spring
+Hibernate
+MAMP
+HTML
+CSS
