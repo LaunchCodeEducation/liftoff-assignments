@@ -10,7 +10,7 @@
 - [Garms, Brian (@bgarms)](https://github.com/bgarms/liftoff-assignments)
 - [Hoffman, Richard (@rhoffman219)](https://github.com/rhoffman219/liftoff-assignments)
 - [Oberlohr, Hannah (@hoberlohr0210)](https://github.com/hoberlohr0210/liftoff-assignments)
-- Smereczniak, Philip
+- [Smereczniak, Philip (@PESmereczniak)](https://github.com/PESmereczniak/liftoff-assignments)
 
 ### Dave Morse's Group
 - [Causevic, Belkisa (@belkisac)](https://github.com/belkisac/liftoff-assignments)
