@@ -20,7 +20,7 @@
 - [Kinder, Travis (@tkinder89)](https://github.com/tkinder89/liftoff-assignments)
 - Matney, David
 - Morrow, Jeff
-- Zong, Connor
+- [Zong, Connor (@DJN0)](https://github.com/DJN0/liftoff-assignments.git)
 
 ### Justin Ketterman's Group
 - Apprill, Benjamin
