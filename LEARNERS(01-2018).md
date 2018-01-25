@@ -89,6 +89,6 @@
 - [Bursac, Marcy(@MawsayB)](https://github.com/MawsayB/liftoff-assignments)
 - [Carnes, Paula(@paulamarcia)](https://github.com/paulamarcia/liftoff-assignments.git)
 - [Dellard, Travis (@tdellard1)](https://github.com/tdellard1/liftoff-assignments)
-- Foote, David
+- [Foote, David (@ZumbaIdol)](https://github.com/ZumbaIdol/liftoff-assignments)
 - [Mayher, Janet (@jlmayher)](https://github.com/jlmayher/liftoff-assignments)
 - [MCKINNEY, JASON (@JMCKINNEY123)](https://github.com/JMCKINNEY123/liftoff-assignments)
