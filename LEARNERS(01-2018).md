@@ -16,7 +16,7 @@
 - [Causevic, Belkisa (@belkisac)](https://github.com/belkisac/liftoff-assignments)
 - [Cunningham, Yuan (@2username)](https://github.com/2usernam/liftoff-assignments.git)
 - [Doyle, Brian (@DoyleShoyle)](https://github.com/DoyleShoyle/liftoff-assignments)
-- Francois, Jacob
+- [Francois, Jacob (@jafranswa)](https://github.com/jafranswa/liftoff-assignments.git)
 - [Kinder, Travis (@tkinder89)](https://github.com/tkinder89/liftoff-assignments)
 - [Matney, David (@Dmatney)](https://github.com/Dmatney/liftoff-assignments)
 - [Morrow, Jeff (@jwmorrow1s)](https://github.com/jwmorrow1s/liftoff-assignments)
@@ -89,6 +89,6 @@
 - [Bursac, Marcy(@MawsayB)](https://github.com/MawsayB/liftoff-assignments)
 - [Carnes, Paula(@paulamarcia)](https://github.com/paulamarcia/liftoff-assignments.git)
 - [Dellard, Travis (@tdellard1)](https://github.com/tdellard1/liftoff-assignments)
-- Foote, David
+- [Foote, David (@ZumbaIdol)](https://github.com/ZumbaIdol/liftoff-assignments)
 - [Mayher, Janet (@jlmayher)](https://github.com/jlmayher/liftoff-assignments)
 - [MCKINNEY, JASON (@JMCKINNEY123)](https://github.com/JMCKINNEY123/liftoff-assignments)
