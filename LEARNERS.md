@@ -39,6 +39,7 @@
 - [Guruge, Praveen (@pcginc)](https://github.com/pcginc/liftoff-assignments)
 - [Roig, Ben (@bgroig)](https://github.com/bgroig/liftoff-assignments)
 - [Swoboda, Lynn (@lmswoboda)](https://github.com/lmswoboda/liftoff-assignments)
+- [Francois, Jacob (@jafranswa)](https://github.com/jafranswa/liftoff-assignments.git)
 
 ### Kevin Stock's Group
 
