@@ -61,7 +61,7 @@
 - [Martin, Andre (@andrekmartin)](https://github.com/andrekmartin/liftoff-assignments)
 - McElroy, Daphne
 - [Min, Alex (@amreever)](https://github.com/amreever/liftoff-assignments)
-- Perdue, John
+- [PERDUE, JOHN (@johnperdue05)](https://github.com/johnperdue05/liftoff-assignments)
 
 ### Michael Corey-Yares' Group
 - [Chapman, Tyler (@tylerchapman)](https://github.com/tylerchapman/liftoff-assignments)
