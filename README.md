@@ -14,8 +14,8 @@ Users will find the application most beneficial for its ease and simplicity of u
 I got this idea when using my own bank's app and saw how clustered and un-friendly the user interface was. There were also features there that they average bank customer would not use (such as advanced analytics and investment features).
 
 ### Features
-<b>1. Create new monthly budget</b> - Create a new monthly budget, add budget categories, and set initial balances for each category.
-<b>2. Enter transactions</b> - 
+**1. Create new monthly budget** - Create a new monthly budget, add budget categories, and set initial balances for each category.
+**2. Enter transactions** - 
 ### Technologies
 Include Technologies here
 
