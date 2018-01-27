@@ -15,6 +15,7 @@ I got this idea when using my own bank's app and saw how clustered and un-friend
 
 ### Features
 **1. Create new monthly budget** - Create a new monthly budget, add budget categories, and set initial balances for each category.
+
 **2. Enter transactions** - 
 ### Technologies
 Include Technologies here
