@@ -1,22 +1,23 @@
-# Start Here!
-Welcome to Liftoff! We are excited to have you in this course.
+# Project Outline
 
-You are currently viewing the Liftoff Assignments Repository. This repo contains information about all of the assignments in the course, and will be how you will submit much of your work.
 
-## Repo Explanation
-In Liftoff we are focusing on two things: your Personal Project, and Career Readiness skills. Throughout this course you will have assignments related to both of those core areas. Looking through this repo you can see Personal Project assignments, and Career Readiness assignments.
+## Assignment Description
+[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
 
-Personal Project Assignments are flagged with P#, and Career Readiness assignments are flagged with C#, both are followed by the name of the assignment.
+## Submission Instructions
 
-You will use this repository in tandem with Canvas. All of your grades will be recorded in Canvas, however you will submit your work through this GitHub repository.
+### Overview
+I have decided to do a personal budgeting web application. This application can be modified for business use if a client so desires. The application will track spending from various budget categories (Rent, utilities, food, gas, bills, etc.). Each month, the user will create a new budget, and initialize dollar amounts to each category. As the month goes on, the user can enter transactions and deduct a specified amount from a category per transaction. Users can also specify a minimum ammount for each category when the remaining balance in each cateogory is considered low. The app will also display spending in a pie chart and will also be able to generate a transaction report to show what transactions have been entered into the system for that month.
 
-We are making you use GitHub for two important reasons:
-<ol>
-<li>You will get more practice with GitHub</li>
-<li>Your assignments are all stored in one place</li>
-</ol>
+Users will find the application most beneficial for its ease and simplicity of use. The user interface will be user friendly and users will be able to enter transactions, track their spending, and monitor their financial health quickly and easily.
 
-## Next Step
-Now that you know what this repo is for let's get it setup.
+I got this idea when using my own bank's app and saw how clustered and un-friendly the user interface was. There were also features there that they average bank customer would not use (such as advanced analytics and investment features).
 
-Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) repo for further instructions.
+### Features
+<b>1. Create new monthly budget</b> - Create a new monthly budget, add budget categories, and set initial balances for each category.
+<b>2. Enter transactions</b> - 
+### Technologies
+Include Technologies here
+
+### What I'll Have to Learn
+Include what you will need to learn here
