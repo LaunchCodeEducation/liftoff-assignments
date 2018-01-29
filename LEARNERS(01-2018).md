@@ -81,7 +81,7 @@
 - [Ghosh, Shashwati (@sash29)](https://github.com/sash29/liftoff-assignments.git)
 - [Hogan, Matthew (@githubbing)](https://github.com/githubbing/liftoff-assignments)
 - [Holt, Crystal (@Chrissy-Kellie)](https://github.com/Chrissy-Kellie/liftoff-assignments)
-- Shuman, Tom
+- [Shuman, Tom (@GitMeOutaHere)](https://github.com/GitMeOutaHere/liftoff-assignments)
 
 ### Steve Moxley's Group
 - Abraha, Tem
