@@ -55,7 +55,7 @@
 
 ### Michael Antry's Group
 - [Corlett, Kevin (@BigKev47)](https://github.com/BigKev47/liftoff-assignments)
-- Houk, Jason
+- [Houk, Jason (@jahouk)](https://github.com/jahouk/liftoff-assignments)
 - [Jones, Nicholas (@GentlemansKiller)](https://github.com/GentlemansKiller/liftoff-assignments)
 - [Lowell, Anne (@aklowell)](https://github.com/aklowell/liftoff-assignments)
 - [Martin, Andre (@andrekmartin)](https://github.com/andrekmartin/liftoff-assignments)
