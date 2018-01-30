@@ -10,7 +10,15 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-![]()
+- ![This is the sign in page](https://raw.githubusercontent.com/MiaCunningham/liftoff-assignments/master/P3-Project_Planning/Sign%20in%20page.png)
+
+- ![Signup page](https://raw.githubusercontent.com/MiaCunningham/liftoff-assignments/master/P3-Project_Planning/User%20Signup%20page.png)
+
+- ![](https://raw.githubusercontent.com/MiaCunningham/liftoff-assignments/master/P3-Project_Planning/Download%20page.png)
+
+- ![Settings page](https://raw.githubusercontent.com/MiaCunningham/liftoff-assignments/master/P3-Project_Planning/Settings%20page.png)
+
+  ​
 
 ### Project Tracker
 
