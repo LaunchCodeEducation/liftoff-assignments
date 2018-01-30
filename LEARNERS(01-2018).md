@@ -37,7 +37,7 @@
 - [Flores, Jim (@jimflores5)](https://github.com/jimflores5/liftoff-assignments)
 - [Haderer, Alexandra (@Alexandriniums)](https://github.com/Alexandriniums/liftoff-assignments)
 - [Harris, Nora (@noragharris)](https://github.com/noragharris/liftoff-assignments)
-- Hopkins, Brad
+- Hopkins, Brad (@bradlhopkins)] (https://github.com/bradlhopkins/liftoff-assignments)
 - [Kirkum, Robert (@robert113289)](https://github.com/robert113289/liftoff-assignments)
 - [Owens, Chris (@ChristopherMichaelOwens)](https://github.com/ChristopherMichaelOwens/liftoff-assignments)
 - [Schulte, Colin (@pezhead53)](https://github.com/pezhead53/liftoff-assignments)
