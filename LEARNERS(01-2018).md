@@ -59,7 +59,7 @@
 - [Jones, Nicholas (@GentlemansKiller)](https://github.com/GentlemansKiller/liftoff-assignments)
 - [Lowell, Anne (@aklowell)](https://github.com/aklowell/liftoff-assignments)
 - [Martin, Andre (@andrekmartin)](https://github.com/andrekmartin/liftoff-assignments)
-- McElroy, Daphne
+- [McElroy, Daphne (@Dakota2525)](https://github.com/Dakota2525/liftoff-assignments)
 - [Min, Alex (@amreever)](https://github.com/amreever/liftoff-assignments)
 - [PERDUE, JOHN (@johnperdue05)](https://github.com/johnperdue05/liftoff-assignments)
 
