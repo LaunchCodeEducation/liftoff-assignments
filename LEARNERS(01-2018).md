@@ -84,7 +84,7 @@
 - [Shuman, Tom (@GitMeOutaHere)](https://github.com/GitMeOutaHere/liftoff-assignments)
 
 ### Steve Moxley's Group
-- Abraha, Tem
+- [Abraha, Tem (@tabraha1)](https://github.com/tabraha1/liftoff-assignments)
 - [Barrett, Andrew (@clampers)](https://github.com/clampers/liftoff-assignments)
 - [Bursac, Marcy(@MawsayB)](https://github.com/MawsayB/liftoff-assignments)
 - [Carnes, Paula(@paulamarcia)](https://github.com/paulamarcia/liftoff-assignments.git)
