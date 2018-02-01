@@ -14,7 +14,7 @@
 
 ### Dave Morse's Group
 - [Causevic, Belkisa (@belkisac)](https://github.com/belkisac/liftoff-assignments)
-- [Cunningham, Yuan (@MiaCunningham)(https://github.com/MiaCunningham/liftoff-assignments.git)
+- [Cunningham, Yuan (@MiaCunningham)](https://github.com/MiaCunningham/liftoff-assignments.git)
 - [Doyle, Brian (@DoyleShoyle)](https://github.com/DoyleShoyle/liftoff-assignments)
 - [Francois, Jacob (@jafranswa)](https://github.com/jafranswa/liftoff-assignments.git)
 - [Kinder, Travis (@tkinder89)](https://github.com/tkinder89/liftoff-assignments)
