@@ -37,7 +37,7 @@
 - [Flores, Jim (@jimflores5)](https://github.com/jimflores5/liftoff-assignments)
 - [Haderer, Alexandra (@Alexandriniums)](https://github.com/Alexandriniums/liftoff-assignments)
 - [Harris, Nora (@noragharris)](https://github.com/noragharris/liftoff-assignments)
-- Hopkins, Brad
+- [Hopkins, Brad (@bradlhopkins)](https://github.com/bradlhopkins/liftoff-assignments)
 - [Kirkum, Robert (@robert113289)](https://github.com/robert113289/liftoff-assignments)
 - [Owens, Chris (@ChristopherMichaelOwens)](https://github.com/ChristopherMichaelOwens/liftoff-assignments)
 - [Schulte, Colin (@pezhead53)](https://github.com/pezhead53/liftoff-assignments)
@@ -59,7 +59,7 @@
 - [Jones, Nicholas (@GentlemansKiller)](https://github.com/GentlemansKiller/liftoff-assignments)
 - [Lowell, Anne (@aklowell)](https://github.com/aklowell/liftoff-assignments)
 - [Martin, Andre (@andrekmartin)](https://github.com/andrekmartin/liftoff-assignments)
-- McElroy, Daphne
+- [McElroy, Daphne (@Dakota2525)](https://github.com/Dakota2525/liftoff-assignments)
 - [Min, Alex (@amreever)](https://github.com/amreever/liftoff-assignments)
 - [PERDUE, JOHN (@johnperdue05)](https://github.com/johnperdue05/liftoff-assignments)
 
@@ -84,7 +84,7 @@
 - [Shuman, Tom (@GitMeOutaHere)](https://github.com/GitMeOutaHere/liftoff-assignments)
 
 ### Steve Moxley's Group
-- Abraha, Tem
+- [Abraha, Tem (@tabraha1)](https://github.com/tabraha1/liftoff-assignments)
 - [Barrett, Andrew (@clampers)](https://github.com/clampers/liftoff-assignments)
 - [Bursac, Marcy(@MawsayB)](https://github.com/MawsayB/liftoff-assignments)
 - [Carnes, Paula(@paulamarcia)](https://github.com/paulamarcia/liftoff-assignments.git)
