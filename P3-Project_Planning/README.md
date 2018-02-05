@@ -14,7 +14,7 @@ For this assignment, you'll create some initial plans for your project.
 User sign in 
 
 2.)
-Search CPT codes
+Search CPT, ICD-10 codes
     enter code 
     or 
     look up by name/diagnosis (ex.ankle fracture)

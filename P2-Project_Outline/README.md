@@ -33,6 +33,6 @@ Include what you will need to learn here
 
 Setting up APIs
 Mortality data for fractures in 65+ people
-CPT Codes
+CPT ICD-10 Codes
 Review statistical analysis
 R? 
