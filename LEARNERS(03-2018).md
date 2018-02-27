@@ -1,0 +1,76 @@
+# Liftoff Learners
+
+## Section \#3: St. Louis (March 2018)
+
+- [Example Student](https://www.github.com/example-student/liftoff-assignments)
+
+- Danielle Luley
+- Robert Batdorf
+- Shuangyu Zhang
+- Nicole Swanson
+- Suja Radhakrishnan
+- Jake Ulmer
+- Clayton Graves
+- Soumya Kadingula
+- Victoria Klein
+- Joseph Boria
+- Oliver Ayers
+- Kevin Shutt
+- Rama Devi Vanga
+- William Paulsen
+- Charles Robertson
+- David Cristancho
+- Jonathan Schobernd
+- Fahim Rahman
+- John Oconnor
+- E. Wilson
+- Jesse Hopkins
+- Steven Palmer
+- Tara Burke
+- Wade Stevens
+- Jeffrey Williams
+- Ramya Bellala
+- Adrianne Gore
+- Sharndeep Kaur chahal
+- Edward Coward
+- Shelby Easley
+- Jacob Roman
+- Sarah Hanley
+- John Kelley
+- Elizabeth Walter
+- William Krings
+- Tawnya Bailey
+- Timothy Cliffe
+- Rakiyah Faatuono
+- Robert Spicer
+- Jared Mudd
+- Dena Shaw
+- Kyle Surber
+- Shweta Lakshmi
+- Todd Romkema
+- Geoffrey Hadler
+- John Ndungu
+- Rey Cabatingan
+- Jordan Fruin
+- Jacinda Santora
+- Skye Gowen
+- Katherine Powderly
+- Shashwati Ghosh
+- Faith Roeseler 
+- Dorian Rozanski
+- Arturo Hurtado
+- Sebastian Garren
+- Jessica Gutshall
+- Eleni Anas
+- Collin Elliott
+- Debjani Das
+- Thomas Ryan
+- Emily Reller
+- Kanika Dutta
+- Michelle Trusgnich
+- Patrick Smallwood
+- Indira Murugan
+- Shannon McCoy
+- Jessica Tucker 
+- Neethu Joseph
+- Kelly Hougland
