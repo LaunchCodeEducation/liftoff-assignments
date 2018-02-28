@@ -12,6 +12,7 @@
 - Jake Ulmer
 - Clayton Graves
 - Soumya Kadingula
+[Kadingula, Soumya (soumy1508)](https://github.com/soumy1508/liftoff-assignments)
 - Victoria Klein
 - Joseph Boria
 - Oliver Ayers
