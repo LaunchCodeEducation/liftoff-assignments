@@ -52,7 +52,7 @@
 - John Ndungu
 - Rey Cabatingan
 - Jordan Fruin
-- Jacinda Santora
+- [Jacinda Santora](https://github.com/jacinda79/liftoff-assignments)
 - Skye Gowen
 - Katherine Powderly
 - Shashwati Ghosh
