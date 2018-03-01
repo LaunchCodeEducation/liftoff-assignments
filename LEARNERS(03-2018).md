@@ -2,7 +2,7 @@
 
 ## Section \#3: St. Louis (March 2018)
 
-- [Paul Matthews](https://www.github.com/pdmxdd/liftoff-assignments)
+- [Hopkins, Jesse (@JhopStl)](https://www.github.com/JhopStl/liftoff-assignments)
 
 - Danielle Luley
 - Robert Batdorf
