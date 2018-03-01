@@ -21,7 +21,7 @@
 - Charles Robertson
 - David Cristancho
 - Jonathan Schobernd
-- Fahim Rahman
+- [Fahim Rahman](https://github.com/fwr882/liftoff-assignments)
 - John Oconnor
 - E. Wilson
 - Jesse Hopkins
