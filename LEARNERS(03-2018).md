@@ -3,6 +3,7 @@
 ## Section \#3: St. Louis (March 2018)
 
 - [Paul Matthews](https://www.github.com/pdmxdd/liftoff-assignments)
+- [Paulsen, William (@bpswim90)](https://www.github.com/bpswim90/liftoff-assignments)
 
 - Danielle Luley
 - Robert Batdorf
@@ -17,7 +18,6 @@
 - Oliver Ayers
 - Kevin Shutt
 - Rama Devi Vanga
-- William Paulsen
 - Charles Robertson
 - David Cristancho
 - Jonathan Schobernd
