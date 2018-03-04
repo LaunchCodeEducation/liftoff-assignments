@@ -53,7 +53,7 @@
 - Rey Cabatingan
 - Jordan Fruin
 - Jacinda Santora
-- [Gowen, Skye (@skyegowen)] (https://github.com/skyegowen/liftoff-assignments)
+- [Gowen, Skye (@skyegowen)](https://github.com/skyegowen/liftoff-assignments)
 - Katherine Powderly
 - Shashwati Ghosh
 - Faith Roeseler 
