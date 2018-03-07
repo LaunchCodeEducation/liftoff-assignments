@@ -49,7 +49,7 @@
 - Kyle Surber
 - Shweta Lakshmi
 - Todd Romkema
-- Geoffrey Hadler
+- [Hadler,Geoffrey (@polarysekt)](https://www.github.com/polarysekt/liftoff-assignments)
 - John Ndungu
 - Rey Cabatingan
 - Jordan Fruin
