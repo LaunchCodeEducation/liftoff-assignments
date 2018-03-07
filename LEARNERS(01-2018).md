@@ -31,7 +31,7 @@
 - [Prychitko, Emily (@emilypry)](https://github.com/emilypry/liftoff-assignments)
 - [Tanyu, Kingsly (@kstanyu)](https://github.com/kstanyu/liftoff-assignments)
 - [Terry, Tennille (@tennilleterry)](https://github.com/tennilleterry/liftoff-assignments)
-- Yoon, Douglas
+- [Yoon, Douglas (@douglaskyoon)](https://github.com/douglaskyoon/liftoff-assignments)
 
 ### Kasey Oglesby's Group
 - [Flores, Jim (@jimflores5)](https://github.com/jimflores5/liftoff-assignments)
