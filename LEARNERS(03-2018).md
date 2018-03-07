@@ -69,7 +69,7 @@
 - Kanika Dutta
 - Michelle Trusgnich
 - Patrick Smallwood
-- Indira Murugan
+- [Indira Murugan](https://github.com/IndiraMur/liftoff-assignments.git)
 - Shannon McCoy
 - Jessica Tucker 
 - Neethu Joseph
