@@ -54,7 +54,7 @@
 - Rey Cabatingan
 - Jordan Fruin
 - Jacinda Santora
-- Skye Gowen
+- [Gowen, Skye (@skyegowen)](https://github.com/skyegowen/liftoff-assignments)
 - Katherine Powderly
 - Shashwati Ghosh
 - Faith Roeseler 
