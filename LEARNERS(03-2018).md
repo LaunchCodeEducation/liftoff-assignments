@@ -4,6 +4,8 @@
 
 - [Paul Matthews](https://www.github.com/pdmxdd/liftoff-assignments)
 
+- [Easley, Shelby (@shelbypeasley)] (https://github.com/shelbypeasley/liftoff-assignments)
+
 - Danielle Luley
 - Robert Batdorf
 - Shuangyu Zhang
