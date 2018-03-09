@@ -36,7 +36,7 @@
 - Edward Coward
 - Shelby Easley
 - Jacob Roman
-- Sarah Hanley
+- [HANLEY, SARAH (@NUMBAT77)](https://github.com/NUMBAT77/liftoff-assignments)
 - John Kelley
 - Elizabeth Walter
 - William Krings
@@ -57,7 +57,7 @@
 - [Gowen, Skye (@skyegowen)](https://github.com/skyegowen/liftoff-assignments)
 - Katherine Powderly
 - Shashwati Ghosh
-- Faith Roeseler 
+- Faith Roeseler
 - Dorian Rozanski
 - Arturo Hurtado
 - Sebastian Garren
@@ -72,6 +72,6 @@
 - Patrick Smallwood
 - [Indira Murugan](https://github.com/IndiraMur/liftoff-assignments.git)
 - Shannon McCoy
-- Jessica Tucker 
+- Jessica Tucker
 - Neethu Joseph
 - Kelly Hougland
