@@ -61,7 +61,7 @@
 - Dorian Rozanski
 - Arturo Hurtado
 - Sebastian Garren
-- Jessica Gutshall
+- [Jessica Gutshall (@jeskag)](https://github.com/jeskag/liftoff-assignments) 
 - Eleni Anas
 - Collin Elliott
 - Debjani Das
