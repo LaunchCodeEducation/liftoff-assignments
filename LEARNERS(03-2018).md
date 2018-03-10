@@ -69,7 +69,7 @@
 - Emily Reller
 - Kanika Dutta
 - Michelle Trusgnich
-- Patrick Smallwood
+- [Smallwood, Patrick (@000pjs)](https://github.com/000pjs/liftoff-assignments)
 - [Indira Murugan](https://github.com/IndiraMur/liftoff-assignments.git)
 - Shannon McCoy
 - Jessica Tucker 
