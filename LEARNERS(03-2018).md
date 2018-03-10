@@ -66,7 +66,7 @@
 - Collin Elliott
 - Debjani Das
 - Thomas Ryan
-- Emily Reller
+- [Reller, Emily (@relleremily)](https://github.com/relleremily/liftoff-assignments)
 - Kanika Dutta
 - Michelle Trusgnich
 - Patrick Smallwood
