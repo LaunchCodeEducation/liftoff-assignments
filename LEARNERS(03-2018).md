@@ -57,7 +57,7 @@
 - [Gowen, Skye (@skyegowen)](https://github.com/skyegowen/liftoff-assignments)
 - Katherine Powderly
 - Shashwati Ghosh
-- Faith Roeseler 
+- [Roeseler, Faith (@Hraefn)](https://github.com/Hraefn/liftoff-assignments)
 - Dorian Rozanski
 - Arturo Hurtado
 - Sebastian Garren
