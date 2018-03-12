@@ -30,7 +30,7 @@
 - Steven Palmer
 - Tara Burke
 - Wade Stevens
-- Jeffrey Williams
+- Jeffrey Williams [Williams, Jeffrey](https://github.com/jwilliams32/liftoff-assignments)
 - Ramya Bellala
 - Adrianne Gore
 - Sharndeep Kaur chahal
