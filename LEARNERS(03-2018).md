@@ -6,6 +6,8 @@
 - [Garren, Sebastian (@sebastiangarren)](https://github.com/sebastiangarren/liftoff-assignments)
 - [Hougland, Kelly (@KelHougland)](https://github.com/KelHougland/liftoff-assignments)
 
+- [Easley, Shelby (@shelbypeasley)] (https://github.com/shelbypeasley/liftoff-assignments)
+
 - Danielle Luley
 - Robert Batdorf
 - Shuangyu Zhang
