@@ -4,6 +4,7 @@
 
 - [Paul Matthews](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Garren, Sebastian (@sebastiangarren)](https://github.com/sebastiangarren/liftoff-assignments)
+- [Faatuono, Rakiyah (@14myclass)](https://github.com/14myclass/liftoff-assignments)
 
 - Danielle Luley
 - Robert Batdorf
