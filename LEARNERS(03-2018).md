@@ -35,7 +35,7 @@
 - Adrianne Gore
 - Sharndeep Kaur chahal
 - Edward Coward
-- Shelby Easley
+- [Easley, Shelby (@shelbypeasley)](https://github.com/shelbypeasley/liftoff-assignments)
 - Jacob Roman
 - Sarah Hanley
 - John Kelley
