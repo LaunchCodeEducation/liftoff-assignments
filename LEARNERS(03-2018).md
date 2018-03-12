@@ -4,6 +4,7 @@
 
 - [Paul Matthews](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Garren, Sebastian (@sebastiangarren)](https://github.com/sebastiangarren/liftoff-assignments)
+- [Hougland, Kelly (@KelHougland)](https://github.com/KelHougland/liftoff-assignments)
 
 - Danielle Luley
 - Robert Batdorf
@@ -74,4 +75,4 @@
 - Shannon McCoy
 - Jessica Tucker 
 - Neethu Joseph
-- Kelly Hougland
+
