@@ -16,7 +16,7 @@
 - Soumya Kadingula
 - Victoria Klein
 - Joseph Boria
-- Oliver Ayers
+- [Oliver Ayers (@orphanedcouplet)](https://github.com/orphanedcouplet/liftoff-assignments)
 - Kevin Shutt
 - Rama Devi Vanga
 - William Paulsen
