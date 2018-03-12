@@ -36,7 +36,7 @@
 - Sharndeep Kaur chahal
 - Edward Coward
 - Shelby Easley
-- Jacob Roman
+- [Roman, Jacob (@JacobNRoman)](https://github.com/JacobNRoman/liftoff-assignments)
 - Sarah Hanley
 - John Kelley
 - Elizabeth Walter
