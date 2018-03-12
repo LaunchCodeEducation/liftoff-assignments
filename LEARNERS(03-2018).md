@@ -60,6 +60,7 @@
 - Katherine Powderly
 - Shashwati Ghosh
 - Faith Roeseler 
+- [Roeseler, Scott (@renaissancewolf)](https://github.com/renaissancewolf/liftoff-assignments)
 - Dorian Rozanski
 - Arturo Hurtado
 - Sebastian Garren
