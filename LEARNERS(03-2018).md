@@ -5,6 +5,7 @@
 - [Paul Matthews](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Garren, Sebastian (@sebastiangarren)](https://github.com/sebastiangarren/liftoff-assignments)
 - [Hougland, Kelly (@KelHougland)](https://github.com/KelHougland/liftoff-assignments)
+- [Powderly, Katherine @KatherinePowderly)](https://github.com/KatherinePowderly/liftoff-assignments)
 
 - Danielle Luley
 - Robert Batdorf
