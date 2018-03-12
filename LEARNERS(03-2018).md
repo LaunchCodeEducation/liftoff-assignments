@@ -25,7 +25,7 @@
 - David Cristancho
 - Jonathan Schobernd
 - [Rahman, Fahim (@fwr882)](https://github.com/fwr882/liftoff-assignments)
-- John Oconnor
+- [OConnor, John (@johno1121)](https://github.com/johno1121/liftoff-assignments)
 - E. Wilson
 - [Hopkins, Jesse (@JhopStl)](https://www.github.com/JhopStl/liftoff-assignments)
 - Steven Palmer
