@@ -73,4 +73,3 @@
 - Shannon McCoy
 - Jessica Tucker 
 - Neethu Joseph
-- Kelly Hougland
