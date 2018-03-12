@@ -73,6 +73,6 @@
 - Patrick Smallwood
 - [Indira Murugan](https://github.com/IndiraMur/liftoff-assignments.git)
 - Shannon McCoy
-- Jessica Tucker(@jessicatucker)(https://github.com/TuckerJessica/liftoff-assignments.git)
+-[Tucker,Jessica (@eleanor09](https://github.com/eleanor09/liftoff-assignments)
 - Neethu Joseph
 
