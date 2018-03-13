@@ -33,7 +33,7 @@
 - Wade Stevens
 - [Williams, Jeffrey (@jwilliams32)](https://github.com/jwilliams32/liftoff-assignments)
 - Ramya Bellala
-- Adrianne Gore
+- [Gore, Adrianne (@adriannegore)](https://github.com/adriannegore/liftoff-assignments)
 - Sharndeep Kaur chahal
 - Edward Coward
 - [Easley, Shelby (@shelbypeasley)](https://github.com/shelbypeasley/liftoff-assignments)
