@@ -9,7 +9,7 @@
 - [Hougland, Kelly (@KelHougland)](https://github.com/KelHougland/liftoff-assignments)
 - Danielle Luley
 - Robert Batdorf
-- Shuangyu Zhang
+- [Zhang, Shuangyu (@SharonZSY)](https://github.com/SharonZSY/liftoff-assignments)
 - Nicole Swanson
 - Suja Radhakrishnan
 - Jake Ulmer
