@@ -18,10 +18,10 @@ User Accounts to allow login and personalization of statistics view.
 - Account user can be at least 1 of: league organizer, coach/captain, player, or fan eac of which grants different views and permissions
     - What is the user story for each... what do they need to be able to do?
 ### Technologies
-Java
-MAMP
-Springboot
-HTML/CSS
+- Java
+- MAMP
+- Springboot
+- HTML/CSS
 
 ### What I'll Have to Learn
 How to...
