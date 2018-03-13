@@ -22,7 +22,7 @@
 - Rama Devi Vanga
 - [Paulsen, William (@bpswim90)](https://www.github.com/bpswim90/liftoff-assignments)
 - Charles Robertson
-- David Cristancho
+- [Cristancho, David(@DavidRC86)](https://github.com/DavidRC86/liftoff-assignments)
 - Jonathan Schobernd
 - [Rahman, Fahim (@fwr882)](https://github.com/fwr882/liftoff-assignments)
 - John Oconnor
