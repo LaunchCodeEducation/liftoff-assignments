@@ -43,7 +43,7 @@
 - Elizabeth Walter
 - William Krings
 - Tawnya Bailey
-- Timothy Cliffe
+- [Cliffe, Timothy (@timcliffe)](https://github.com/timcliffe/liftoff-assignments)
 - Rakiyah Faatuono
 - Robert Spicer
 - Jared Mudd
