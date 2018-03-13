@@ -1,7 +1,7 @@
 # Liftoff Learners
 
 ## Section \#3: St. Louis (March 2018)
-
+[Graves, Clayton (@clayton-graves)](https://github.com/clayton-graves/liftoff-assignments)
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Hawash, Eshe (@ehawash)](https://www.github.com/ehawash/liftoff-assignments)
 
