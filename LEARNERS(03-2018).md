@@ -30,7 +30,7 @@
 - [Hopkins, Jesse (@JhopStl)](https://www.github.com/JhopStl/liftoff-assignments)
 - Steven Palmer
 - Tara Burke
-- Wade Stevens
+- [Wade Stevens (@wayde22)](https://github.com/wayde22/liftoff-assignments)
 - [Williams, Jeffrey (@jwilliams32)](https://github.com/jwilliams32/liftoff-assignments)
 - Ramya Bellala
 - Adrianne Gore
