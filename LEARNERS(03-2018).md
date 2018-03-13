@@ -12,7 +12,7 @@
 - Shuangyu Zhang
 - Nicole Swanson
 - Suja Radhakrishnan
-- Jake Ulmer
+- [Ulmer, Jake (@jakeulmer2)](https://github.com/jakeulmer2/liftoff-assignments)
 - Clayton Graves
 - [Kadingula, Soumya (@soumy1508)](https://github.com/soumy1508/liftoff-assignments)
 - Victoria Klein
