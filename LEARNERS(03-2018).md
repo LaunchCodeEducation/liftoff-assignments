@@ -23,7 +23,7 @@
 - [Paulsen, William (@bpswim90)](https://www.github.com/bpswim90/liftoff-assignments)
 - Charles Robertson
 - David Cristancho
-- Jonathan Schobernd
+- [Schobernd, Jonathan (@JSchober93)](https://github.com/JSchober93/liftoff-assignments)
 - [Rahman, Fahim (@fwr882)](https://github.com/fwr882/liftoff-assignments)
 - John Oconnor
 - E. Wilson
@@ -77,4 +77,4 @@
 - Shannon McCoy
 - [Tucker,Jessica (@eleanor09)](https://github.com/eleanor09/liftoff-assignments)
 - Neethu Joseph
-- [Schobernd, Jonathan (@JSchober93)](https://github.com/JSchober93/liftoff-assignments)
+
