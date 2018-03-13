@@ -29,7 +29,7 @@
 - E. Wilson
 - [Hopkins, Jesse (@JhopStl)](https://www.github.com/JhopStl/liftoff-assignments)
 - Steven Palmer
-- Tara Burke
+- [Burke, Tara (@minimoose300)](https://github.com/minimoose3000/liftoff-assignments)
 - Wade Stevens
 - [Williams, Jeffrey (@jwilliams32)](https://github.com/jwilliams32/liftoff-assignments)
 - Ramya Bellala
