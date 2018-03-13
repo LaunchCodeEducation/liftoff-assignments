@@ -18,7 +18,7 @@
 - Victoria Klein
 - Joseph Boria
 - [Ayers, Oliver (@orphanedcouplet)](https://github.com/orphanedcouplet/liftoff-assignments)
-- Kevin Shutt
+- [Shutt, Kevin (@KevinShutt)](https://github.com/KevinShutt/liftoff-assignments)
 - Rama Devi Vanga
 - [Paulsen, William (@bpswim90)](https://www.github.com/bpswim90/liftoff-assignments)
 - Charles Robertson
