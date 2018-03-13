@@ -76,5 +76,4 @@
 - [Murugan, Indira (@IndiraMur)](https://github.com/IndiraMur/liftoff-assignments.git)
 - Shannon McCoy
 - [Tucker,Jessica (@eleanor09)](https://github.com/eleanor09/liftoff-assignments)
-- Neethu Joseph
-
+- [Joseph, Neethu (@njoseph5)](https://github.com/njoseph5/liftoff-assignments)
