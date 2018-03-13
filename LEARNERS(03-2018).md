@@ -48,7 +48,7 @@
 - Robert Spicer
 - Jared Mudd
 - Dena Shaw
-- Kyle Surber
+-[Surber, Kyle (@whathuh15](https://github.com/whathuh15/liftoff-assignments)
 - Shweta Lakshmi
 - Todd Romkema
 - [Hadler,Geoffrey (@polarysekt)](https://www.github.com/polarysekt/liftoff-assignments)
