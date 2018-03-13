@@ -41,7 +41,7 @@
 - [Hanley, Sarah (@numbat77)](https://github.com/NUMBAT77/liftoff-assignments)
 - John Kelley
 - Elizabeth Walter
-- [Krings, William (@github_imyourhuckleberry)](https://github.com/imyourhuckleberry/liftoff-assignments)
+- [Krings, William (@imyourhuckleberry)](https://github.com/imyourhuckleberry/liftoff-assignments)
 - Tawnya Bailey
 - Timothy Cliffe
 - Rakiyah Faatuono
