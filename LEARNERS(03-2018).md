@@ -65,7 +65,7 @@
 - Arturo Hurtado
 - Sebastian Garren
 - [Gutshall, Jessica (@jeskag)](https://github.com/jeskag/liftoff-assignments) 
-- Eleni Anas
+- [Anas, Eleni (@ecmanas)](https://github.com/ecmanas/liftoff-assignments)
 - Collin Elliott
 - Debjani Das
 - Thomas Ryan
