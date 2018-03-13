@@ -25,7 +25,8 @@
 - John Oconnor
 - E. Wilson
 - Jesse Hopkins
-- Steven Palmer
+- [Palmer, Steven (@tenispro1975)](https://github.com/tenispro1975/liftoff-assignments)
+
 - Tara Burke
 - Wade Stevens
 - Jeffrey Williams
