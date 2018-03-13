@@ -39,7 +39,7 @@
 - [Easley, Shelby (@shelbypeasley)](https://github.com/shelbypeasley/liftoff-assignments)
 - [Roman, Jacob (@JacobNRoman)](https://github.com/JacobNRoman/liftoff-assignments)
 - [Hanley, Sarah (@numbat77)](https://github.com/NUMBAT77/liftoff-assignments)
-- John Kelley
+- [Kelley, Jack (@albinoraven)](https://github.com/albinoraven/liftoff-assignments)
 - Elizabeth Walter
 - William Krings
 - Tawnya Bailey
