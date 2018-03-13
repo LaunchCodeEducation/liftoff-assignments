@@ -50,7 +50,7 @@
 - Dena Shaw
 - Kyle Surber
 - Shweta Lakshmi
-- Todd Romkema
+- [Romkema, Todd (@Todd-Ro)](https://github.com/Todd-Ro/liftoff-assignments)
 - [Hadler,Geoffrey (@polarysekt)](https://www.github.com/polarysekt/liftoff-assignments)
 - John Ndungu
 - Rey Cabatingan
