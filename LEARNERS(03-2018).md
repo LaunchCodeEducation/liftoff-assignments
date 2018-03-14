@@ -4,8 +4,6 @@
 
 - [Paul Matthews](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Garren, Sebastian (@sebastiangarren)](https://github.com/sebastiangarren/liftoff-assignments)
-- [Faatuono, Rakiyah (@14myclass)](https://github.com/14myclass/liftoff-assignments)
-
 - Danielle Luley
 - Robert Batdorf
 - Shuangyu Zhang
@@ -43,7 +41,7 @@
 - William Krings
 - Tawnya Bailey
 - Timothy Cliffe
-- Rakiyah Faatuono
+- [Faatuono, Rakiyah (@14myclass)](https://github.com/14myclass/liftoff-assignments)
 - Robert Spicer
 - Jared Mudd
 - Dena Shaw
