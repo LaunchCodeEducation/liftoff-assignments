@@ -16,7 +16,7 @@
 - Clayton Graves
 - [Kadingula, Soumya (@soumy1508)](https://github.com/soumy1508/liftoff-assignments)
 - Victoria Klein
-- Joseph Boria
+- [Boria, Joseph (@jboria13)](https://github.com/jboria13/liftoff-assignments)
 - [Ayers, Oliver (@orphanedcouplet)](https://github.com/orphanedcouplet/liftoff-assignments)
 - Kevin Shutt
 - Rama Devi Vanga
