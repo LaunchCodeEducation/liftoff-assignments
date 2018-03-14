@@ -11,7 +11,7 @@
 - Nicole Swanson
 - Suja Radhakrishnan
 - Jake Ulmer
-- Clayton Graves
+- [Graves, Clayton (@clayton-graves)](https://github.com/clayton-graves/liftoff-assignments)
 - Soumya Kadingula
 - Victoria Klein
 - Joseph Boria
