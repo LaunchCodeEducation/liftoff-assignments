@@ -12,6 +12,12 @@ Include overview here
 Include Features here
 ### Technologies
 Include Technologies here
+Java
+Bootstrap
+Spring MVC
+Thymeleaf
+MAMP
 
 ### What I'll Have to Learn
 Include what you will need to learn here
+Use of Encryption Technology to securly store sensitive information, e.g. customer and payment information.
