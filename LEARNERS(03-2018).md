@@ -14,7 +14,7 @@
 - Nicole Swanson
 - [Radhakrishnan, Suja (@sujaramesh)](https://github.com/sujaramesh/liftoff-assignments)
 - [Ulmer, Jake (@jakeulmer2)](https://github.com/jakeulmer2/liftoff-assignments)
-- Clayton Graves
+- [Graves, Clayton (@clayton-graves)](https://github.com/clayton-graves/liftoff-assignments)
 - [Kadingula, Soumya (@soumy1508)](https://github.com/soumy1508/liftoff-assignments)
 - Victoria Klein
 - [Boria, Joseph (@jboria13)](https://github.com/jboria13/liftoff-assignments)
