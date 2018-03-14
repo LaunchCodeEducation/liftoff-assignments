@@ -47,7 +47,7 @@
 - Rakiyah Faatuono
 - Robert Spicer
 - Jared Mudd
-- Dena Shaw
+- [Shaw, Dena (@dls23)](https://github.com/dls23/liftoff-assignments.git)
 - Kyle Surber
 - Shweta Lakshmi
 - Todd Romkema
