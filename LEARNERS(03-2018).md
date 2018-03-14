@@ -5,7 +5,6 @@
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Hawash, Eshe (@ehawash)](https://www.github.com/ehawash/liftoff-assignments)
 
-- [Terry, Tennille (@tennilleterry)](https://www.github.com/tennilleterry/liftoff-assignments)
 - [Garren, Sebastian (@sebastiangarren)](https://github.com/sebastiangarren/liftoff-assignments)
 - [Hougland, Kelly (@KelHougland)](https://github.com/KelHougland/liftoff-assignments)
 - Danielle Luley
@@ -78,4 +77,5 @@
 - Shannon McCoy
 - [Tucker,Jessica (@eleanor09)](https://github.com/eleanor09/liftoff-assignments)
 - Neethu Joseph
+- [Terry, Tennille (@tennilleterry)](https://www.github.com/tennilleterry/liftoff-assignments)
 
