@@ -19,7 +19,7 @@
 - Joseph Boria
 - [Ayers, Oliver (@orphanedcouplet)](https://github.com/orphanedcouplet/liftoff-assignments)
 - Kevin Shutt
-- Rama Devi Vanga
+- [Vanga, Rama (@RamaDeviVanga)](https://github.com/RamaDeviVanga/liftoff-assignments)
 - [Paulsen, William (@bpswim90)](https://www.github.com/bpswim90/liftoff-assignments)
 - Charles Robertson
 - David Cristancho
