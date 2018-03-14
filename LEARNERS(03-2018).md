@@ -11,7 +11,7 @@
 - Robert Batdorf
 - Shuangyu Zhang
 - Nicole Swanson
-- Suja Radhakrishnan
+- Suja Radhakrishnan [Radhakrishnan, Suja (@sujaramesh)](https://github.com/sujaramesh/liftoff-assignments)
 - Jake Ulmer
 - Clayton Graves
 - [Kadingula, Soumya (@soumy1508)](https://github.com/soumy1508/liftoff-assignments)
