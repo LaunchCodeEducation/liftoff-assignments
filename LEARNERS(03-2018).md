@@ -62,13 +62,13 @@
 - Shashwati Ghosh
 - [Roeseler, Faith (@Hraefn)](https://github.com/Hraefn/liftoff-assignments) 
 - Dorian Rozanski
-- [Hurtado, Arturo(@arturo-17)](https://github.com/arturo-17/liftoff-assignments)
+- [Hurtado, Arturoo(@arturo-17)](https://github.com/arturo-17/liftoff-assignments)
 - Sebastian Garren
 - [Gutshall, Jessica (@jeskag)](https://github.com/jeskag/liftoff-assignments) 
 - Eleni Anas
 - Collin Elliott
 - Debjani Das
-- Thomas Ryan
+- Thomas Ryano
 - Emily Reller
 - Kanika Dutta
 - Michelle Trusgnich
