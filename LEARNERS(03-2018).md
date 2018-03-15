@@ -36,7 +36,7 @@
 - Ramya Bellala
 - [Gore, Adrianne (@adriannegore)](https://github.com/adriannegore/liftoff-assignments)
 - Sharndeep Kaur chahal
-- Edward Coward
+- [Coward, Edward (@ecoward)](https://github.com/ecoward/liftoff-assignments)
 - [Easley, Shelby (@shelbypeasley)](https://github.com/shelbypeasley/liftoff-assignments)
 - [Roman, Jacob (@JacobNRoman)](https://github.com/JacobNRoman/liftoff-assignments)
 - [Hanley, Sarah (@numbat77)](https://github.com/NUMBAT77/liftoff-assignments)
