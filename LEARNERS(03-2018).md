@@ -14,7 +14,7 @@
 - Nicole Swanson
 - [Radhakrishnan, Suja (@sujaramesh)](https://github.com/sujaramesh/liftoff-assignments)
 - [Ulmer, Jake (@jakeulmer2)](https://github.com/jakeulmer2/liftoff-assignments)
-- Clayton Graves
+- [Graves, Clayton (@clayton-graves)](https://github.com/clayton-graves/liftoff-assignments)
 - [Kadingula, Soumya (@soumy1508)](https://github.com/soumy1508/liftoff-assignments)
 - Victoria Klein
 - [Boria, Joseph (@jboria13)](https://github.com/jboria13/liftoff-assignments)
@@ -27,7 +27,7 @@
 - [Schobernd, Jonathan (@JSchober93)](https://github.com/JSchober93/liftoff-assignments)
 - [Rahman, Fahim (@fwr882)](https://github.com/fwr882/liftoff-assignments)
 - [OConnor, John (@johno1121)](https://github.com/johno1121/liftoff-assignments)
-- E. Wilson
+- [Wilson, E (@Wilson110)](https://github.com/Wilson110/liftoff-assignments)
 - [Hopkins, Jesse (@JhopStl)](https://www.github.com/JhopStl/liftoff-assignments)
 - [Palmer, Steven (@tenispro1975)](https://github.com/tenispro1975/liftoff-assignments)
 - [Burke, Tara (@minimoose300)](https://github.com/minimoose3000/liftoff-assignments)
@@ -36,7 +36,7 @@
 - Ramya Bellala
 - [Gore, Adrianne (@adriannegore)](https://github.com/adriannegore/liftoff-assignments)
 - Sharndeep Kaur chahal
-- Edward Coward
+- [Coward, Edward (@ecoward)](https://github.com/ecoward/liftoff-assignments)
 - [Easley, Shelby (@shelbypeasley)](https://github.com/shelbypeasley/liftoff-assignments)
 - [Roman, Jacob (@JacobNRoman)](https://github.com/JacobNRoman/liftoff-assignments)
 - [Hanley, Sarah (@numbat77)](https://github.com/NUMBAT77/liftoff-assignments)
