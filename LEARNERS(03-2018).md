@@ -12,10 +12,16 @@
 - [Batdorf, Robert (@rbatdorf)](https://github.com/rbatdorf/liftoff-assignments.git)
 - [Zhang, Shuangyu (@SharonZSY)](https://github.com/SharonZSY/liftoff-assignments)
 - Nicole Swanson
+
+- Suja Radhakrishnan
+- Jake Ulmer
+- [Graves, Clayton (@clayton-graves)](https://github.com/clayton-graves/liftoff-assignments)
+- Soumya Kadingula
 - [Radhakrishnan, Suja (@sujaramesh)](https://github.com/sujaramesh/liftoff-assignments)
 - [Ulmer, Jake (@jakeulmer2)](https://github.com/jakeulmer2/liftoff-assignments)
 - [Graves, Clayton (@clayton-graves)](https://github.com/clayton-graves/liftoff-assignments)
 - [Kadingula, Soumya (@soumy1508)](https://github.com/soumy1508/liftoff-assignments)
+
 - Victoria Klein
 - [Boria, Joseph (@jboria13)](https://github.com/jboria13/liftoff-assignments)
 - [Ayers, Oliver (@orphanedcouplet)](https://github.com/orphanedcouplet/liftoff-assignments)
