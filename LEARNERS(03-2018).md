@@ -54,7 +54,7 @@
 - [Romkema, Todd (@Todd-Ro)](https://github.com/Todd-Ro/liftoff-assignments)
 - [Hadler, Geoffrey (@polarysekt)](https://www.github.com/polarysekt/liftoff-assignments)
 - [Ndungu, John (@jontay005)](https://github.com/Jontay005/liftoff-assignments)
-- Rey Cabatingan
+- [Cabatingan, Rey (@REYCEBU)](https://github.com/REYCEBU/liftoff-assignments)
 - Jordan Fruin
 - Jacinda Santora
 - [Santora, Jacinda (@jacinda79)](https://github.com/jacinda79/liftoff-assignments)
