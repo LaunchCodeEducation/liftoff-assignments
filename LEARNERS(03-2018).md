@@ -8,7 +8,7 @@
 
 - [Garren, Sebastian (@sebastiangarren)](https://github.com/sebastiangarren/liftoff-assignments)
 - [Hougland, Kelly (@KelHougland)](https://github.com/KelHougland/liftoff-assignments)
-- Danielle Luley
+- [Luley, Danielle (@dluley)](https://github.com/dluley/liftoff-assignments)
 - [Batdorf, Robert (@rbatdorf)](https://github.com/rbatdorf/liftoff-assignments.git)
 - [Zhang, Shuangyu (@SharonZSY)](https://github.com/SharonZSY/liftoff-assignments)
 - Nicole Swanson
@@ -54,7 +54,7 @@
 - [Romkema, Todd (@Todd-Ro)](https://github.com/Todd-Ro/liftoff-assignments)
 - [Hadler, Geoffrey (@polarysekt)](https://www.github.com/polarysekt/liftoff-assignments)
 - [Ndungu, John (@jontay005)](https://github.com/Jontay005/liftoff-assignments)
-- Rey Cabatingan
+- [Cabatingan, Rey (@REYCEBU)](https://github.com/REYCEBU/liftoff-assignments)
 - Jordan Fruin
 - Jacinda Santora
 - [Santora, Jacinda (@jacinda79)](https://github.com/jacinda79/liftoff-assignments)
@@ -72,7 +72,7 @@
 - Thomas Ryan
 - [Reller, Emily (@relleremily)](https://github.com/relleremily/liftoff-assignments)
 - Kanika Dutta
-- Michelle Trusgnich
+- [Trusgnich, Michelle (@codergirlminion)](https://github.com/codergirlminion/liftoff-assignments)
 - [Smallwood, Patrick (@000pjs)](https://github.com/000pjs/liftoff-assignments)
 - [Murugan, Indira (@IndiraMur)](https://github.com/IndiraMur/liftoff-assignments.git)
 - Shannon McCoy
