@@ -66,7 +66,7 @@
 - Sebastian Garren
 - [Gutshall, Jessica (@jeskag)](https://github.com/jeskag/liftoff-assignments) 
 - Eleni Anas
-- Collin Elliott
+- [Elliott, Collin (@n1frame)](https://github.com/n1frame/liftoff-assignments) 
 - Debjani Das
 - Thomas Ryan
 - Emily Reller
