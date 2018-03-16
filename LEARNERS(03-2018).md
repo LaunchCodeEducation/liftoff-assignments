@@ -8,8 +8,8 @@
 - [Garren, Sebastian (@sebastiangarren)](https://github.com/sebastiangarren/liftoff-assignments)
 - [Hougland, Kelly (@KelHougland)](https://github.com/KelHougland/liftoff-assignments)
 - [Luley, Danielle (@dluley)](https://github.com/dluley/liftoff-assignments)
-- Robert Batdorf
-- Shuangyu Zhang
+[Batdorf, Robert (@rbatdorf)](https://github.com/rbatdorf/liftoff-assignments.git)
+- [Zhang, Shuangyu (@SharonZSY)](https://github.com/SharonZSY/liftoff-assignments)
 - Nicole Swanson
 - Suja Radhakrishnan
 - Jake Ulmer
