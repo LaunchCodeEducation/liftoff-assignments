@@ -60,7 +60,6 @@
 - [Santora, Jacinda (@jacinda79)](https://github.com/jacinda79/liftoff-assignments)
 - [Gowen, Skye (@skyegowen)](https://github.com/skyegowen/liftoff-assignments)
 - [Powderly, Katherine (@KatherinePowderly)](https://github.com/KatherinePowderly/liftoff-assignments)
-- Shashwati Ghosh
 - [Roeseler, Faith (@Hraefn)](https://github.com/Hraefn/liftoff-assignments) 
 - Dorian Rozanski
 - [Hurtado, Arturo (@arturo-17)](https://github.com/arturo-17/liftoff-assignments)
