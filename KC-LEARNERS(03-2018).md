@@ -16,7 +16,7 @@
 - Justin Durkes
 - Maria Eichman
 - Tashara Ellis
-- Jason Goebel
+- [Goebel, Jason (@JMGoebel)](https://github.com/JMGoebel/liftoff-assignments)
 - silverio gonzalez
 - Macy Graham-Kimbrough
 - Mark Guy
