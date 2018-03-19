@@ -2,7 +2,6 @@
 
 ## Section: Kansas City (March 2018)
 
-example:
 - [Paul Matthews @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
 
 - Hannah Arredondo
