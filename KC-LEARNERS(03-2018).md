@@ -22,7 +22,8 @@
 - Mark Guy
 - Bianca Harrison
 - Monica Hart
-- Joel Healy
+- [Healy, Joel (@joelhealy)](https://github.com/joelhealy/liftoff-assignments)
+
 - Marjie Hensz
 - Gloria Higley
 - Rosangela Hockman
