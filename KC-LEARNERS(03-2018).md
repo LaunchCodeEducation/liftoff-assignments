@@ -3,7 +3,7 @@
 ## Section: Kansas City (March 2018)
 
 - [Paul Matthews @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
-
+[Gonzalez, Silverio (@silveriogonzalezolea)](https://github.com/silveriogonzalezolea/liftoff-assignments)
 - Hannah Arredondo
 - Ikechukwu Arum
 - Brian Burns
@@ -17,7 +17,6 @@
 - Maria Eichman
 - Tashara Ellis
 - Jason Goebel
-- silverio gonzalez
 - Macy Graham-Kimbrough
 - Mark Guy
 - Bianca Harrison
