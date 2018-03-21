@@ -14,7 +14,7 @@
 - Ashleigh Costilow
 - Stone Deal
 - Justin Durkes
-- Maria Eichman
+[Eichman Maria (@shiftma)](https://github.com/shiftma/liftoff-assignments)
 - Tashara Ellis
 - Jason Goebel
 - silverio gonzalez
