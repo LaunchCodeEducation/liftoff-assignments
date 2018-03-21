@@ -42,7 +42,7 @@
 - Matthew Powers
 - Brandon Rasmussen
 - [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
-- sudha saravanan
+- [Saravanan, Sudha @Sudha-Saravanan](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
 - Robert Sewell
 - KJ Sweet
 - Ali Tawakoli
