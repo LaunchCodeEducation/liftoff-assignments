@@ -50,6 +50,6 @@
 - poornima vijayan
 - Ryan Waller
 - Joshua Wilson
-- Elisa Wood
+- [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
 - Albert Young
 
