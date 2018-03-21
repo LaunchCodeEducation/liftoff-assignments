@@ -23,7 +23,7 @@
 - Bianca Harrison
 - Monica Hart
 - Joel Healy
-- Marjie Hensz
+-[Hensz, Marjie (@mhensz)](https://github.com/mhensz/liftoff-assignments)
 - Gloria Higley
 - Rosangela Hockman
 - Lucas Homer
