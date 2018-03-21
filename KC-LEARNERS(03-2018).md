@@ -41,7 +41,7 @@
 - Derek Mumaw
 - Matthew Powers
 - Brandon Rasmussen
-- Jesse Rizzo
+- [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
 - sudha saravanan
 - Robert Sewell
 - KJ Sweet
