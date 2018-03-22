@@ -30,7 +30,7 @@
 ### Kasey's Group
 - Jordan Fruin
 - Shweta Lakshmi
-- Elizabeth Walter
+- [Walter, Elizabeth (@Elizabeth-TheOne)](https://github.com/Elizabeth-TheOne/liftoff-assignments)
 - [Faatuono, Rakiyah (@14myclass)](https://github.com/14myclass/liftoff-assignments)
 - [Joseph, Neethu (@njoseph5)](https://github.com/njoseph5/liftoff-assignments)
 - [Kelley, Jack (@albinoraven)](https://github.com/albinoraven/liftoff-assignments)
