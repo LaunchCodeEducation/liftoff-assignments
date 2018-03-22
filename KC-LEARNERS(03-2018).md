@@ -23,7 +23,7 @@
 - Monica Hart
 - [Healy, Joel (@joelhealy)](https://github.com/joelhealy/liftoff-assignments)
 - [Hensz, Marjie (@mhensz)](https://github.com/mhensz/liftoff-assignments)
-- Gloria Higley
+- [Higley, Gloria (@gloriahigley)](https://github.com/gloriahigley/liftoff-assignments)
 - Rosangela Hockman
 - Lucas Homer
 - Brandy Hulett
