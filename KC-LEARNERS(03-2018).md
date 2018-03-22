@@ -28,7 +28,7 @@
 - Rosangela Hockman
 - Lucas Homer
 - Brandy Hulett
-- Shiquann Jackson
+- [Shiquann jackson @shiquann](https://github.com/shiquann/liftoff-assignments.git)
 - Eric Kemmis
 - Joshua King
 - Shireen Korkzan
