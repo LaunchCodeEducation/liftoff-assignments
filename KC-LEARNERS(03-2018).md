@@ -29,6 +29,7 @@
 - Brandy Hulett
 - [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
 - Eric Kemmis
+- [Kemmis, Eric (@erickemmis)](https://github.com/erickemmis/liftoff-assignments)
 - Joshua King
 - Shireen Korkzan
 - [Kramme, Alicia, (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
@@ -56,3 +57,4 @@
 - [Wilson, Joshua (@joshwilson84)](https://github.com/joshwilson84/liftoff-assignments)
 - [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
 - Albert Young
+
