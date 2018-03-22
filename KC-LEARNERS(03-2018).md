@@ -49,7 +49,7 @@
 - [Tobin, Ali @amtobin](https://www.github.com/amtobin/liftoff-assignments)
 - Stanley Underwood
 - poornima vijayan
-- Elisa Wood
+- [Walker, Katrina (@katrinawalker06)](https://github.com/katrinawalker06/liftoff-assignments)
 - [Waller, Ryan (@rdwaller)](https://github.com/rdwaller/liftoff-assignments)
 - [Weide, Curtis @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
 - [Wilson, Joshua (@joshwilson84)](https://github.com/joshwilson84/liftoff-assignments)
