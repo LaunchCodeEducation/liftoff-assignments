@@ -28,7 +28,6 @@
 - [Homer, Lucas (@lucas-homer)](https://github.com/lucas-homer/liftoff-assignments)
 - Brandy Hulett
 - [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
-- Eric Kemmis
 - [Kemmis, Eric (@erickemmis)](https://github.com/erickemmis/liftoff-assignments)
 - Joshua King
 - Shireen Korkzan
