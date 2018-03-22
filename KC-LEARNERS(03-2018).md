@@ -7,6 +7,10 @@
 - Ikechukwu Arum
 - [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
 - Michael Burt
+
+- 
+-[Jones, Greg(@Greg919617)]
+(https://github.com/Greg919617/liftoff-assignments)
 - Jacob Castanon
 - [Cohle, Rosanna (@rcohle)](https://github.com/rcohle/liftoff-assignments)
 - [Corney, Libbie (@lacgoal)](https://github.com/lacgoal/liftoff-assignments)
