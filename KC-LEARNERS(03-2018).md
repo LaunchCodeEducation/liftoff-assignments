@@ -6,7 +6,7 @@
 - [Thomas, Glynnis (@GT-rc)](https://github.com/GT-rc/liftoff-assignments)
 - Hannah Arredondo
 - Ikechukwu Arum
-- Brian Burns
+- [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
 - Michael Burt
 - Jacob Castanon
 - Rosanna Cohle
