@@ -9,7 +9,7 @@
 - Michael Burt
 - Jacob Castanon
 - Rosanna Cohle
-- Libbie Corney
+- [Corney, Libbie (@lacgoal)](https://github.com/lacgoal/liftoff-assignments)
 - Ashleigh Costilow
 - [Deal, Stone (@StoneDeal)](https://github.com/StoneDeal/liftoff-assignments)
 - Justin Durkes
@@ -39,7 +39,7 @@
 - Andrew McGhie
 - Derek Mumaw
 - Matthew Powers
-- [Rasmussen, Brandon (@brandonrasmussen)](https://github.com/brandonrasmussen/liftoff-assignments) 
+- [Rasmussen, Brandon (@brandonrasmussen)](https://github.com/brandonrasmussen/liftoff-assignments)
 - [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
 - [Saravanan, Sudha @Sudha-Saravanan](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
 - Robert Sewell
