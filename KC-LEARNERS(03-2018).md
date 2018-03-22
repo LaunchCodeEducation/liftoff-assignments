@@ -40,7 +40,7 @@
 - Andrew McGhie
 - Derek Mumaw
 - Matthew Powers
-- [Rasmussen, Brandon (@brandonrasmussen)] (https://github.com/brandonrasmussen/liftoff-assignments) 
+- [Rasmussen, Brandon (@brandonrasmussen)](https://github.com/brandonrasmussen/liftoff-assignments) 
 - Jesse Rizzo
 - sudha saravanan
 - Robert Sewell
