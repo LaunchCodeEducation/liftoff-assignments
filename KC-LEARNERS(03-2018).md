@@ -6,7 +6,7 @@
 
 - Hannah Arredondo
 - Ikechukwu Arum
-- Brian Burns
+- [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
 - Michael Burt
 - Jacob Castanon
 - Rosanna Cohle
