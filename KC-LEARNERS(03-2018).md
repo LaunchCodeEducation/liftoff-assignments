@@ -37,7 +37,7 @@
 - Miguel Luevano
 - Jeremy Maldonado
 - Andrew McGhie
-- Derek Mumaw
+- [Mumaw, Derek (@dmumaw72)](https://github.com/dmumaw72/liftoff-assignments)
 - Matthew Powers
 - [Rasmussen, Brandon (@brandonrasmussen)](https://github.com/brandonrasmussen/liftoff-assignments)
 - [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
