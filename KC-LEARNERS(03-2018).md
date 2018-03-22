@@ -12,7 +12,7 @@
 - Rosanna Cohle
 - Libbie Corney
 - Ashleigh Costilow
-- Stone Deal
+- [Deal, Stone (@StoneDeal)](https://github.com/StoneDeal/liftoff-assignments)
 - Justin Durkes
 - Maria Eichman
 - Tashara Ellis
