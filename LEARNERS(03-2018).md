@@ -2,6 +2,7 @@
 
 ## Section \#3: St. Louis (March 2018)
 
+- [King, Micah(@NinjaTanuki)](https://github.com/NinjaTanuki/liftoff-assignments)
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Hawash, Eshe (@ehawash)](https://www.github.com/ehawash/liftoff-assignments)
 
@@ -30,7 +31,7 @@
 ### Kasey's Group
 - Jordan Fruin
 - Shweta Lakshmi
-- Elizabeth Walter
+- [Walter, Elizabeth (@Elizabeth-TheOne)](https://github.com/Elizabeth-TheOne/liftoff-assignments)
 - [Faatuono, Rakiyah (@14myclass)](https://github.com/14myclass/liftoff-assignments)
 - [Joseph, Neethu (@njoseph5)](https://github.com/njoseph5/liftoff-assignments)
 - [Kelley, Jack (@albinoraven)](https://github.com/albinoraven/liftoff-assignments)
