@@ -32,7 +32,7 @@
 - Eric Kemmis
 - Joshua King
 - Shireen Korkzan
-- Alicia Kramme
+- [Kramme, Alicia, (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
 - Rachel LaNave
 - Anri Liy
 - Miguel Luevano
