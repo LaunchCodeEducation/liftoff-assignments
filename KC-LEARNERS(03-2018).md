@@ -16,7 +16,7 @@
 - Justin Durkes
 - [Eichman Maria (@shiftma)](https://github.com/shiftma/liftoff-assignments)
 - Tashara Ellis
-- Jason Goebel
+- [Goebel, Jason (@JMGoebel)](https://github.com/JMGoebel/liftoff-assignments)
 - [Gonzalez, Silverio (@silveriogonzalezolea)](https://github.com/silveriogonzalezolea/liftoff-assignments)
 - [Graham-Kimbrough, Macy @magi196502](https://github.com/magi196502/liftoff-assignments)
 - Mark Guy
