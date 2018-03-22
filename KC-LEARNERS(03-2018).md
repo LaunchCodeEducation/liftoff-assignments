@@ -44,7 +44,7 @@
 - [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
 - [Saravanan, Sudha @Sudha-Saravanan](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
 - Robert Sewell
-- KJ Sweet
+- [KJ Sweet @sweetk](https://github.com/sweetk/liftoff-assignments)
 - Ali Tawakoli
 - Stanley Underwood
 - poornima vijayan
