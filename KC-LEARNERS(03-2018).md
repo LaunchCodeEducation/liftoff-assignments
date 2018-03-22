@@ -2,37 +2,36 @@
 
 ## Section: Kansas City (March 2018)
 
-- [Paul Matthews @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
-
+- [Matthews, Paul @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
 - Hannah Arredondo
 - Ikechukwu Arum
-- Brian Burns
+- [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
 - Michael Burt
 - Jacob Castanon
 - Rosanna Cohle
 - Libbie Corney
 - Ashleigh Costilow
-- Stone Deal
+- [Deal, Stone (@StoneDeal)](https://github.com/StoneDeal/liftoff-assignments)
 - Justin Durkes
-- Maria Eichman
+- [Eichman, Maria (@shiftma)](https://github.com/shiftma/liftoff-assignments)
 - Tashara Ellis
-- Jason Goebel
-- silverio gonzalez
-- Macy Graham-Kimbrough
+- [Goebel, Jason (@JMGoebel)](https://github.com/JMGoebel/liftoff-assignments)
+- [Gonzalez, Silverio (@silveriogonzalezolea)](https://github.com/silveriogonzalezolea/liftoff-assignments)
+- [Graham-Kimbrough, Macy @magi196502](https://github.com/magi196502/liftoff-assignments)
 - Mark Guy
 - Bianca Harrison
 - Monica Hart
-- Joel Healy
-- Marjie Hensz
-- [Gloria Higley (@gloriahigley)](https://github.com/gloriahigley/liftoff-assignments)
+- [Healy, Joel (@joelhealy)](https://github.com/joelhealy/liftoff-assignments)
+- [Hensz, Marjie (@mhensz)](https://github.com/mhensz/liftoff-assignments)
+- [Higley, Gloria (@gloriahigley)](https://github.com/gloriahigley/liftoff-assignments)
 - Rosangela Hockman
 - Lucas Homer
 - Brandy Hulett
-- Shiquann Jackson
+- [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
 - Eric Kemmis
 - Joshua King
 - Shireen Korkzan
-- Alicia Kramme
+- [Kramme, Alicia, (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
 - Rachel LaNave
 - Anri Liy
 - Miguel Luevano
@@ -40,16 +39,18 @@
 - Andrew McGhie
 - Derek Mumaw
 - Matthew Powers
-- Brandon Rasmussen
-- Jesse Rizzo
-- sudha saravanan
+- [Rasmussen, Brandon (@brandonrasmussen)](https://github.com/brandonrasmussen/liftoff-assignments) 
+- [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
+- [Saravanan, Sudha @Sudha-Saravanan](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
 - Robert Sewell
-- KJ Sweet
+- [Sweet, KJ @sweetk](https://github.com/sweetk/liftoff-assignments)
 - Ali Tawakoli
+- [Thomas, Glynnis (@GT-rc)](https://github.com/GT-rc/liftoff-assignments)
 - Stanley Underwood
 - poornima vijayan
-- Ryan Waller
-- Joshua Wilson
 - Elisa Wood
+- [Waller, Ryan (@rdwaller)](https://github.com/rdwaller/liftoff-assignments)
+- [Weide, Curtis @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
+- [Wilson, Joshua (@joshwilson84)](https://github.com/joshwilson84/liftoff-assignments)
+- [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
 - Albert Young
-
