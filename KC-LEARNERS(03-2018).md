@@ -2,8 +2,7 @@
 
 ## Section: Kansas City (March 2018)
 
-- [Paul Matthews @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
-- [Thomas, Glynnis (@GT-rc)](https://github.com/GT-rc/liftoff-assignments)
+- [Matthews, Paul @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
 - Hannah Arredondo
 - Ikechukwu Arum
 - [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
@@ -14,7 +13,7 @@
 - Ashleigh Costilow
 - [Deal, Stone (@StoneDeal)](https://github.com/StoneDeal/liftoff-assignments)
 - Justin Durkes
-- [Eichman Maria (@shiftma)](https://github.com/shiftma/liftoff-assignments)
+- [Eichman, Maria (@shiftma)](https://github.com/shiftma/liftoff-assignments)
 - Tashara Ellis
 - [Goebel, Jason (@JMGoebel)](https://github.com/JMGoebel/liftoff-assignments)
 - [Gonzalez, Silverio (@silveriogonzalezolea)](https://github.com/silveriogonzalezolea/liftoff-assignments)
@@ -28,7 +27,7 @@
 - Rosangela Hockman
 - Lucas Homer
 - Brandy Hulett
-- [Shiquann jackson @shiquann](https://github.com/shiquann/liftoff-assignments.git)
+- [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
 - Eric Kemmis
 - Joshua King
 - Shireen Korkzan
@@ -44,13 +43,14 @@
 - [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
 - [Saravanan, Sudha @Sudha-Saravanan](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
 - Robert Sewell
-- [KJ Sweet @sweetk](https://github.com/sweetk/liftoff-assignments)
+- [Sweet, KJ @sweetk](https://github.com/sweetk/liftoff-assignments)
 - Ali Tawakoli
+- [Thomas, Glynnis (@GT-rc)](https://github.com/GT-rc/liftoff-assignments)
 - Stanley Underwood
 - poornima vijayan
+- Elisa Wood
 - [Waller, Ryan (@rdwaller)](https://github.com/rdwaller/liftoff-assignments)
-- [Curtis Weide @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
-- Joshua Wilson
+- [Weide, Curtis @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
+- [Wilson, Joshua (@joshwilson84)](https://github.com/joshwilson84/liftoff-assignments)
 - [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
 - Albert Young
-
