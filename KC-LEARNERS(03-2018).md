@@ -3,6 +3,7 @@
 ## Section: Kansas City (March 2018)
 
 - [Paul Matthews @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
+- [Thomas, Glynnis (@GT-rc)](https://github.com/GT-rc/liftoff-assignments)
 
 - Hannah Arredondo
 - Ikechukwu Arum
