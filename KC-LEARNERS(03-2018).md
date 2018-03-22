@@ -18,7 +18,7 @@
 - Tashara Ellis
 - Jason Goebel
 - silverio gonzalez
-- Macy Graham-Kimbrough
+- [Graham-Kimbrough, Macy @magi196502](https://github.com/magi196502/liftoff-assignments)
 - Mark Guy
 - Bianca Harrison
 - Monica Hart
