@@ -25,7 +25,7 @@
 - [Hensz, Marjie (@mhensz)](https://github.com/mhensz/liftoff-assignments)
 - Gloria Higley
 - Rosangela Hockman
-- Lucas Homer
+- [Homer, Lucas (@lucas-homer)](https://github.com/lucas-homer/liftoff-assignments)
 - Brandy Hulett
 - [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
 - Eric Kemmis
