@@ -4,7 +4,6 @@
 
 - [Paul Matthews @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
 - [Thomas, Glynnis (@GT-rc)](https://github.com/GT-rc/liftoff-assignments)
-
 - Hannah Arredondo
 - Ikechukwu Arum
 - Brian Burns
@@ -18,7 +17,7 @@
 - [Eichman Maria (@shiftma)](https://github.com/shiftma/liftoff-assignments)
 - Tashara Ellis
 - Jason Goebel
-- silverio gonzalez
+- [Gonzalez, Silverio (@silveriogonzalezolea)](https://github.com/silveriogonzalezolea/liftoff-assignments)
 - [Graham-Kimbrough, Macy @magi196502](https://github.com/magi196502/liftoff-assignments)
 - Mark Guy
 - Bianca Harrison
