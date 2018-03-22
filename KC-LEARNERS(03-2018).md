@@ -53,4 +53,4 @@
 - Joshua Wilson
 - Elisa Wood
 - Albert Young
-- [Tobin, Ali @amtobin] (https://github.com/amtobin/liftoff=assignments)
+- [Tobin, Ali @amtobin] (https://www.github.com/amtobin/liftoff-assignments)
