@@ -14,7 +14,7 @@
 - [Deal, Stone (@StoneDeal)](https://github.com/StoneDeal/liftoff-assignments)
 - Justin Durkes
 - [Eichman, Maria (@shiftma)](https://github.com/shiftma/liftoff-assignments)
-- Tashara Ellis
+- [Ellis, Tashara (@TasharaEllis)](https://github.com/TasharaEllis/liftoff-assignments)
 - [Goebel, Jason (@JMGoebel)](https://github.com/JMGoebel/liftoff-assignments)
 - [Gonzalez, Silverio (@silveriogonzalezolea)](https://github.com/silveriogonzalezolea/liftoff-assignments)
 - [Graham-Kimbrough, Macy @magi196502](https://github.com/magi196502/liftoff-assignments)
