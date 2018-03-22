@@ -48,7 +48,7 @@
 - Ali Tawakoli
 - Stanley Underwood
 - poornima vijayan
-- Ryan Waller
+- [Waller, Ryan (@rdwaller)](https://github.com/rdwaller/liftoff-assignments)
 - [Curtis Weide @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
 - Joshua Wilson
 - [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
