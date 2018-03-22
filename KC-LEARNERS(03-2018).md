@@ -22,8 +22,8 @@
 - Mark Guy
 - Bianca Harrison
 - Monica Hart
-- Joel Healy
--[Hensz, Marjie (@mhensz)](https://github.com/mhensz/liftoff-assignments)
+- [Healy, Joel (@joelhealy)](https://github.com/joelhealy/liftoff-assignments)
+- [Hensz, Marjie (@mhensz)](https://github.com/mhensz/liftoff-assignments)
 - Gloria Higley
 - Rosangela Hockman
 - Lucas Homer
