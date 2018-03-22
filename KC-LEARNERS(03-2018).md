@@ -52,4 +52,5 @@
 - Joshua Wilson
 - Elisa Wood
 - Albert Young
+[Walker, Katrina (@katrinawalker06)](https://github.com/katrinawalker06/liftoff-assignments)
 
