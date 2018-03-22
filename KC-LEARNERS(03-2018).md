@@ -8,7 +8,7 @@
 - [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
 - Michael Burt
 - Jacob Castanon
-- Rosanna Cohle
+- [Cohle, Rosanna (@rcohle)](https://github.com/rcohle/liftoff-assignments)
 - [Corney, Libbie (@lacgoal)](https://github.com/lacgoal/liftoff-assignments)
 - Ashleigh Costilow
 - [Deal, Stone (@StoneDeal)](https://github.com/StoneDeal/liftoff-assignments)
