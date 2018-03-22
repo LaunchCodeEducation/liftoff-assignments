@@ -34,7 +34,7 @@
 - Shireen Korkzan
 - Alicia Kramme
 - Rachel LaNave
-- Anri Liy
+- [Anri Liy @Oceanblue713](https://github.com/Oceanblue713/liftoff-assignments)
 - Miguel Luevano
 - Jeremy Maldonado
 - Andrew McGhie
