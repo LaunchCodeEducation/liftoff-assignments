@@ -20,7 +20,7 @@
 - [Graham-Kimbrough, Macy @magi196502](https://github.com/magi196502/liftoff-assignments)
 - Mark Guy
 - Bianca Harrison
-- Monica Hart
+- [Hart, Monica (@Mhart12)](https://github.com/Mhart12/liftoff-assignments)
 - [Healy, Joel (@joelhealy)](https://github.com/joelhealy/liftoff-assignments)
 - [Hensz, Marjie (@mhensz)](https://github.com/mhensz/liftoff-assignments)
 - [Higley, Gloria (@gloriahigley)](https://github.com/gloriahigley/liftoff-assignments)
