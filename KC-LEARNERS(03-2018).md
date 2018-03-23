@@ -47,7 +47,7 @@
 - KJ Sweet
 - Ali Tawakoli
 - Stanley Underwood
-- poornima vijayan
+- [poornima vijayan @macronie](https://github.com/macronie/liftoff-assignments)
 - Ryan Waller
 - Joshua Wilson
 - Elisa Wood
