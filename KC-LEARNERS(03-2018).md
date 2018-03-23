@@ -2,6 +2,8 @@
 
 ## Section: Kansas City (March 2018)
 
+Greg Jones
+-[Jones,Greg @greg919617(https://github.com/Greg919617/liftoff-assignments)
 - [Matthews, Paul @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
 - Hannah Arredondo
 - Ikechukwu Arum
