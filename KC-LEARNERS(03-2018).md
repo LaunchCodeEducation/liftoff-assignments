@@ -39,7 +39,7 @@
 - Jeremy Maldonado
 - Andrew McGhie
 - Derek Mumaw
-- Matthew Powers
+- [Powers, Matthew @MatthewPowers](https://github.com/MatthewPowers/liftoff-assignments)
 - Brandon Rasmussen
 - [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
 - sudha saravanan
