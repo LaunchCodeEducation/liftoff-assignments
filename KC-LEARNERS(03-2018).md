@@ -18,7 +18,7 @@
 - [Goebel, Jason (@JMGoebel)](https://github.com/JMGoebel/liftoff-assignments)
 - [Gonzalez, Silverio (@silveriogonzalezolea)](https://github.com/silveriogonzalezolea/liftoff-assignments)
 - [Graham-Kimbrough, Macy @magi196502](https://github.com/magi196502/liftoff-assignments)
-- Mark Guy
+- [Guy, Mark (@mlg012784)](https://github.com/mlg012784/liftoff-assignments)
 - Bianca Harrison
 - Monica Hart
 - [Healy, Joel (@joelhealy)](https://github.com/joelhealy/liftoff-assignments)
