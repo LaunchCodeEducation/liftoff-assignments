@@ -56,4 +56,4 @@
 - [Wilson, Joshua (@joshwilson84)](https://github.com/joshwilson84/liftoff-assignments)
 - [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
 - Albert Young
-- [Schuele, Patrick]
+- Schuele, Patrick
