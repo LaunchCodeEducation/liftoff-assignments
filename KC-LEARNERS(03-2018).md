@@ -34,7 +34,7 @@
 - [Kramme, Alicia, (@aliciammk)][16]
 - Rachel LaNave
 - [Liy, Anri (@Oceanblue713)][17]
-- [Miguel Luevano (@mluevano) ][18]
+- [Miguel Luevano (@mluevano83) ][18]
 - Jeremy Maldonado
 - Andrew McGhie
 - [Mumaw, Derek (@dmumaw72)][19]
