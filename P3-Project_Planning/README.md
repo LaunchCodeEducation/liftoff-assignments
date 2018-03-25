@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- [User Registration](liftoff-assignments/P3-Project_Planning/images/UserRegistration.jpg)
-- [Find Flights](liftoff-assignments/P3-Project_Planning/images/FindFlights.jpg)
-- [Confirm Flight Reservation](liftoff-assignments/P3-Project_Planning/images/ConfirmFlightReservation.jpg)
+- User Registration ![image](liftoff-assignments/P3-Project_Planning/images/UserRegistration.jpg)
+- Find Flights ![image](liftoff-assignments/P3-Project_Planning/images/FindFlights.jpg)
+- Confirm Flight Reservation ![image](liftoff-assignments/P3-Project_Planning/images/ConfirmFlightReservation.jpg)
 
 ### Project Tracker
 
