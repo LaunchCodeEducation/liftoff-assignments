@@ -6,7 +6,7 @@
 - Hannah Arredondo
 - Ikechukwu Arum
 - [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
-- Michael Burt
+- [Burt, Michael (@myburt)](https://github.com/myburt/liftoff-assignments)
 - Jacob Castanon
 - [Cohle, Rosanna (@rcohle)](https://github.com/rcohle/liftoff-assignments)
 - [Corney, Libbie (@lacgoal)](https://github.com/lacgoal/liftoff-assignments)
@@ -29,7 +29,7 @@
 - Brandy Hulett
 - [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
 - [Jones,Greg @greg919617](https://github.com/Greg919617/liftoff-assignments)
-- Eric Kemmis
+- [Kemmis, Eric (@erickemmis)](https://github.com/erickemmis/liftoff-assignments)
 - Joshua King
 - Shireen Korkzan
 - [Kramme, Alicia, (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
@@ -57,3 +57,4 @@
 - [Wilson, Joshua (@joshwilson84)](https://github.com/joshwilson84/liftoff-assignments)
 - [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
 - Albert Young
+
