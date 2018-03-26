@@ -7,7 +7,7 @@
 - Ikechukwu Arum
 - [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
 - [Burt, Michael (@myburt)](https://github.com/myburt/liftoff-assignments)
-- Jacob Castanon
+- [Castanon, Jacob (@jacastanon01)](https://github.com/jacastanon01/liftoff-assignments)
 - [Cohle, Rosanna (@rcohle)](https://github.com/rcohle/liftoff-assignments)
 - [Corney, Libbie (@lacgoal)](https://github.com/lacgoal/liftoff-assignments)
 - Ashleigh Costilow
