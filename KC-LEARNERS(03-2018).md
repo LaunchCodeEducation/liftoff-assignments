@@ -12,7 +12,7 @@
 - [Corney, Libbie (@lacgoal)](https://github.com/lacgoal/liftoff-assignments)
 - Ashleigh Costilow
 - [Deal, Stone (@StoneDeal)](https://github.com/StoneDeal/liftoff-assignments)
-- Justin Durkes
+- [Durkes, Justin (@durkes)](https://github.com/durkes/liftoff-assignments)
 - [Eichman, Maria (@shiftma)](https://github.com/shiftma/liftoff-assignments)
 - [Ellis, Tashara (@TasharaEllis)](https://github.com/TasharaEllis/liftoff-assignments)
 - [Goebel, Jason (@JMGoebel)](https://github.com/JMGoebel/liftoff-assignments)
