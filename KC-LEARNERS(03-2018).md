@@ -50,7 +50,7 @@
 - [Thomas, Glynnis (@GT-rc)](https://github.com/GT-rc/liftoff-assignments)
 - [Tobin, Ali @amtobin](https://www.github.com/amtobin/liftoff-assignments)
 - Stanley Underwood
-- poornima vijayan
+- [Vijayan, Poornima @macronie](https://github.com/macronie/liftoff-assignments)
 - [Walker, Katrina (@katrinawalker06)](https://github.com/katrinawalker06/liftoff-assignments)
 - [Waller, Ryan (@rdwaller)](https://github.com/rdwaller/liftoff-assignments)
 - [Weide, Curtis @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
