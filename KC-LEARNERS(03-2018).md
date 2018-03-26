@@ -2,8 +2,6 @@
 
 ## Section: Kansas City (March 2018)
 
-Greg Jones
--[Jones,Greg @greg919617(https://github.com/Greg919617/liftoff-assignments)
 - [Matthews, Paul @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
 - Hannah Arredondo
 - Ikechukwu Arum
@@ -30,6 +28,7 @@ Greg Jones
 - [Homer, Lucas (@lucas-homer)](https://github.com/lucas-homer/liftoff-assignments)
 - Brandy Hulett
 - [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
+- [Jones,Greg @greg919617](https://github.com/Greg919617/liftoff-assignments)
 - Eric Kemmis
 - Joshua King
 - Shireen Korkzan
