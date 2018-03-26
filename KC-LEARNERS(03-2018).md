@@ -43,6 +43,7 @@
 - [Rasmussen, Brandon (@brandonrasmussen)](https://github.com/brandonrasmussen/liftoff-assignments)
 - [Rizzo, Jesse (@jesserizzo)](https://github.com/jesserizzo/liftoff-assignments)
 - [Saravanan, Sudha (@Sudha-Saravanan)](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
+- [Schuele, Patrick (@Pschuele17)](https://github.com/PSchuele17/liftoff-assignments)
 - [Sewell, Robert (@sasquatch7261)](https://github.com/sasquatch7261/liftoff-assignments)
 - [Sweet, KJ (@sweetk)](https://github.com/sweetk/liftoff-assignments)
 - Ali Tawakoli
@@ -55,4 +56,3 @@
 - [Weide, Curtis @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
 - [Wilson, Joshua (@joshwilson84)](https://github.com/joshwilson84/liftoff-assignments)
 - [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
-
