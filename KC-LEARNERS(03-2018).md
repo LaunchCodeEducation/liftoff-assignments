@@ -2,7 +2,7 @@
 
 ## Section: Kansas City (March 2018)
 
-- [Matthews, Paul @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
+- [Matthews, Paul (@pdmxdd)](https://github.com/pdmxdd/liftoff-assignments)
 - Hannah Arredondo
 - Ikechukwu Arum
 - [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
@@ -17,9 +17,8 @@
 - [Ellis, Tashara (@TasharaEllis)](https://github.com/TasharaEllis/liftoff-assignments)
 - [Goebel, Jason (@JMGoebel)](https://github.com/JMGoebel/liftoff-assignments)
 - [Gonzalez, Silverio (@silveriogonzalezolea)](https://github.com/silveriogonzalezolea/liftoff-assignments)
-- [Graham-Kimbrough, Macy @magi196502](https://github.com/magi196502/liftoff-assignments)
+- [Graham-Kimbrough, Macy (@magi196502)](https://github.com/magi196502/liftoff-assignments)
 - [Guy, Mark (@mlg012784)](https://github.com/mlg012784/liftoff-assignments)
-- Bianca Harrison
 - [Hart, Monica (@Mhart12)](https://github.com/Mhart12/liftoff-assignments)
 - [Healy, Joel (@joelhealy)](https://github.com/joelhealy/liftoff-assignments)
 - [Hensz, Marjie (@mhensz)](https://github.com/mhensz/liftoff-assignments)
@@ -27,12 +26,12 @@
 - Rosangela Hockman
 - [Homer, Lucas (@lucas-homer)](https://github.com/lucas-homer/liftoff-assignments)
 - Brandy Hulett
-- [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
-- [Jones,Greg @greg919617](https://github.com/Greg919617/liftoff-assignments)
+- [Jackson, Shiquann (@shiquann)](https://github.com/shiquann/liftoff-assignments.git)
+- [Jones,Greg (@greg919617)](https://github.com/Greg919617/liftoff-assignments)
 - [Kemmis, Eric (@erickemmis)](https://github.com/erickemmis/liftoff-assignments)
 - Joshua King
 - Shireen Korkzan
-- [Kramme, Alicia, (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
+- [Kramme, Alicia (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
 - Rachel LaNave
 - [Liy, Anri (@Oceanblue713)](https://github.com/Oceanblue713/liftoff-assignments)
 - Miguel Luevano
@@ -42,19 +41,18 @@
 - [Pearman, Jonathan (@JPearman1019)](https://github.com/JPearman1019/liftoff-assignments)
 - Matthew Powers
 - [Rasmussen, Brandon (@brandonrasmussen)](https://github.com/brandonrasmussen/liftoff-assignments)
-- [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
-- [Saravanan, Sudha @Sudha-Saravanan](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
+- [Rizzo, Jesse (@jesserizzo)](https://github.com/jesserizzo/liftoff-assignments)
+- [Saravanan, Sudha (@Sudha-Saravanan)](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
 - Robert Sewell
-- [Sweet, KJ @sweetk](https://github.com/sweetk/liftoff-assignments)
+- [Sweet, KJ (@sweetk)](https://github.com/sweetk/liftoff-assignments)
 - Ali Tawakoli
 - [Thomas, Glynnis (@GT-rc)](https://github.com/GT-rc/liftoff-assignments)
-- [Tobin, Ali @amtobin](https://www.github.com/amtobin/liftoff-assignments)
+- [Tobin, Ali (@amtobin)](https://www.github.com/amtobin/liftoff-assignments)
 - Stanley Underwood
-- [Vijayan, Poornima @macronie](https://github.com/macronie/liftoff-assignments)
+- [Vijayan, Poornima (@macronie)](https://github.com/macronie/liftoff-assignments)
 - [Walker, Katrina (@katrinawalker06)](https://github.com/katrinawalker06/liftoff-assignments)
 - [Waller, Ryan (@rdwaller)](https://github.com/rdwaller/liftoff-assignments)
 - [Weide, Curtis @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
 - [Wilson, Joshua (@joshwilson84)](https://github.com/joshwilson84/liftoff-assignments)
 - [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
-- Albert Young
 
