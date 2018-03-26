@@ -43,7 +43,7 @@
 - [Rasmussen, Brandon (@brandonrasmussen)](https://github.com/brandonrasmussen/liftoff-assignments)
 - [Rizzo, Jesse (@jesserizzo)](https://github.com/jesserizzo/liftoff-assignments)
 - [Saravanan, Sudha (@Sudha-Saravanan)](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
-- Robert Sewell
+- [Sewell, Robert (@sasquatch7261)](https://github.com/sasquatch7261/liftoff-assignments)
 - [Sweet, KJ (@sweetk)](https://github.com/sweetk/liftoff-assignments)
 - Ali Tawakoli
 - [Thomas, Glynnis (@GT-rc)](https://github.com/GT-rc/liftoff-assignments)
