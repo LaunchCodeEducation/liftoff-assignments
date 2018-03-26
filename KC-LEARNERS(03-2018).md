@@ -10,7 +10,7 @@
 - [Castanon, Jacob (@jacastanon01)](https://github.com/jacastanon01/liftoff-assignments)
 - [Cohle, Rosanna (@rcohle)](https://github.com/rcohle/liftoff-assignments)
 - [Corney, Libbie (@lacgoal)](https://github.com/lacgoal/liftoff-assignments)
-- Ashleigh Costilow
+- [Costilow, Ashleigh(@terpsycho)](https://github.com/terpsycho/liftoff-assignments)
 - [Deal, Stone (@StoneDeal)](https://github.com/StoneDeal/liftoff-assignments)
 - [Durkes, Justin (@durkes)](https://github.com/durkes/liftoff-assignments)
 - [Eichman, Maria (@shiftma)](https://github.com/shiftma/liftoff-assignments)
