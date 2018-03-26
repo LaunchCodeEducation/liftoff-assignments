@@ -30,9 +30,10 @@
 - [Jones,Greg (@greg919617)](https://github.com/Greg919617/liftoff-assignments)
 - [Kemmis, Eric (@erickemmis)](https://github.com/erickemmis/liftoff-assignments)
 - Joshua King
+- Micah King
 - Shireen Korkzan
 - [Kramme, Alicia (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
-- Rachel LaNave
+- Timothy Landwehr
 - [Liy, Anri (@Oceanblue713)](https://github.com/Oceanblue713/liftoff-assignments)
 - Miguel Luevano
 - Jeremy Maldonado
