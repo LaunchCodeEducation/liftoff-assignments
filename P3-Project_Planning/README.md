@@ -7,8 +7,13 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-[User Registration] (https://github.com/RamaDeviVanga/liftoff-assignments/blob/master/P3-Project_Planning/images/ConfirmFlightReservation.jpg)
+#### Screen1
+[User Registration](https://github.com/RamaDeviVanga/liftoff-assignments/blob/master/P3-Project_Planning/images/ConfirmFlightReservation.jpg)
+
+#### Screen2
 [Find Flights](https://github.com/RamaDeviVanga/liftoff-assignments/blob/master/P3-Project_Planning/images/FindFlights.jpg)
+
+####Screen3
 [Confirm Flight Reservation](https://github.com/RamaDeviVanga/liftoff-assignments/blob/master/P3-Project_Planning/images/UserRegistration.jpg)
 
 ### Project Tracker
