@@ -77,4 +77,4 @@
 - Shannon McCoy
 - [Tucker,Jessica (@eleanor09)](https://github.com/eleanor09/liftoff-assignments)
 - Neethu Joseph
-
+- [Raole, Sonali (@sonaliraole)](https://github.com/sonaliraole/liftoff-assignments)
