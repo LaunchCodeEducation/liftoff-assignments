@@ -2,7 +2,6 @@
 
 ## Section: Kansas City (March 2018)
 
-- [King, Micah(@NinjaTanuki)](https://github.com/NinjaTanuki/liftoff-assignments)
 - [Matthews, Paul @pdmxdd](https://github.com/pdmxdd/liftoff-assignments)
 - Hannah Arredondo
 - Ikechukwu Arum
@@ -31,6 +30,7 @@
 - [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
 - Eric Kemmis
 - Joshua King
+- [King, Micah(@NinjaTanuki)](https://github.com/NinjaTanuki/liftoff-assignments)
 - Shireen Korkzan
 - [Kramme, Alicia, (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
 - Rachel LaNave
