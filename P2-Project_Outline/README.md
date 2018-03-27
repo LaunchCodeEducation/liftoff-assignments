@@ -31,6 +31,6 @@ Can monitor the reading progress using a messaging system or by asking random qu
  5. API
 
 ### What I'll Have to Learn
- 1. React JS
+ 1. React JavaScript
  2. C#
  3. API
