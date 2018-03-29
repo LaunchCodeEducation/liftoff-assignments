@@ -29,7 +29,7 @@
 - Brandy Hulett
 - [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
 - Eric Kemmis
-- Joshua King
+- [King, Joshua (@KingIsTheMaster)](https://github.com/@KingIsTheMaster/liftoff-assignments)
 - Shireen Korkzan
 - [Kramme, Alicia, (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
 - Rachel LaNave
