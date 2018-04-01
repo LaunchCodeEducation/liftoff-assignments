@@ -12,18 +12,18 @@
 - Rosanna Cohle
 - Libbie Corney
 - Ashleigh Costilow
-- Stone Deal
+- [Deal, Stone (@StoneDeal)](https://github.com/StoneDeal/liftoff-assignments)
 - Justin Durkes
 - Maria Eichman
 - Tashara Ellis
 - Jason Goebel
 - silverio gonzalez
-- Macy Graham-Kimbrough
+- [Graham-Kimbrough, Macy @magi196502](https://github.com/magi196502/liftoff-assignments)
 - Mark Guy
 - Bianca Harrison
 - Monica Hart
 - Joel Healy
-- Marjie Hensz
+-[Hensz, Marjie (@mhensz)](https://github.com/mhensz/liftoff-assignments)
 - Gloria Higley
 - Rosangela Hockman
 - Lucas Homer
@@ -40,15 +40,16 @@
 - Andrew McGhie
 - Derek Mumaw
 - Matthew Powers
-- [Rasmussen, Brandon (@brandonrasmussen)] (https://github.com/brandonrasmussen/liftoff-assignments) 
-- Jesse Rizzo
-- sudha saravanan
+- [Rasmussen, Brandon (@brandonrasmussen)](https://github.com/brandonrasmussen/liftoff-assignments) 
+- [Rizzo, Jesse @jesserizzo](https://github.com/jesserizzo/liftoff-assignments)
+- [Saravanan, Sudha @Sudha-Saravanan](https://github.com/Sudha-Saravanan/liftoff-assignments.git)
 - Robert Sewell
 - KJ Sweet
 - Ali Tawakoli
 - Stanley Underwood
 - poornima vijayan
 - Ryan Waller
+- [Curtis Weide @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
 - Joshua Wilson
 - Elisa Wood
 - Albert Young
