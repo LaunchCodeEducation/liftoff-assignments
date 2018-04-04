@@ -7,11 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+OPS agility is an effective response to Operations, drawing all stakeholders at one place & control operational services under single umbrella. It gives rapid, incremental delivery of support services, business analytics, and 3 level business metrics.
+
 ### Features
-Include Features here
+This platform is an evolution creates an organic relationship between business and IT “territories”, gradually effacing the infamous “silos”
+	User Login: - Users will be able to create accounts and log in to the            application. 
+	OneStop DashBoard: - It will help to visualize detailed highlevel information under one roof. 
+	Health Check Statistics: - Provide tickets level information to operational team.
+
 ### Technologies
-Include Technologies here
+	C#
+	HTML/CSS
+	MS Access
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+This project will help to understand web technology interfacing with data base component customizable graphs and real time java script.
