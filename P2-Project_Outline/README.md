@@ -5,7 +5,7 @@ Recently I visited the Nelson and went to the exhibit "Through the eyes of Picas
 
 ### Features
 * User login and authentication
-* manage Art gallery to Gallery
+* manage art gallery
 * tag my gallery pieces
 * art search
 * track most popular Art
