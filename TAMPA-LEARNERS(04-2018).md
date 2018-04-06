@@ -29,7 +29,7 @@
 - [Cobb, Tatyanna]()
 - [Kenyon, Dylan]()
 - [stoykovich, mihailo]()
-- [Gray, Adam]()
+- [Gray, Adam (@adambgray)](https://github.com/adambgray/liftoff-assignments)
 - [Orozco Cabrera, Luis Humberto Orozco Cabrera]()
 - [Davis, Diana]()
 - [Austin, Sharon]()
