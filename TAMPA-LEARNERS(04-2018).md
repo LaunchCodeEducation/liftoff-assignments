@@ -41,7 +41,7 @@
 - [Jagannathan, Karla]()
 - [Tran, Victor]()
 - [Lai, Max]()
-- [SHAFFER, MARIANNE(@mdshaffer8)](https://github.com/mdshaffer8/liftoff-assignments)
+- [SHAFFER, MARIANNE (@mdshaffer8)](https://github.com/mdshaffer8/liftoff-assignments)
 - [Rieger, Kyla]()
 - [Ennis, Gulcin]()
 - [Kraul, Kristofer]()
