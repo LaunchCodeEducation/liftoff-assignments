@@ -30,7 +30,7 @@
 - [Jones,Greg (@greg919617)](https://github.com/Greg919617/liftoff-assignments)
 - [Kemmis, Eric (@erickemmis)](https://github.com/erickemmis/liftoff-assignments)
 - [King, Joshua (@KingIsTheMaster)](https://github.com/@KingIsTheMaster/liftoff-assignments)
-- Micah King
+- [King, Micah(@NinjaTanuki)](https://github.com/NinjaTanuki/liftoff-assignments)
 - Shireen Korkzan
 - [Kramme, Alicia (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
 - Timothy Landwehr
