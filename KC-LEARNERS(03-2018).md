@@ -37,7 +37,7 @@
 - [Liy, Anri (@Oceanblue713)](https://github.com/Oceanblue713/liftoff-assignments)
 - Miguel Luevano
 - Jeremy Maldonado
-- Andrew McGhie
+- [McGhie, Andrew (@3manr3su)](https://github.com/3manr3su/liftoff-assignments.git)
 - [Mumaw, Derek (@dmumaw72)](https://github.com/dmumaw72/liftoff-assignments)
 - [Pearman, Jonathan (@JPearman1019)](https://github.com/JPearman1019/liftoff-assignments)
 - Matthew Powers
