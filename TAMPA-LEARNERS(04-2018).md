@@ -26,7 +26,7 @@
 - [Kiley, Margaret]()
 - [Sironen, Daniel]()
 - [Riggle, Terri]()
-- [Cobb, Tatyanna]()
+- [Cobb, Tatyanna (@TatyCat)](https://github.com/TatyCat/liftoff-assignments)
 - [Kenyon, Dylan]()
 - [stoykovich, mihailo]()
 - [Gray, Adam]()
