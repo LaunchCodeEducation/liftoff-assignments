@@ -29,7 +29,7 @@
 - [Jackson, Shiquann (@shiquann)](https://github.com/shiquann/liftoff-assignments.git)
 - [Jones,Greg (@greg919617)](https://github.com/Greg919617/liftoff-assignments)
 - [Kemmis, Eric (@erickemmis)](https://github.com/erickemmis/liftoff-assignments)
-- Joshua King
+- [King, Joshua (@KingIsTheMaster)](https://github.com/@KingIsTheMaster/liftoff-assignments)
 - Micah King
 - Shireen Korkzan
 - [Kramme, Alicia (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
