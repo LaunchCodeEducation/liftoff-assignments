@@ -39,7 +39,7 @@
 - [Zhang, Yi]()
 - [Cook, James]()
 - [Jagannathan, Karla]()
-- [Tran, Victor]()
+- [Tran, Victor (@iVictor-Git)](https://github.com/ivictor-git/liftoff-assignments)
 - [Lai, Max]()
 - [SHAFFER, MARIANNE]()
 - [Rieger, Kyla]()
