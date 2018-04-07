@@ -25,7 +25,7 @@
 - [Higley, Gloria (@gloriahigley)](https://github.com/gloriahigley/liftoff-assignments)
 - [Hockman, Rosangela (@Rolly-Polly)](https://github.com/Rolly-Polly/liftoff-assignments)
 - [Homer, Lucas (@lucas-homer)](https://github.com/lucas-homer/liftoff-assignments)
-- Brandy Hulett
+- [Hulett, Brandy (@brandycodes)](https://github.com/brandycodes/liftoff-assignments)
 - [Jackson, Shiquann (@shiquann)](https://github.com/shiquann/liftoff-assignments.git)
 - [Jones,Greg (@greg919617)](https://github.com/Greg919617/liftoff-assignments)
 - [Kemmis, Eric (@erickemmis)](https://github.com/erickemmis/liftoff-assignments)
