@@ -4,7 +4,7 @@
 
 - [Matthews, Paul (@pdmxdd)](https://github.com/pdmxdd/liftoff-assignments)
 - Hannah Arredondo
-- Ikechukwu Arum
+- [Arum, Ikechukwu (@IkeAndLogic)](https://github.com/IkeAndLogic/liftoff-assignments)
 - [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
 - [Burt, Michael (@myburt)](https://github.com/myburt/liftoff-assignments)
 - [Castanon, Jacob (@jacastanon01)](https://github.com/jacastanon01/liftoff-assignments)
