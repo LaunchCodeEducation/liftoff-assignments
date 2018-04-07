@@ -48,3 +48,4 @@
 - [Corrao, Paul]()
 - [Alvarez, Raimir]()
 - [McFarquhar, Colin]()
+- [Halliburton, Katherine @katherineionehalliburton](https://github.com/katherineionehalliburton/liftoff-assignments)
