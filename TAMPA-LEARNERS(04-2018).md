@@ -36,7 +36,7 @@
 - [Joseph, Adelia]()
 - [Do, Phuloc]()
 - [Thompson, Birtchum]()
-- [Zhang, Yi]()
+- [Zhang, Yi @lacitrus](https://github.com/lacitrus/liftoff-assignments)
 - [Cook, James]()
 - [Jagannathan, Karla]()
 - [Tran, Victor]()
