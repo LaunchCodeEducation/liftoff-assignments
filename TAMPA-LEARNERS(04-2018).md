@@ -10,7 +10,7 @@
 - [Mattingly, Michael]()
 - [Desai, Jigish]()
 - [Warden, Brian]()
-- [Entrot, Lekecia]()
+- [Entrot, Lekecia @GurlFriday88](https://github.com/GurlFriday88/liftoff-assignments.git)
 - [McClusky, Jordan]()
 - [PATEL, RAJESH]()
 - [Hegeman, Eric]()
