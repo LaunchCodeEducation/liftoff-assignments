@@ -40,7 +40,7 @@
 - [Cook, James]()
 - [Jagannathan, Karla]()
 - [Tran, Victor]()
-- [Lai, Max]()
+- [Lai, Max (@mxlai)](https://github.com/mxlai/liftoff-assignments)
 - [SHAFFER, MARIANNE]()
 - [Rieger, Kyla]()
 - [Ennis, Gulcin]()
