@@ -14,7 +14,7 @@
 - [McClusky, Jordan]()
 - [PATEL, RAJESH]()
 - [Hegeman, Eric]()
-- [Le, Khoi](https://github.com/Khoi938/liftoff-assignments)
+- [Le, Khoi @khoi938](https://github.com/Khoi938/liftoff-assignments)
 - [Greene, Kevin]()
 - [Cabric, Zlatko]()
 - [Mann, Gregg]()
