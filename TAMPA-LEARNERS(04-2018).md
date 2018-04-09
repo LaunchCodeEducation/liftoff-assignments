@@ -16,7 +16,7 @@
 - [Hegeman, Eric]()
 - [Le, Khoi]()
 - [Greene, Kevin]()
-- [Cabric, Zlatko]()
+- [Cabric, Zlatko @cabricz](https://github.com/cabricz/liftoff-assignments)
 - [Mann, Gregg]()
 - [Peterson, Eric]()
 - [Ivanov, German]()
