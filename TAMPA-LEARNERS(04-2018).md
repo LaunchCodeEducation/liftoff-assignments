@@ -45,6 +45,6 @@
 - [Rieger, Kyla]()
 - [Ennis, Gulcin]()
 - [Kraul, Kristofer]()
-- [Corrao, Paul](@PaulC2017)(https://github.com/PaulC2017/liftoff-assignments.git)
+- [Corrao, Paul]()
 - [Alvarez, Raimir]()
 - [McFarquhar, Colin]()
