@@ -37,7 +37,7 @@
 - [Do, Phuloc]()
 - [Thompson, Birtchum]()
 - [Zhang, Yi]()
-- [Cook, James]()
+- [Cook, James @JamesCook75](https://github.com/JamesCook75/liftoff-assignments)
 - [Jagannathan, Karla]()
 - [Tran, Victor]()
 - [Lai, Max]()
