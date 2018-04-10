@@ -48,3 +48,4 @@
 - [Corrao, Paul]()
 - [Alvarez, Raimir]()
 - [McFarquhar, Colin]()
+- [Kraul, Kristofer (@kraulk)](https://github.com/kraulk/liftoff-assignments)
