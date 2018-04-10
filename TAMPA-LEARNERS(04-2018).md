@@ -44,7 +44,7 @@
 - [SHAFFER, MARIANNE]()
 - [Rieger, Kyla]()
 - [Ennis, Gulcin]()
-- [Kraul, Kristofer]()
+- [Kraul, Kristofer (@kraulk)](https://github.com/kraulk/liftoff-assignments)
 - [Corrao, Paul]()
 - [Alvarez, Raimir]()
 - [McFarquhar, Colin]()
