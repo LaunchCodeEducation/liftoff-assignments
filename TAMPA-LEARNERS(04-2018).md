@@ -9,7 +9,7 @@
 
 - [Mattingly, Michael]()
 - [Desai, Jigish]()
-- [Warden, Brian]()
+- [Warden, Brian @vonflue](https://github.com/vonflue/liftoff-assignments)
 - [Entrot, Lekecia]()
 - [McClusky, Jordan]()
 - [PATEL, RAJESH]()
