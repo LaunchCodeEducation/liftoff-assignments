@@ -11,7 +11,7 @@
 - [Desai, Jigish]()
 - [Warden, Brian]()
 - [Entrot, Lekecia]()
-- [McClusky, Jordan]()
+- [McClusky, Jordan @jmlc101](https://github.com/jmlc101/liftoff-assignments)
 - [PATEL, RAJESH]()
 - [Hegeman, Eric]()
 - [Le, Khoi]()
