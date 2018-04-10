@@ -1,3 +1,4 @@
+
 # Liftoff Learners
 
 ## Section: Tampa Bay (April 2018)
@@ -32,7 +33,7 @@
 - [Gray, Adam]()
 - [Orozco Cabrera, Luis Humberto Orozco Cabrera]()
 - [Davis, Diana]()
-- [Austin, Sharon]()
+- [Austin, Sharon @austin-2018](https://github.com/austin-2018/liftoff-assignments.git)
 - [Joseph, Adelia]()
 - [Do, Phuloc]()
 - [Thompson, Birtchum]()
