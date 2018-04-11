@@ -1,0 +1,28 @@
+## 1. Overview
+This project will assist a file manager at a human services organization by cataloging the physical 
+paper files of consumers participating in the programs offered by the organization. The files are 
+organized by program and are split between different rooms in several buildings. As one consumer may 
+participate in more than one program, the consumer may have more than one case manager. A case manager 
+belongs to only one program and oversees multiple consumers.
+
+When the admissions director who oversees the file manager needs to know if an applicant is already
+in the system (possibly as an inactive consumer), the file manager will be able to query the data. 
+Inactive consumer files need to be confidentially shredded after a period of 7 years and 1 day.
+
+## 2. Features
+* Authorized User Login: project is only accessible to file manager and admin. 
+* Daily Tasks: 
+    - show inactive files due to be shredded based on current date and consumer end date
+    - show full or damaged files due for new file creation
+* Data Queries: find files based on consumer name, case manager, program, room, and building
+* Email Case Managers: to inform them of paperwork discrepencies within the files.
+* Audits: pull random list of files to perform quarterly audits. 
+
+## 3. Technologies
+I will be creating an ASP.Net Core MVC application in C#, with persistent data stored in an 
+Entity Framework SQLServer database. 
+
+## 4. Things I'll Have to Learn
+* Session logins with ASP.Net.
+* Enhanced security and validation.
+* Patience in manipulating such a large project.
