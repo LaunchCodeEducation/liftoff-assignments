@@ -35,4 +35,4 @@ After Making a pull request you will need to *enable Github issues* for your new
 3. Click on the Settings tab
 4. Select the checkbox for Issues
 
-![github_issues.png]
+![Enable Github Issues](github_issues.png)
