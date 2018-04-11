@@ -25,3 +25,14 @@ Visit your repo page on GitHub and submit a pull request to the **upstream** rep
 Read and follow the steps in the [GitHub Help article on creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
 Your request will be merged by a LaunchCode staff member, and then your addition will be part of the main repository.
+
+### Enable Github Issues
+
+After Making a pull request you will need to *enable Github issues* for your newly minted repository. Github issues are a great tool for communication with other developers. Github issues isn't automatically enabled for forked repositories. You will need to enable them so your mentor will be able to give you feedback through Github. To do this you will need to:
+
+1. Go to your github profile
+2. Select your Liftoff-Assignments repository
+3. Click on the Settings tab
+4. Select the checkbox for Issues
+
+![github_issues.png]
