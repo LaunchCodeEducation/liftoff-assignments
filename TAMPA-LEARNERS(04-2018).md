@@ -43,7 +43,7 @@
 - [Lai, Max]()
 - [SHAFFER, MARIANNE]()
 - [R, Kyla @kylastyles](https://github.com/kylastyles/liftoff-assignments)
-- [Ennis, Gulcin]()
+- [Ennis, Gulcin (@G-Ennis)](https://github.com/G-Ennis/liftoff-assignments)
 - [Kraul, Kristofer]()
 - [Corrao, Paul]()
 - [Alvarez, Raimir]()
