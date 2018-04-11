@@ -48,4 +48,4 @@
 - [Corrao, Paul]()
 - [Alvarez, Raimir]()
 - [McFarquhar, Colin]()
-- [Sabadish, Joseph](https://github.com/JosephSabadish/liftoff-assignments)
+- [Sabadish, Joseph @JosephSabadish](https://github.com/JosephSabadish/liftoff-assignments)
