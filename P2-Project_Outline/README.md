@@ -6,12 +6,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Submission Instructions
 
+
 ### Overview
-Include overview here
+"Filefinder" will assist a file manager at a human services organization by cataloging the physical 
+paper files of consumers participating in the programs offered by the organization. These non-electronic files are spread across different rooms in several buildings and they number in the thousands. With "FileFinder", the file manager will quickly and easily have an overview of those files that are due to be updated or shredded, and also the contact info for the case managers overseeing the clients and their files. 
+
 ### Features
-Include Features here
+* Authorized User Login: data is only accessible to file manager and admin. 
+* Daily Tasks: 
+    - show inactive files due to be shredded based on current date and consumer end date
+    - show full or damaged files due for new file creation
+* Data Queries: find files based on consumer name, case manager, program, room, or building
+* Email Case Managers: inform them of paperwork discrepencies within the files.
+* Audits: pull random list of files to perform quarterly audits. 
+
 ### Technologies
-Include Technologies here
+I will be creating an ASP.Net Core MVC application in C#, with persistent data stored in an 
+Entity Framework SQLServer database, styled with Bootstrap.
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+* Session logins with ASP.Net.
+* Enhanced security and validation.
+* Patience in manipulating such a large project.
