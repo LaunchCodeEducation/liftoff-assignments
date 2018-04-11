@@ -42,7 +42,7 @@
 - [Tran, Victor]()
 - [Lai, Max]()
 - [SHAFFER, MARIANNE]()
-- [Rieger, Kyla]()
+- [R, Kyla @kylastyles](https://github.com/kylastyles/liftoff-assignments)
 - [Ennis, Gulcin]()
 - [Kraul, Kristofer]()
 - [Corrao, Paul]()
