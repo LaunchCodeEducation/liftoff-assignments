@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-https://github.com/settings/profile
+https://github.com/tenispro1975
 
 
 ### LinkedIn
