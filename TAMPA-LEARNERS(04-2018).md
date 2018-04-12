@@ -14,7 +14,7 @@
 - [Entrot, Lekecia]()
 - [McClusky, Jordan (@jmlc101)](https://github.com/jmlc101/liftoff-assignments)
 - [PATEL, RAJESH]()
-- [Hegeman, Eric]()
+- [Hegeman, Eric(@reverendin)](https://github.com/reverendin/liftoff-assignments)
 - [Le, Khoi]()
 - [Greene, Kevin]()
 - [Cabric, Zlatko]()
