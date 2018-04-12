@@ -8,6 +8,7 @@
 
 ### Format your name, github username, and link to your liftoff-assignments repository like the example above
 
+- [Hoban, Cory (@Khaladin)](https://github.com/Khaladin/liftoff-assignments)
 - [Mattingly, Michael]()
 - [Desai, Jigish]()
 - [Warden, Brian @vonflue](https://github.com/vonflue/liftoff-assignments)
