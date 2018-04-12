@@ -35,7 +35,7 @@
 - [Austin, Sharon]()
 - [Joseph, Adelia]()
 - [Do, Phuloc]()
-- [Thompson, Birtchum]()
+- [Thompson, Birtchum @Birtchum](https://github.com/Birtchum/liftoff-assignments)
 - [Zhang, Yi]()
 - [Cook, James]()
 - [Jagannathan, Karla]()
