@@ -17,7 +17,7 @@
 - [PATEL, RAJESH]()
 - [Hegeman, Eric(@reverendin)](https://github.com/reverendin/liftoff-assignments)
 - [Le, Khoi]()
-- [Greene, Kevin]()
+- [Greene, Kevin @zeik07](https://github.com/zeik07/liftoff-assignments)
 - [Cabric, Zlatko]()
 - [Mann, Gregg]()
 - [Peterson, Eric]()
