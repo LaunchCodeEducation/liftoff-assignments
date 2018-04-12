@@ -22,7 +22,7 @@
 - [Mann, Gregg]()
 - [Peterson, Eric]()
 - [Ivanov, German]()
-- [phivilay, sommano]()
+- [Phivilay, Sommano (@sommano)](https://github.com/sommano/liftoff-assignments)
 - [El-moghrabi, Omar]()
 - [Johnson, Barry]()
 - [Kiley, Margaret @margaretlillian](https://github.com/margaretlillian/liftoff-assignments)
