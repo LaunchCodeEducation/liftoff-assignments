@@ -38,7 +38,7 @@
 - [Thompson, Birtchum]()
 - [Zhang, Yi]()
 - [Cook, James]()
-- [Jagannathan, Karla]()
+- [Jagannathan, Karla @karlajagan](https://github.com/karlajagan/liftoff-assignments)
 - [Tran, Victor]()
 - [Lai, Max]()
 - [SHAFFER, MARIANNE]()
