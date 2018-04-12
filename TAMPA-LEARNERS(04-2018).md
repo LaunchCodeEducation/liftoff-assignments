@@ -30,7 +30,7 @@
 - [Kenyon, Dylan]()
 - [stoykovich, mihailo]()
 - [Gray, Adam]()
-- [Orozco Cabrera, Luis Humberto Orozco Cabrera]()
+- [Orozco Cabrera, Luis Humberto (@LuisOC89)](https://github.com/LuisOC89/liftoff-assignments)
 - [Davis, Diana]()
 - [Austin, Sharon]()
 - [Joseph, Adelia]()
