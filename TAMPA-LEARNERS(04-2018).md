@@ -48,3 +48,4 @@
 - [Corrao, Paul]()
 - [Alvarez, Raimir]()
 - [McFarquhar, Colin]()
+- [Mueller, Giulia @GiuliaMueller](https://github.com/GiuliaMueller/liftoff-assignments)
