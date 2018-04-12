@@ -42,7 +42,7 @@
 - [Cook, James @JamesCook75](https://github.com/JamesCook75/liftoff-assignments)
 - [Jagannathan, Karla]()
 - [Tran, Victor]()
-- [Lai, Max]()
+- [Lai, Max (@mxlai)](https://github.com/mxlai/liftoff-assignments)
 - [SHAFFER, MARIANNE]()
 - [R, Kyla @kylastyles](https://github.com/kylastyles/liftoff-assignments)
 - [Ennis, Gulcin (@G-Ennis)](https://github.com/G-Ennis/liftoff-assignments)
