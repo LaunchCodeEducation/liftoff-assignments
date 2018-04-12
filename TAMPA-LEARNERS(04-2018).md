@@ -29,7 +29,7 @@
 - [Sironen, Daniel]()
 - [Riggle, Terri]()
 - [Cobb, Tatyanna]()
-- [Kenyon, Dylan]()
+- [Kenyon, Dylan @ZingingQT23](https://github.com/ZingingQT23/liftoff-assignments)
 - [stoykovich, mihailo]()
 - [Gray, Adam]()
 - [Orozco Cabrera, Luis Humberto (@LuisOC89)](https://github.com/LuisOC89/liftoff-assignments)
