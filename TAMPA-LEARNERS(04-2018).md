@@ -31,7 +31,7 @@
 - [stoykovich, mihailo]()
 - [Gray, Adam]()
 - [Orozco Cabrera, Luis Humberto Orozco Cabrera]()
-- [Davis, Diana]()
+- [Davis, Diana @DianaJustDiana](https://github.com/DianaJustDiana/liftoff-assignments)
 - [Austin, Sharon]()
 - [Joseph, Adelia]()
 - [Do, Phuloc]()
