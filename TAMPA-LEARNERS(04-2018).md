@@ -48,4 +48,4 @@
 - [Corrao, Paul]()
 - [Alvarez, Raimir]()
 - [McFarquhar, Colin]()
-- [Johnson, Barry]()
+- [Johnson, Barry @JamesJohnson11](https://github.com/JamesJohnson11/liftoff-assignments)
