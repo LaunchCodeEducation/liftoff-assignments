@@ -18,7 +18,7 @@
 - [Greene, Kevin]()
 - [Cabric, Zlatko]()
 - [Mann, Gregg]()
-- [Peterson, Eric]()
+- [Peterson, Eric (@sudokarst)](https://github.com/sudokarst/liftoff-assignments)
 - [Ivanov, German]()
 - [phivilay, sommano]()
 - [El-moghrabi, Omar]()
