@@ -30,4 +30,4 @@ SQL Alchemy
 
 What I’ll Have To Learn
 
-	I will have to figure out how to use Express.js during the course of this project. In addition, I will also have to learn a little bit more javascript in order to be able to add some additional functionality on the front end of my website. Finally, I will have to learn how to use apis from four major social media applications: Facebook, Twitter, Snapchat & Instagram.e
+	I will have to figure out how to use Express.js during the course of this project. In addition, I will also have to learn a little bit more javascript in order to be able to add some additional functionality on the front end of my website. Finally, I will have to learn how to use apis from four major social media applications: Facebook, Twitter, Snapchat & Instagram.
