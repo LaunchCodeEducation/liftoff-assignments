@@ -12,7 +12,7 @@ Overview
 
 Features
 User signup/login: The first page will simply have a form to signup as a user of the site & a link to redirect to another form to login if you’re already a registered user.
-Search parameters: Platforms to include, City, Hashtag
+Search parameters: Platforms to include, State, Hashtag
 Show collective hashtag uses across all platforms.
 Show number of hashtag uses on individual platforms.
 
