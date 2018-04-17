@@ -1,10 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
-
-## Submission Instructions
 
 ### Overview
 I am developing a Classroom Wish List Web App. Teachers and Administration will be able to create user profiles, log in, and submit donation requests. Family and community
@@ -29,3 +23,5 @@ The Classroom Wish List Web App will connect educators and the community in a wa
 
 ### What I'll Have to Learn
 - JavaScript
+- I would like to deploy this app using Microsoft Azure
+- I would like to add functionality to total the amount of the claimed items and offer the option to pay for the items through Paypal.
