@@ -41,7 +41,7 @@
 - [Zhang, Yi @lacitrus](https://github.com/lacitrus/liftoff-assignments)
 - [Cook, James @JamesCook75](https://github.com/JamesCook75/liftoff-assignments)
 - [Jagannathan, Karla @karlajagan](https://github.com/karlajagan/liftoff-assignments)
-- [Tran, Victor]()
+- [Tran, Victor (@iVictor-Git)](https://github.com/ivictor-git/liftoff-assignments)
 - [Lai, Max (@mxlai)](https://github.com/mxlai/liftoff-assignments)
 - [SHAFFER, MARIANNE]()
 - [R, Kyla @kylastyles](https://github.com/kylastyles/liftoff-assignments)
