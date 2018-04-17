@@ -53,3 +53,4 @@
 - [Thompson, Jordyn (@jordynrachelthompson)](https://github.com/JordynRachelThompson/liftoff-assignments.git)
 - [Mueller, Giulia @GiuliaMueller](https://github.com/GiuliaMueller/liftoff-assignments)
 - [Sabadish, Joseph @JosephSabadish](https://github.com/JosephSabadish/liftoff-assignments)
+- [Halliburton, Katherine @katherineionehalliburton](https://github.com/katherineionehalliburton/liftoff-assignments)
