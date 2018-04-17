@@ -33,7 +33,7 @@
 - [stoykovich, mihailo]()
 - [Gray, Adam (@adambgray)](https://github.com/adambgray/liftoff-assignments)
 - [Orozco Cabrera, Luis Humberto (@LuisOC89)](https://github.com/LuisOC89/liftoff-assignments)
-- [Davis, Diana]()
+- [Davis, Diana @DianaJustDiana](https://github.com/DianaJustDiana/liftoff-assignments)
 - [Austin, Sharon @austin-2018](https://github.com/austin-2018/liftoff-assignments.git)
 - [Joseph, Adelia]()
 - [Do, Phuloc]()
