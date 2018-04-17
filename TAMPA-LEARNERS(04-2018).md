@@ -51,3 +51,4 @@
 - [Alvarez, Raimir]()
 - [McFarquhar, Colin]()
 - [Thompson, Jordyn (@jordynrachelthompson)](https://github.com/JordynRachelThompson/liftoff-assignments.git)
+- [Mueller, Giulia @GiuliaMueller](https://github.com/GiuliaMueller/liftoff-assignments)
