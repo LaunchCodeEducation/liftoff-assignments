@@ -12,7 +12,7 @@
 - [Mattingly, Michael @m4cku5](https://github.com/m4cku5/liftoff-assignments)
 - [Desai, Jigish]()
 - [Warden, Brian @vonflue](https://github.com/vonflue/liftoff-assignments)
-- [Entrot, Lekecia]()
+- [Entrot, Lekecia @GurlFriday88](https://github.com/GurlFriday88/liftoff-assignments.git)
 - [McClusky, Jordan (@jmlc101)](https://github.com/jmlc101/liftoff-assignments)
 - [PATEL, RAJESH]()
 - [Hegeman, Eric(@reverendin)](https://github.com/reverendin/liftoff-assignments)
