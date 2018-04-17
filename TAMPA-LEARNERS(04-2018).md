@@ -20,7 +20,7 @@
 - [Greene, Kevin @zeik07](https://github.com/zeik07/liftoff-assignments)
 - [Cabric, Zlatko]()
 - [Mann, Gregg]()
-- [Peterson, Eric]()
+- [Peterson, Eric (@sudokarst)](https://github.com/sudokarst/liftoff-assignments)
 - [Ivanov, German]()
 - [Phivilay, Sommano (@sommano)](https://github.com/sommano/liftoff-assignments)
 - [El-moghrabi, Omar]()
