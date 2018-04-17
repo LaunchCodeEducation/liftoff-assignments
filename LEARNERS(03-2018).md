@@ -18,7 +18,7 @@
 
 
 ### Michael CY's Group
-- William Krings
+- [Krings, William (@imyourhuckleberry)](https://github.com/imyourhuckleberry/liftoff-assignments)
 - Jared Mudd
 - Robert Spicer
 - [Bailey, Tawnya (@norrellborealis)](https://github.com/norrellborealis/liftoff-assignments)
