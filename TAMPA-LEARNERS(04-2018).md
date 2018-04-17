@@ -47,7 +47,7 @@
 - [Egelfeld, Jerry]()
 - [Entrot, Lekecia @GurlFriday88](https://github.com/GurlFriday88/liftoff-assignments.git)
 - [Hegeman, Eric(@reverendin)](https://github.com/reverendin/liftoff-assignments)
-- [Joseph, Adelia]()
+- [Joseph, Adelia (@ASJOSEPH)](https://github.com/asjoseph/liftoff-assignments.git)
 - [Lai, Max (@mxlai)](https://github.com/mxlai/liftoff-assignments)
 - [Mattingly, Michael @m4cku5](https://github.com/m4cku5/liftoff-assignments)
 - [McFarquhar, Colin]()
