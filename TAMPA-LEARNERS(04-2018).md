@@ -31,7 +31,7 @@
 - [Cobb, Tatyanna (@TatyCat)](https://github.com/TatyCat/liftoff-assignments)
 - [Kenyon, Dylan @ZingingQT23](https://github.com/ZingingQT23/liftoff-assignments)
 - [stoykovich, mihailo]()
-- [Gray, Adam]()
+- [Gray, Adam (@adambgray)](https://github.com/adambgray/liftoff-assignments)
 - [Orozco Cabrera, Luis Humberto (@LuisOC89)](https://github.com/LuisOC89/liftoff-assignments)
 - [Davis, Diana]()
 - [Austin, Sharon @austin-2018](https://github.com/austin-2018/liftoff-assignments.git)
