@@ -43,7 +43,7 @@
 - [Jagannathan, Karla @karlajagan](https://github.com/karlajagan/liftoff-assignments)
 - [Tran, Victor (@iVictor-Git)](https://github.com/ivictor-git/liftoff-assignments)
 - [Lai, Max (@mxlai)](https://github.com/mxlai/liftoff-assignments)
-- [SHAFFER, MARIANNE]()
+- [SHAFFER, MARIANNE (@mdshaffer8)](https://github.com/mdshaffer8/liftoff-assignments)
 - [R, Kyla @kylastyles](https://github.com/kylastyles/liftoff-assignments)
 - [Ennis, Gulcin (@G-Ennis)](https://github.com/G-Ennis/liftoff-assignments)
 - [Kraul, Kristofer (@kraulk)](https://github.com/kraulk/liftoff-assignments)
