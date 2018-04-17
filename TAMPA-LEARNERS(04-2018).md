@@ -40,7 +40,7 @@
 - [Thompson, Birtchum @Birtchum](https://github.com/Birtchum/liftoff-assignments)
 - [Zhang, Yi]()
 - [Cook, James @JamesCook75](https://github.com/JamesCook75/liftoff-assignments)
-- [Jagannathan, Karla]()
+- [Jagannathan, Karla @karlajagan](https://github.com/karlajagan/liftoff-assignments)
 - [Tran, Victor]()
 - [Lai, Max (@mxlai)](https://github.com/mxlai/liftoff-assignments)
 - [SHAFFER, MARIANNE]()
