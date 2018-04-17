@@ -46,7 +46,7 @@
 - [SHAFFER, MARIANNE]()
 - [R, Kyla @kylastyles](https://github.com/kylastyles/liftoff-assignments)
 - [Ennis, Gulcin (@G-Ennis)](https://github.com/G-Ennis/liftoff-assignments)
-- [Kraul, Kristofer]()
+- [Kraul, Kristofer (@kraulk)](https://github.com/kraulk/liftoff-assignments)
 - [Corrao, Paul (@PaulC2017)](https://github.com/PaulC2017/liftoff-assignments.git)
 - [Alvarez, Raimir]()
 - [McFarquhar, Colin]()
