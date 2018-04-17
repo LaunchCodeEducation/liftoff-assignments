@@ -24,7 +24,7 @@
 - [Ivanov, German]()
 - [Phivilay, Sommano (@sommano)](https://github.com/sommano/liftoff-assignments)
 - [El-moghrabi, Omar]()
-- [Johnson, Barry]()
+- [Johnson, Barry @JamesJohnson11](https://github.com/JamesJohnson11/liftoff-assignments)
 - [Kiley, Margaret @margaretlillian](https://github.com/margaretlillian/liftoff-assignments)
 - [Sironen, Daniel]()
 - [Riggle, Terri]()
