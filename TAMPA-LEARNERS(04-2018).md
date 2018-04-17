@@ -33,7 +33,7 @@
 - [Orozco Cabrera, Luis Humberto Orozco Cabrera]()
 - [Davis, Diana]()
 - [Austin, Sharon]()
-- [Joseph, Adelia]()
+- [Joseph, Adelia (@ASJOSEPH)](https://github.com/asjoseph/liftoff-assignments.git)
 - [Do, Phuloc]()
 - [Thompson, Birtchum]()
 - [Zhang, Yi]()
