@@ -18,7 +18,7 @@
 - [Hegeman, Eric(@reverendin)](https://github.com/reverendin/liftoff-assignments)
 - [Le, Khoi @khoi938](https://github.com/Khoi938/liftoff-assignments)
 - [Greene, Kevin @zeik07](https://github.com/zeik07/liftoff-assignments)
-- [Cabric, Zlatko]()
+- [Cabric, Zlatko @cabricz](https://github.com/cabricz/liftoff-assignments)
 - [Mann, Gregg]()
 - [Peterson, Eric (@sudokarst)](https://github.com/sudokarst/liftoff-assignments)
 - [Ivanov, German]()
