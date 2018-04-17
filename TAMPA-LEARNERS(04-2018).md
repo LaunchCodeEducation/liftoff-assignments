@@ -16,7 +16,7 @@
 - [McClusky, Jordan (@jmlc101)](https://github.com/jmlc101/liftoff-assignments)
 - [PATEL, RAJESH]()
 - [Hegeman, Eric(@reverendin)](https://github.com/reverendin/liftoff-assignments)
-- [Le, Khoi]()
+- [Le, Khoi @khoi938](https://github.com/Khoi938/liftoff-assignments)
 - [Greene, Kevin @zeik07](https://github.com/zeik07/liftoff-assignments)
 - [Cabric, Zlatko]()
 - [Mann, Gregg]()
