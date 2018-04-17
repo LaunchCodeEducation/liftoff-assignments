@@ -9,7 +9,7 @@
 ### Format your name, github username, and link to your liftoff-assignments repository like the example above
 
 - [Hoban, Cory (@Khaladin)](https://github.com/Khaladin/liftoff-assignments)
-- [Mattingly, Michael]()
+- [Mattingly, Michael @m4cku5](https://github.com/m4cku5/liftoff-assignments)
 - [Desai, Jigish]()
 - [Warden, Brian @vonflue](https://github.com/vonflue/liftoff-assignments)
 - [Entrot, Lekecia]()
