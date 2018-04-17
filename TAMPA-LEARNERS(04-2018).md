@@ -52,3 +52,4 @@
 - [McFarquhar, Colin]()
 - [Thompson, Jordyn (@jordynrachelthompson)](https://github.com/JordynRachelThompson/liftoff-assignments.git)
 - [Mueller, Giulia @GiuliaMueller](https://github.com/GiuliaMueller/liftoff-assignments)
+- [Sabadish, Joseph @JosephSabadish](https://github.com/JosephSabadish/liftoff-assignments)
