@@ -50,7 +50,7 @@
 - [Joseph, Adelia (@ASJOSEPH)](https://github.com/asjoseph/liftoff-assignments.git)
 - [Lai, Max (@mxlai)](https://github.com/mxlai/liftoff-assignments)
 - [Mattingly, Michael @m4cku5](https://github.com/m4cku5/liftoff-assignments)
-- [McFarquhar, Colin]()
+- [McFarquhar, Colin](https://github.com/ColinMcF/liftoff-assignments)
 - [Phivilay, Sommano (@sommano)](https://github.com/sommano/liftoff-assignments)
 - [Sironen, Daniel (@dsironen)] (https://github.com/dsironen/liftoff-assignments)
 - [Thompson, Birtchum @Birtchum](https://github.com/Birtchum/liftoff-assignments)
