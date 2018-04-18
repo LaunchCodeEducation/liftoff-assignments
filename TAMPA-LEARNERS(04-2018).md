@@ -11,7 +11,7 @@
 
 
 ### Ariel's Group
-- [Alvarez, Raimir]()
+- [Alvarez, Raimir (@Xelfray)](https://github.com/Xelfray/liftoff-assignments)
 - [Cook, James @JamesCook75](https://github.com/JamesCook75/liftoff-assignments)
 - [Corrao, Paul (@PaulC2017)](https://github.com/PaulC2017/liftoff-assignments.git)
 - [El-moghrabi, Omar]()
