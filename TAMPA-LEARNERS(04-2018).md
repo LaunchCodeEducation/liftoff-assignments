@@ -52,7 +52,7 @@
 - [Mattingly, Michael @m4cku5](https://github.com/m4cku5/liftoff-assignments)
 - [McFarquhar, Colin]()
 - [Phivilay, Sommano (@sommano)](https://github.com/sommano/liftoff-assignments)
-- [Sironen, Daniel]()
+- [Sironen, Daniel (@dsironen)] (https://github.com/dsironen/liftoff-assignments)
 - [Thompson, Birtchum @Birtchum](https://github.com/Birtchum/liftoff-assignments)
 
 
