@@ -59,7 +59,7 @@
 ### Keane's Group 
 
 - [Cobb, Tatyanna (@TatyCat)](https://github.com/TatyCat/liftoff-assignments)
-- [Do, Phuloc]()
+- [Do, Phuloc (@phulocdo)](https://github.com/phulocdo/liftoff-assignments)
 - [Gray, Adam (@adambgray)](https://github.com/adambgray/liftoff-assignments)
 - [Ivanov, German]()
 - [Kenyon, Dylan @ZingingQT23](https://github.com/ZingingQT23/liftoff-assignments)
