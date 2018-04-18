@@ -84,7 +84,7 @@
 
 
 ### Sean's Group
-- Uche Erondu
+- [Erondu, Uche (@UcheE)](https://github.com/UcheE/liftoff-assignments)
 - Charles Robertson
 - Dorian Rozanski
 - [Kadingula, Soumya (@soumy1508)](https://github.com/soumy1508/liftoff-assignments)
