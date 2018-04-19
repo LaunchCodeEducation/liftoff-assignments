@@ -65,7 +65,7 @@
 - [Kenyon, Dylan @ZingingQT23](https://github.com/ZingingQT23/liftoff-assignments)
 - [Le, Khoi @khoi938](https://github.com/Khoi938/liftoff-assignments)
 - [McClusky, Jordan (@jmlc101)](https://github.com/jmlc101/liftoff-assignments)
-- [Pichardo, Steven]()
+- [Pichardo, Steven (@stevepichardo)](https://github.com/stevepichardo/liftoff-assignments)
 - [R, Kyla @kylastyles](https://github.com/kylastyles/liftoff-assignments)
 - [SHAFFER, MARIANNE (@mdshaffer8)](https://github.com/mdshaffer8/liftoff-assignments)
 - [Warden, Brian @vonflue](https://github.com/vonflue/liftoff-assignments)
