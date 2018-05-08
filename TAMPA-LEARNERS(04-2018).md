@@ -43,7 +43,7 @@
 ### Cory's Group - [Hoban, Cory (@Khaladin)](https://github.com/Khaladin/liftoff-assignments)
 
 - [Cabric, Zlatko @cabricz](https://github.com/cabricz/liftoff-assignments)
-- [Desai, Jigish]()
+- [Desai, Jigish @JigishDesai](https://github.com/JigishDesai/liftoff-assignments.git)
 - [Egelfeld, Jerry]()
 - [Entrot, Lekecia @GurlFriday88](https://github.com/GurlFriday88/liftoff-assignments.git)
 - [Hegeman, Eric(@reverendin)](https://github.com/reverendin/liftoff-assignments)
