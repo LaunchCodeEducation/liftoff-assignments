@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-* ![WelcomePage] /myImages/20180515_180531.jpg
+* ![WelcomePage] (20180515_180531.jpg)
 * ![UserRegister] (/myImages/20180515_180538.jpg)
 * ![UserIndex] (/myImages/20180515_180547.jpg)
 * ![LogOn] (/myImages/20180515_180553.jpg)
