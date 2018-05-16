@@ -7,11 +7,10 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-* ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-* ![WelcomePage](https://github.com/jmlc101/liftoff-assignments/blob/master/P3-Project_Planning/20180515_180531.jpg)
-* ![UserRegister] (https://github.com/jmlc101/liftoff-assignments/blob/master/P3-Project_Planning/myImages/20180515_180538.jpg)
-* ![UserIndex] (/myImages/20180515_180547.jpg)
-* ![LogOn] (/myImages/20180515_180553.jpg)
+* ![WelcomePage](https://github.com/jmlc101/liftoff-assignments/blob/master/P3-Project_Planning/myImages/20180515_180531.jpg)
+* ![UserRegister](https://github.com/jmlc101/liftoff-assignments/blob/master/P3-Project_Planning/myImages/20180515_180538.jpg)
+* ![UserIndex](/myImages/20180515_180547.jpg)
+* ![LogOn](/myImages/20180515_180553.jpg)
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
