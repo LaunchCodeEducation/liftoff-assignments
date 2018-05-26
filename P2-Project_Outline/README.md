@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-A platform for teachers to load school related documents for student and also to post events on calendar.
+A platform for teachers to load school related documents for student and also to post events on calendar. Got an idea for the project from my son whom is currently a Kindergarten student at TOES.
  
 ### Features
 User login: User should be able to create account and login to the application
@@ -20,7 +20,7 @@ View Docs: User should be able to view/download uploaded documents
 ### Technologies
 C# MVC Core
 SQL
-react
+ajax
 
 ### What I'll Have to Learn
 Include what you will need to learn here
