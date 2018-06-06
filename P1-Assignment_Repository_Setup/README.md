@@ -19,7 +19,7 @@ Open the `LEARNERS.md` for your class (it should be labeled with a month and dat
 [FIRST_INITIAL, LAST_INITIAL (@GITHUB_USERNAME)](https://github.com/GITHUB_USERNAME/liftoff-assignments)
 ```
 
-> *This GitHub repository is public*, so if you don't want to share your full name, choose the second example above.
+> *This GitHub repository is public* if you don't want to share your full name choose the second example above.
 
 > The file `LEARNERS.md`, and many of those you'll be working in, are written in a markup language called Markdown. If you're new to markdown, read and bookmark [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
 
