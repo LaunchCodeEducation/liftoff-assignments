@@ -18,7 +18,7 @@
 - [Greene, Kevin @zeik07](https://github.com/zeik07/liftoff-assignments)
 - [Jagannathan, Karla @karlajagan](https://github.com/karlajagan/liftoff-assignments)
 - [Kiley, Margaret @margaretlillian](https://github.com/margaretlillian/liftoff-assignments)
-- [Mann, Gregg]()
+- [Mann, Gregg @GreggMann)](https://github.com/GreggMann/liftoff-assignments)
 - [Mueller, Giulia @GiuliaMueller](https://github.com/GiuliaMueller/liftoff-assignments)
 - [PATEL, RAJESH]()
 - [Riggle, Terri]()
