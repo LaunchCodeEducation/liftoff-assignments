@@ -1,17 +1,38 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
+For this assignment, i got this subject idea from doing survey online using my cell phone. The idea is to create the website that offers you to earn points after completing given surveys.
+Each survey has several questions to answer them and complete all questions answer and earn point in users account. Later withdraw point to earn some cash or reward.
+
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
+First
 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+ Basically overview is to create the website that offers you to earn points after completing given surveys.
+Each survey has several questions to answer them and complete all questions answer and earn point in users account.
+User can log in to account and withdraw point to earn some cash or reward.
+Admin can able to log in and see all registered Users and able to verify information and remove or add Users
+
+
+
 ### Features
 Include Features here
+User registration
+User login and authentication
+Create surveys
+Redeem points
+Admin login and authentication
+Admin manage registered Users
+
 ### Technologies
-Include Technologies here
+Programming language C#, 
+HTML and CSS
+Bootstrap
+Database
+ASP .NET
+MVC Framework
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I need to learn Bootstrap, Database, .NET 
