@@ -107,7 +107,7 @@
 - Nicholas O
 - Melissa P
 - Ritu P
-- Sumit P
+- [Pandey, Sumit (@sumitpandey11)](https://www.github.com/sumitpandey11/liftoff-assignments)
 - Peshonna P
 - Dhawani P
 - Sri Neha P
