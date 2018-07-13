@@ -4,7 +4,6 @@
 
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Walker, Ryan (@ryanawalker)](https://www.github.com/ryanawalker/liftoff-assignments)
-- [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
 
 
 
@@ -78,7 +77,7 @@
 - Matthew K
 - Johanna K
 - Joshua K
-- Anil K
+- [Kumar, Anil (@anilkumar21k](https://github.com/anilkumar21k/liftoff-assignments.git)
 - Sunita L
 - Deon L
 - Julian L
@@ -109,7 +108,7 @@
 - Nicholas O
 - Melissa P
 - Ritu P
-- Sumit P
+- [Pandey, Sumit (@sumitpandey11)](https://www.github.com/sumitpandey11/liftoff-assignments)
 - Peshonna P
 - Dhawani P
 - Sri Neha P
@@ -147,7 +146,7 @@
 - Jonathan V
 - Caroline W
 - Jacob W
-- Paige W
+- [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
 - Julian W
 - Miriam W
 - Jesse W
