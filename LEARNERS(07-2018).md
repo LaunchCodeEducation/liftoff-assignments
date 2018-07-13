@@ -4,6 +4,8 @@
 
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Walker, Ryan (@ryanawalker)](https://www.github.com/ryanawalker/liftoff-assignments)
+- [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
+
 
 
 - James A
