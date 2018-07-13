@@ -57,7 +57,7 @@
 - Kevin G
 - David H
 - Mark H
-- David H
+- [Hackett, David (@davidhackett12)](https://github.com/davidhackett12/liftoff-assignments)
 - Allyn H
 - Megan H
 - Hiroko H
@@ -79,7 +79,7 @@
 - Matthew K
 - Johanna K
 - Joshua K
-- [Kumar, Anil (@anilkumar21k](https://github.com/anilkumar21k/liftoff-assignments.git)
+- [Kumar, Anil (@anilkumar21k)](https://github.com/anilkumar21k/liftoff-assignments.git)
 - Sunita L
 - Deon L
 - Julian L
