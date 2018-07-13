@@ -134,7 +134,7 @@
 - Kelly S
 - Saranyadevi S
 - Joseph S
-- [Summa, Nicholas (@nsumma147)] (https://github.com/nsumma147/liftoff-assignments)
+- [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
 - Samuel T
 - Jonathan T
 - Lori T
