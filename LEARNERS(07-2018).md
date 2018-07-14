@@ -41,7 +41,7 @@
 - Jonathan E
 - Uche E
 - Paul F
-- Rim F
+- [Fardiyev, Rim (@Dreammaster13)](https://github.com/Dreammaster13/liftoff-assignments.git)
 - Carl F
 - Lucas F
 - Earl G
