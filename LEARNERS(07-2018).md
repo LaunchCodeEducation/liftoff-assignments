@@ -106,7 +106,7 @@
 - Timothy N
 - Terence O
 - Daniel O
-- Amanda O
+- [Owens, Amanda (@amanda7641)](https://github.com/amanda7641/liftoff-assignments)
 - Nicholas O
 - Melissa P
 - Ritu P
