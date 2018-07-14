@@ -28,7 +28,7 @@
 - Grace C
 - Andrew C
 - Bill C
-- Leslie C
+- [L, c (@LeslieCassert)](https://github.com/LeslieCassert/liftoff-assignments)
 - Vasundhara C
 - Lucas C
 - Robert C
