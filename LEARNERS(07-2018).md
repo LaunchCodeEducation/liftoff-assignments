@@ -19,7 +19,7 @@
 - Jose B
 - Ryan B
 - Drew B
-- Erwin B
+- [Bohnert, Erwin (@Jbohn44)](https://www.github.com/Jbohn44/liftoff-assignments)
 - Alysia B
 - Andrea B
 - Bryan B
