@@ -10,7 +10,7 @@
 ### Students Replace Your Name Below With Your Formatted Link
 
 - James A
-- Aparna A
+- Akula, Aparna(@aparnaakula)](https://github.com/aparnaakula/liftoff-assignments)
 - Haley A
 - Benjamin A
 - Randy A
