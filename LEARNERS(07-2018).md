@@ -71,7 +71,7 @@
 - Adele K
 - Jared H
 - Jesse J
-- Mark J
+- [Johnson, Mark (@mrkish)](https://www.github.com/mrkish/liftoff-assignments.git)
 - Adam K
 - John K
 - Xiaoyu K
