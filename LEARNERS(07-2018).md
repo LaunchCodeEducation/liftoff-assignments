@@ -127,7 +127,7 @@
 - Derek S
 - Michael S
 - Jakob S
-- Amy S
+- [Schremp, Amy (@amyschremp)](https://github.com/amyschremp/liftoff-assignments)
 - Thomas S
 - Gunnar S
 - Tim S
