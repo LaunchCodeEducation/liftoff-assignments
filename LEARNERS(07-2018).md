@@ -98,7 +98,7 @@
 - Jayde M
 - Miles M
 - Aida M
-- Richard M
+- [Munie, Richard (@RichardMunie)](https://github.com/RichardMunie/liftoff-assignments)
 - Robert N
 - Jessica N
 - Brian N
