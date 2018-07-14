@@ -126,7 +126,7 @@
 - Sailaja S
 - Derek S
 - Michael S
-- Jakob S
+- [Schneider, Jakob (@jschneids)](https://github.com/JSchneids/liftoff-assignments)
 - Amy S
 - Thomas S
 - Gunnar S
