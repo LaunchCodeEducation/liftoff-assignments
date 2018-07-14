@@ -21,7 +21,7 @@
 - Drew B
 - Erwin B
 - Alysia B
-- Andrea B
+- [Brown, Andrea (@AndreaBrown7286)](https://github.com/AndreaBrown7286/liftoff-assignments)
 - Bryan B
 - Jack B
 - Joe B
