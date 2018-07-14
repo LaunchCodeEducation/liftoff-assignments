@@ -11,7 +11,7 @@
 
 - James A
 - Aparna A
-- Haley A
+- [Albers, Haley (@haalbers)](https://github.com/haalbers/liftoff-assignments.git)
 - Benjamin A
 - Randy A
 - Geetha A
