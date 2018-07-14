@@ -120,7 +120,7 @@
 - Galen R
 - Joseph R
 - Mitchell R
-- Jeffrey R
+- [Ricker, Jeffrey (@rickerje)](https://www.github.com/rickerje/liftoff-assignments)
 - Robert R
 - Sehar S
 - Sailaja S
