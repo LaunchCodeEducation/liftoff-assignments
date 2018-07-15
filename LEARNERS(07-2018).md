@@ -85,7 +85,7 @@
 - Julian L
 - Daniel L
 - Kyle L
-- Judith L
+- [Light, Judith (@judy2001)](https://github.com/judy2001/liftoff-assignments)
 - Gary L
 - Rebecca L
 - Mary M
