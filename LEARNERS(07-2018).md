@@ -46,7 +46,7 @@
 - Lucas F
 - Earl G
 - Rupali G
-- John G
+- [Gallagher, John (@jackpg09)](https://github.com/jackpg09/liftoff-assignments.git)
 - Nicholas G
 - Jon G
 - Carl G
