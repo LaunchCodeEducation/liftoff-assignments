@@ -144,7 +144,7 @@
 - Douglas U
 - Jareson V
 - Francesco V
-- Nicholas V
+- [Visser, Nicholas (@nickviss89)](https://github.com/nickviss89/liftoff-assignments)
 - Jonathan V
 - Caroline W
 - Jacob W
