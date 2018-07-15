@@ -94,7 +94,7 @@
 - John M
 - Patrick M
 - Jonny M
-- Brian M
+- [McGirk, Brian (@Brian-McGirk)](https://www.github.com/Brian-McGirk/liftoff-assignments)
 - Jayde M
 - Miles M
 - Aida M
