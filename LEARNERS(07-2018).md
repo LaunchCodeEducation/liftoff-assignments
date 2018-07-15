@@ -15,7 +15,7 @@
 - Benjamin A
 - Randy A
 - Geetha A
-- [Basinger, Jenelle (@GITHUB_JENELLEBAS)] (https://github.com/GITHUB_JENELLEBAS/liftoff-assignments)
+- [Basinger, Jenelle (@Jenellebas)](https://github.com/Jenellebas/liftoff-assignments)
 - Jose B
 - Ryan B
 - Drew B
