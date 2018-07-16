@@ -89,7 +89,7 @@
 - Gary L
 - Rebecca L
 - Mary M
-- Ther M
+- [T M (@emeraldvision)](https://github.com/emeraldvision/liftoff-assignments)
 - Jonathan M
 - John M
 - Patrick M
