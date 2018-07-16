@@ -101,7 +101,7 @@
 - Richard M
 - Robert N
 - Jessica N
-- Brian N
+- [Ngetich, Brian (@bngetich)](https://github.com/bngetich/liftoff-assignments)
 - Phu N
 - Timothy N
 - Terence O
