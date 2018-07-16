@@ -33,7 +33,7 @@
 - Lucas C
 - Robert C
 - Steven D
-- Brandon D
+- [Detra, Brandon (@bdtra)](https://github.com/bdtra/liftoff-assignments)
 - Andrew D
 - Gnanaprasuna D
 - Andrew E
