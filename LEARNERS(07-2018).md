@@ -121,7 +121,7 @@
 - Joseph R
 - Mitchell R
 - Jeffrey R
-- Robert R
+- [Rose, Robert (@rarose67)](https://github.com/rarose67/liftoff-assignments)
 - Sehar S
 - Sailaja S
 - Derek S
