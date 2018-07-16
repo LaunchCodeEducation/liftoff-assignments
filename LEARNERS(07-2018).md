@@ -128,8 +128,7 @@
 - Michael S
 - Jakob S
 - Amy S
-- Thomas S
-- Gunnar S
+- [Shuman, Thomas (@thomasshumanjr)](https://github.com/ThomasShumanJr/liftoff-assignments)
 - Tim S
 - Kelly S
 - Saranyadevi S
@@ -147,7 +146,7 @@
 - Nicholas V
 - Jonathan V
 - Caroline W
-- Jacob W
+- Jaco
 - [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
 - Julian W
 - Miriam W
