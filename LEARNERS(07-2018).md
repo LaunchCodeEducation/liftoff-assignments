@@ -143,7 +143,7 @@
 - Ariel T
 - Douglas U
 - Jareson V
-- Francesco V
+- [Velocci, Francesco (@FrancescoVelocci)](https://github.com/FrancescoVelocci/liftoff-assignments)
 - Nicholas V
 - Jonathan V
 - Caroline W
