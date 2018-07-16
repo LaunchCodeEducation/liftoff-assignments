@@ -60,7 +60,7 @@
 - David H
 - Allyn H
 - Megan H
-- Hiroko H
+- [H, H (@hiroko-lc101)](https://github.com/hiroko-lc101/liftoff-assignments)
 - Joshua H
 - Kyle H
 - Terry H
