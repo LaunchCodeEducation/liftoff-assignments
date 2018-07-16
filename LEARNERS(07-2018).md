@@ -25,7 +25,7 @@
 - Bryan B
 - Jack B
 - Joe B
-- Grace C
+- [Callahan, Grace (@smallar-achnid)](https://www.github.com/smallar-achnid/liftoff-assignments)
 - Andrew C
 - Bill C
 - Leslie C
