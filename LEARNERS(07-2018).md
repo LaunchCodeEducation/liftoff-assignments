@@ -116,7 +116,7 @@
 - Sri Neha P
 - Brandon P
 - Jesse P
-- Buvaneshwari R
+- [Buvaneshwari, Rajendiran (@buvanapandu)] (https://github.com/buvanapandu/liftoff-assignments)
 - Galen R
 - Joseph R
 - Mitchell R
