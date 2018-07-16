@@ -17,21 +17,21 @@ User profile: They should be able to upload a picture of themselves and have a l
 Object selection: Users should be able to put objects (sets) into different lists and move them between lists.
 
 ### Technologies
-Java
-HTML
-CSS
-Javascript
-Thymeleaf
-IntelliJ
-SQL
-MySQL
+--Java
+--HTML
+--CSS
+--Javascript
+--Thymeleaf
+--IntelliJ
+--SQL
+--MySQL
 
 
 ### What I'll Have to Learn
-Relearn Java for adding users
-How to have friends list
-How to share with specific people
-How to move an object from one list to another
-More CSS/Javascript for an improved look
-Best way to query Databases for speed
-Password hashing
+--Relearn Java for adding users
+--How to have friends list
+--How to share with specific people
+--How to move an object from one list to another
+--More CSS/Javascript for an improved look
+--Best way to query Databases for speed
+--Password hashing
