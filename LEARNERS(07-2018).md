@@ -50,7 +50,7 @@
 - Nicholas G
 - Jon G
 - Carl G
-- Ken G
+- [Girard, Ken (@krgirard33)](https://github.com/krgirard33/liftoff-assignments)
 - Edward G
 - Vicki G
 - Sean G
