@@ -51,7 +51,7 @@
 - Jon G
 - Carl G
 - Ken G
-- Edward G
+- [Goering, Edward (@e-aaron-goering)](https://github.com/e-aaron-goering/liftoff-assignments)
 - Vicki G
 - Sean G
 - Kevin G
