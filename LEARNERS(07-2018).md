@@ -34,7 +34,7 @@
 - Robert C
 - Steven D
 - Brandon D
-- Andrew D
+- [A, D (@SnowCrashOverride](https://github.com/SnowCrashOverride/liftoff-assignments.git)
 - Gnanaprasuna D
 - Andrew E
 - Sandra E
