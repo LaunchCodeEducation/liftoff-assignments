@@ -75,7 +75,7 @@
 - Adam K
 - John K
 - Xiaoyu K
-- [Kitowski, Vince (@kitowskiv](https://github.com/kitowskiv/liftoff-assignments)
+- [Kitowski, Vince (@kitowskiv)](https://github.com/kitowskiv/liftoff-assignments)
 - Matthew K
 - Johanna K
 - Joshua K
