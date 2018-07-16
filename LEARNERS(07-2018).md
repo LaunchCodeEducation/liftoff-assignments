@@ -64,7 +64,7 @@
 - Joshua H
 - Kyle H
 - Terry H
-- Zach H
+- [Held, Zach (@zachtheld)] (https://github.com/zachtheld/liftoff-assignments.git)
 - Kirk H
 - Jasmine H
 - Dustin H
