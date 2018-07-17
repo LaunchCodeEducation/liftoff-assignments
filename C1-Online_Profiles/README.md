@@ -5,12 +5,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Online Profiles Assignment](https://education.launchcode.org/liftoff/assignments/online-profiles/)
 
 ## Submission Instructions
-
+ 
 ### GitHub
-https://github.com/ki42/
-
+Provide a link to your GitHub account here.
+ 
 ### LinkedIn
-www.linkedin.com/in/megan-hart
+Provide a link to your LinkedIn account here.
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
