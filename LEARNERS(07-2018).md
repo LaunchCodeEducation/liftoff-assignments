@@ -140,7 +140,7 @@
 - Joseph S
 - [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
 - Samuel T
-- Jonathan T
+- [Thompson, Jonathan (@sirjdt)](https://github.com/sirjdt/liftoff-assignments)
 - Lori T
 - Danielle T
 - Denise T
