@@ -7,6 +7,10 @@
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Walker, Ryan (@ryanawalker)](https://www.github.com/ryanawalker/liftoff-assignments)
 
+### LaunchCode Mentor Repos
+
+- [Haggerty, Ken (@kenmhaggerty)](https://github.com/kenmhaggerty/liftoff-assignments)
+
 ### Students Replace Your Name Below With Your Formatted Link
 
 - James A
