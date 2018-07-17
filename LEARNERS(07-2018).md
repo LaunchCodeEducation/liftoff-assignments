@@ -87,7 +87,7 @@
 - Kyle L
 - Judith L
 - Gary L
-- Rebecca L
+- [R, L (@SharpeLombard)](https://github.com/SharpeLombard/liftoff-assignments)
 - Mary M
 - Ther M
 - Jonathan M
