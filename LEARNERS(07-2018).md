@@ -15,7 +15,7 @@
 - [Albers, Haley (@haalbers)](https://github.com/haalbers/liftoff-assignments.git)
 - Benjamin A
 - Randy A
-- Geetha A
+- [Avvaru, Geetha (@gavvaru](https://github.com/gavvaru/liftoff-assignments/liftoff-assignments.git)
 - [Basinger, Jenelle (@Jenellebas)](https://github.com/Jenellebas/liftoff-assignments)
 - [Berrio, Jose (@aldarisbm)](https://github.com/aldarisbm/liftoff-assignments.git)
 - Ryan B
