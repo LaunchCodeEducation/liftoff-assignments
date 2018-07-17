@@ -12,7 +12,7 @@
 - James A
 - Aparna A
 - Haley A
-- Benjamin A
+- [Asselmeier, Benjamin (@benasselmeier)](https://github.com/benasselmeier/liftoff-assignments.git)
 - Randy A
 - Geetha A
 - Jenelle B
