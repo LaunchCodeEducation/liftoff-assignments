@@ -77,7 +77,7 @@
 - [Karr, Adam (@BobbyTheUnspeakable)](https://github.com/BobbyTheUnspeakable/liftoff-assignments)
 - John K
 - [Ke, Xiaoyu (@xiaoyuk)](https://www.github.com/xiaoyuk/liftoff-assignments.git)
-- Vincent K
+- [Kitowski, Vince (@kitowskiv)](https://github.com/kitowskiv/liftoff-assignments)
 - Matthew K
 - Johanna K
 - Joshua K
