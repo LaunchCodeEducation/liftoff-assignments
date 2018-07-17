@@ -71,7 +71,7 @@
 - Adele K
 - Jared H
 - [Johnson, Jesse (@diejessedie)](https://github.com/diejessedie/liftoff-assignments)
-- Mark J
+- [Johnson, Mark (@mrkish)](https://www.github.com/mrkish/liftoff-assignments.git)
 - [Karr, Adam (@BobbyTheUnspeakable)](https://github.com/BobbyTheUnspeakable/liftoff-assignments)
 - John K
 - [Ke, Xiaoyu (@xiaoyuk)](https://www.github.com/xiaoyuk/liftoff-assignments.git)
