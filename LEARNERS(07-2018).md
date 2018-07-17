@@ -91,7 +91,7 @@
 - Mary M
 - Ther M
 - Jonathan M
-- John M
+- [McCool, John (@j-mccool)](https://github.com/j-mccool/liftoff-assignments.git)
 - Patrick M
 - Jonny M
 - Brian M
