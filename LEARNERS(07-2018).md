@@ -89,7 +89,7 @@
 - [L , J (@Jtiger1841)](https://github.com/Jtiger1841/liftoff-assignments.git)
 - Daniel L
 - Kyle L
-- [Light, Judith (@judy2001)](https://github.com/judy2001/liftoff-assignments)
+ - [Light, Judith (@judy2001)](https://github.com/judy2001/liftoff-assignments)
 - Gary L
 - [L, R (@SharpeLombard)](https://github.com/SharpeLombard/liftoff-assignments)
 - [Mackey, Mary (@petem981)](https://github.com/petem981/liftoff-assignments.git)
@@ -103,7 +103,7 @@
 - Miles M
 - [A, M (@armoussa)](https://github.com/armoussa/liftoff-assignments)
 - [Munie, Richard (@RichardMunie)](https://github.com/RichardMunie/liftoff-assignments)
-- [R, N (@Bluewalker117)](https://github.com/Bluewalker117/liftoff-assignments.git)
+- [R, N (@luewalker117)](https://github.com/Bluewalker117/liftoff-assignments.git)
 - Jessica N
 - [Ngetich, Brian (@bngetich)](https://github.com/bngetich/liftoff-assignments)
 - Phu N
@@ -141,7 +141,7 @@
 - [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
 - Samuel T
 - Jonathan T
-- Lori T
+- [Lori T (@lorithurman87)](https://github.com/lorithurman87/liftoff-assignments.git)
 - Danielle T
 - Denise T
 - [Tuley, Ariel (@arielsarah)](https://github.com/arielsarah/liftoff-assignments)
