@@ -160,4 +160,4 @@
 - [Williams, Michelle (@mcwilli94)](https://github.com/mcwilli94/liftoff-assignments.git)
 - Joey W
 - [Wood, Jared (@pocolius)](https://github.com/Pocolius/liftoff-assignments)
-- Richard Z
+- [Ziegler, Richard (@richardziegler)](https://github.com/richardziegler/liftoff-assignments)
