@@ -106,7 +106,7 @@
 - [Novak, Timothy (@tnovak123)](https://github.com/tnovak123/liftoff-assignments.git)
 - Terence O
 - Daniel O
-- Amanda O
+- [Owens, Amanda (@amanda7641)](https://github.com/amanda7641/liftoff-assignments)
 - [Owens, Nicholas (@Nowens17)](https://github.com/Nowens17/liftoff-assignments)
 - [Pabst, Melissa (@MelissaPabst)](https://www.github.com/MelissaPabst/liftoff-assignments)
 - [P, R (@ritusp)](https://github.com/ritusp/liftoff-assignments)
