@@ -127,7 +127,7 @@
 - Derek S
 - Michael S
 - [Schneider, Jakob (@jschneids)](https://github.com/JSchneids/liftoff-assignments)
-- Amy S
+- [Schremp, Amy (@amyschremp)](https://github.com/amyschremp/liftoff-assignments)
 - Thomas S
 - [Smith, Gunnar (@gumnar)](https://github.com/gumnar/liftoff-assignments)
 - Tim S
