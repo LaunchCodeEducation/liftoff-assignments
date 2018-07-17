@@ -121,7 +121,7 @@
 - Galen R
 - Joseph R
 - Mitchell R
-- Jeffrey R
+- [Ricker, Jeffrey (@rickerje)](https://www.github.com/rickerje/liftoff-assignments)
 - [Rose, Robert (@rarose67)](https://github.com/rarose67/liftoff-assignments)
 - [Sagarwala, Sehar (@ssagarwala)](https://github.com/ssagarwala/liftoff-assignments)
 - Sailaja S
