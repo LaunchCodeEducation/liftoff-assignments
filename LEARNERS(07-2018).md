@@ -46,7 +46,7 @@
 - Carl F
 - Lucas F
 - [Avvaru, Geetha (@gavvaru](https://github.com/gavvaru/liftoff-assignments/liftoff-assignments.git)
-- Earl G
+- [Gadel, Earl (@earl-gadel)](https://github.com/earl-gadel/liftoff-assignments)
 - [Gaidhani, Rupali (@mail2rupalig)](https://github.com/mail2rupalig/liftoff-assignments)
 - John G
 - Nicholas G
