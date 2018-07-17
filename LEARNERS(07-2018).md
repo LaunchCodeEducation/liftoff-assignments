@@ -111,7 +111,7 @@
 - Melissa P
 - Ritu P
 - [Pandey, Sumit (@sumitpandey11)](https://www.github.com/sumitpandey11/liftoff-assignments)
-- Peshonna P
+- [Parnell, Peshonna (@shonnawho)](https://github.com/shonnawho/liftoff-assignments)
 - Dhawani P
 - Sri Neha P
 - Brandon P
