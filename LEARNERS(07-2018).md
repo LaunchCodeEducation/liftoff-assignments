@@ -10,8 +10,9 @@
 ### Students Replace Your Name Below With Your Formatted Link
 
 =======
-- [J, A (@Jamesadams1988)](https://github.com/Jamesadams1988/liftoff-assignments)
+- [A, J (@Jamesadams1988)](https://github.com/Jamesadams1988/liftoff-assignments)
 - Aparna A
+- [Avvaru, Geetha (@gavvaru](https://github.com/gavvaru/liftoff-assignments/liftoff-assignments.git)
 - Haley A
 - Benjamin A
 - Randy A
@@ -45,7 +46,6 @@
 - [Fardiyev, Rim (@Dreammaster13)](https://github.com/Dreammaster13/liftoff-assignments.git)
 - Carl F
 - Lucas F
-- [Avvaru, Geetha (@gavvaru](https://github.com/gavvaru/liftoff-assignments/liftoff-assignments.git)
 - [Gadel, Earl (@earl-gadel)](https://github.com/earl-gadel/liftoff-assignments)
 - [Gaidhani, Rupali (@mail2rupalig)](https://github.com/mail2rupalig/liftoff-assignments)
 - John G
@@ -84,12 +84,12 @@
 - [Kumar, Anil (@anilkumar21k)](https://github.com/anilkumar21k/liftoff-assignments.git)
 - Sunita L
 - Deon L
-- [J , L (@Jtiger1841)](https://github.com/Jtiger1841/liftoff-assignments.git)
+- [L , J (@Jtiger1841)](https://github.com/Jtiger1841/liftoff-assignments.git)
 - Daniel L
 - Kyle L
 - Judith L
 - Gary L
-- [R, L (@SharpeLombard)](https://github.com/SharpeLombard/liftoff-assignments)
+- [L, R (@SharpeLombard)](https://github.com/SharpeLombard/liftoff-assignments)
 - [Mackey, Mary (@petem981)](https://github.com/petem981/liftoff-assignments.git)
 - Ther M
 - [Mayher, Jonathan (@JMayher)](https://github.com/JMayher/liftoff-assignments.git)
@@ -114,7 +114,7 @@
 - Ritu P
 - [Pandey, Sumit (@sumitpandey11)](https://www.github.com/sumitpandey11/liftoff-assignments)
 - Peshonna P
-- [Dhawani, Patel (@DannyLC101)](https://www.github.com/DannyLC101/liftoff-assignments)
+- [Patel, Dhawani (@DannyLC101)](https://www.github.com/DannyLC101/liftoff-assignments)
 - Sri Neha P
 - Brandon P
 - Jesse P
@@ -145,7 +145,7 @@
 - [Tuley, Ariel (@arielsarah)](https://github.com/arielsarah/liftoff-assignments)
 - Douglas U
 - [Vardisec, Jareson (@Jareson)] (https://github.com/Jareson/liftoff-assignments)
-- Francesco V
+- [Velocci, Francesco (@FrancescoVelocci)](https://github.com/FrancescoVelocci/liftoff-assignments)
 - Nicholas V
 - [Voisey, Jonathan (@VoijaRisa)](https://github.com/VoijaRisa/liftoff-assignments)
 - Caroline W
