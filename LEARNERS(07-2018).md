@@ -56,7 +56,7 @@
 - Edward G
 - Vicki G
 - Sean G
-- Kevin G
+- [Kevin, Grier (@kgriermetalworks)](https://github.com/kgriermetalworks/liftoff-assignments)
 - David H
 - Mark H
 - David H
