@@ -104,7 +104,7 @@
 - Jessica N
 - [Ngetich, Brian (@bngetich)](https://github.com/bngetich/liftoff-assignments)
 - Phu N
-- Timothy N
+- [Novak, Timothy (@tnovak123)](https://github.com/tnovak123/liftoff-assignments.git)
 - Terence O
 - Daniel O
 - Amanda O
