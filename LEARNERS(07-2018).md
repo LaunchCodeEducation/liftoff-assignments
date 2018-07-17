@@ -142,7 +142,7 @@
 - Denise T
 - Ariel T
 - Douglas U
-- Jareson V
+- [Vardisec, Jareson (@Jareson)] (https://github.com/Jareson/liftoff-assignments)
 - Francesco V
 - Nicholas V
 - Jonathan V
