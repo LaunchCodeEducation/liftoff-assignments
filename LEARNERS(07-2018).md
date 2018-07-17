@@ -91,7 +91,7 @@
 - Gary L
 - [L, R (@SharpeLombard)](https://github.com/SharpeLombard/liftoff-assignments)
 - [Mackey, Mary (@petem981)](https://github.com/petem981/liftoff-assignments.git)
-- Ther M
+- [M, T (@emeraldvision)](https://github.com/emeraldvision/liftoff-assignments)
 - [Mayher, Jonathan (@JMayher)](https://github.com/JMayher/liftoff-assignments.git)
 - [McCool, John (@j-mccool)](https://github.com/j-mccool/liftoff-assignments.git)
 - Patrick M
