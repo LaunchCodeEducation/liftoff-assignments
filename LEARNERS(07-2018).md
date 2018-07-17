@@ -25,7 +25,7 @@
 - Andrea B
 - [Budreau, Bryan (@bbudreau)](http://github.com/bbudreau/liftoff-assignments)
 - Jack B
-- Joe B
+- Burghardt, Joe (@jmburghardt)(https://github.com/jmburghardt/liftoff-assignments.git)
 - Grace C
 - Andrew C
 - Bill C
@@ -74,7 +74,7 @@
 - Jared H
 - Jesse J
 - Mark J
-- Adam K
+- [Karr, Adam (@BobbyTheUnspeakable)](https://github.com/BobbyTheUnspeakable/liftoff-assignments)
 - John K
 - [Ke, Xiaoyu (@xiaoyuk)](https://www.github.com/xiaoyuk/liftoff-assignments.git)
 - Vincent K
