@@ -66,7 +66,7 @@
 - Terry H
 - Zach H
 - Kirk H
-- Jasmine H
+- [Herd, Jasmine (@jasmineHerd)](https://www.github.com/jasmineHerd/liftoff-assignments)
 - Dustin H
 - Adele K
 - Jared H
