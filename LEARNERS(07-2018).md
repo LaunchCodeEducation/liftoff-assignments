@@ -67,7 +67,7 @@
 - [Held, Zach (@zachtheld)](https://github.com/zachtheld/liftoff-assignments.git)
 - Kirk H
 - [Herd, Jasmine (@jasmineHerd)](https://www.github.com/jasmineHerd/liftoff-assignments)
-- Dustin H
+- [Hotz, Dustin (@dehotz)] (https://github.com/dehotz/liftoff-assignments)
 - Adele K
 - Jared H
 - [Johnson, Jesse (@diejessedie)](https://github.com/diejessedie/liftoff-assignments)
