@@ -98,7 +98,7 @@
 - Jayde M
 - Miles M
 - [A, M (@armoussa)](https://github.com/armoussa/liftoff-assignments)
-- Richard M
+- [Munie, Richard (@RichardMunie)](https://github.com/RichardMunie/liftoff-assignments)
 - [R, N (@Bluewalker117)](https://github.com/Bluewalker117/liftoff-assignments.git)
 - Jessica N
 - [Ngetich, Brian (@bngetich)](https://github.com/bngetich/liftoff-assignments)
