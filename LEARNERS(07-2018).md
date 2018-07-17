@@ -90,7 +90,7 @@
 - Rebecca L
 - Mary M
 - Ther M
-- Jonathan M
+- [Mayher, Jonathan (@JMayher)](https://github.com/JMayher/liftoff-assignments.git)
 - John M
 - Patrick M
 - Jonny M
