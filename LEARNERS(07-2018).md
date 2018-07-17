@@ -59,7 +59,7 @@
 - Vicki G
 - Sean G
 - [Kevin, Grier (@kgriermetalworks)](https://github.com/kgriermetalworks/liftoff-assignments)
-- David H
+- [Haarmann, David (@dhaarm11)](https://github.com/dhaarm11/liftoff-assignments)
 - Mark H
 - [Hackett, David (@davidhackett12)](https://github.com/davidhackett12/liftoff-assignments)
 - Allyn H
