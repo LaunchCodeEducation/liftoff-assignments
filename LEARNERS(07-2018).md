@@ -58,7 +58,7 @@
 - [Kevin, Grier (@kgriermetalworks)](https://github.com/kgriermetalworks/liftoff-assignments)
 - David H
 - Mark H
-- David H
+- [Hackett, David (@davidhackett12)](https://github.com/davidhackett12/liftoff-assignments)
 - Allyn H
 - [Hart, Megan (@ki42)](https://www.github.com/ki42/liftoff-assignments)
 - [H, H (@hiroko-lc101)](https://github.com/hiroko-lc101/liftoff-assignments)
