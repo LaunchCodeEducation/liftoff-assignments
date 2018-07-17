@@ -153,7 +153,7 @@
 - Miriam W
 - Jesse W
 - Manuel W
-- Michelle W
+- [Williams, Michelle (@mcwilli94)](https://github.com/mcwilli94/liftoff-assignments.git)
 - Joey W
 - Jared W
 - Richard Z
