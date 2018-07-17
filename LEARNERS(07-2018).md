@@ -97,7 +97,7 @@
 - Brian M
 - Jayde M
 - Miles M
-- Aida M
+- [A, M (@armoussa)](https://github.com/armoussa/liftoff-assignments)
 - Richard M
 - Robert N
 - Jessica N
