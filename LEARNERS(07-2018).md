@@ -76,7 +76,7 @@
 - Mark J
 - Adam K
 - John K
-- Xiaoyu K
+- [Ke, Xiaoyu (@xiaoyuk)](https://www.github.com/xiaoyuk/liftoff-assignments.git)
 - Vincent K
 - Matthew K
 - Johanna K
