@@ -129,7 +129,7 @@
 - Jakob S
 - Amy S
 - Thomas S
-- Gunnar S
+- [Smith, Gunnar (@gumnar)](https://github.com/gumnar/liftoff-assignments)
 - Tim S
 - Kelly S
 - Saranyadevi S
