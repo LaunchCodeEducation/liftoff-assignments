@@ -124,7 +124,7 @@
 - Mitchell R
 - Jeffrey R
 - [Rose, Robert (@rarose67)](https://github.com/rarose67/liftoff-assignments)
-- Sehar S
+- [Sagarwala, Sehar (@ssagarwala)](https://github.com/ssagarwala/liftoff-assignments)
 - Sailaja S
 - Derek S
 - Michael S
