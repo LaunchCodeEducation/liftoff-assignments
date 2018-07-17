@@ -122,7 +122,7 @@
 - Jesse P
 - [Buvaneshwari, Rajendiran (@buvanapandu)](https://github.com/buvanapandu/liftoff-assignments)
 - Galen R
-- Joseph R
+- [Regan, Joseph (@JojoAdventure)](https://github.com/JojoAdventure/liftoff-assignments)
 - Mitchell R
 - [Ricker, Jeffrey (@rickerje)](https://www.github.com/rickerje/liftoff-assignments)
 - [Rose, Robert (@rarose67)](https://github.com/rarose67/liftoff-assignments)
