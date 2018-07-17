@@ -111,7 +111,7 @@
 - Amanda O
 - Nicholas O
 - [Pabst, Melissa (@MelissaPabst)](https://www.github.com/MelissaPabst/liftoff-assignments)
-- Ritu P
+- [P, R (@ritusp)](https://github.com/ritusp/liftoff-assignments)
 - [Pandey, Sumit (@sumitpandey11)](https://www.github.com/sumitpandey11/liftoff-assignments)
 - Peshonna P
 - [Patel, Dhawani (@DannyLC101)](https://www.github.com/DannyLC101/liftoff-assignments)
