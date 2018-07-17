@@ -7,11 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I am going to create a testimonial tool!
 ### Features
-Include Features here
+Collect Testimonials
+Login/logout
+Ability to hide/publish testimonials
 ### Technologies
-Include Technologies here
+Java
+React
+Hibernate
+PostgreSQL
+Heroku
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+React and potentially Redux
+React Router
+Java
+Hibernate
+How to create a RESTful API
