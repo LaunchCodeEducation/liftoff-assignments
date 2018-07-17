@@ -16,7 +16,7 @@
 - [A, J (@Jamesadams1988)](https://github.com/Jamesadams1988/liftoff-assignments)
 - [Akula, Aparna(@aparnaakula)](https://github.com/aparnaakula/liftoff-assignments)
 - [Albers, Haley (@haalbers)](https://github.com/haalbers/liftoff-assignments.git)
-- Benjamin A
+- [Asselmeier, Benjamin (@benasselmeier)](https://github.com/benasselmeier/liftoff-assignments.git)
 - Randy A
 - [Avvaru, Geetha (@gavvaru](https://github.com/gavvaru/liftoff-assignments/liftoff-assignments.git)
 - [Basinger, Jenelle (@Jenellebas)](https://github.com/Jenellebas/liftoff-assignments)
