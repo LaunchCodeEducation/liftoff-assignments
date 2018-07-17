@@ -99,7 +99,7 @@
 - [McGirk, Brian (@Brian-McGirk)](https://www.github.com/Brian-McGirk/liftoff-assignments)
 - Jayde M
 - Miles M
-- Aida M
+- [A, M (@armoussa)](https://github.com/armoussa/liftoff-assignments)
 - Richard M
 - Robert N
 - Jessica N
