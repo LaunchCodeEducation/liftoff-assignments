@@ -9,6 +9,7 @@
 
 ### Students Replace Your Name Below With Your Formatted Link
 
+=======
 - [J, A (@Jamesadams1988)](https://github.com/Jamesadams1988/liftoff-assignments)
 - Aparna A
 - Haley A
@@ -44,6 +45,7 @@
 - Rim F
 - Carl F
 - Lucas F
+- [Avvaru, Geetha (@gavvaru](https://github.com/gavvaru/liftoff-assignments/liftoff-assignments.git)
 - Earl G
 - [Gaidhani, Rupali (@mail2rupalig)](https://github.com/mail2rupalig/liftoff-assignments)
 - John G
