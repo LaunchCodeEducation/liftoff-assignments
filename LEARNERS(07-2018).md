@@ -19,7 +19,7 @@
 - Jenelle B
 - [Berrio, Jose (@aldarisbm)](https://github.com/aldarisbm/liftoff-assignments.git)
 - Ryan B
-- Drew B
+- [Blosser, Drew (@drewb101)](https://github.com/drewb101/liftoff-assignments.git)
 - Erwin B
 - Alysia B
 - Andrea B
