@@ -29,7 +29,7 @@
 - [Callahan, Grace (@smallar-achnid)](https://www.github.com/smallar-achnid/liftoff-assignments)
 - Andrew C
 - Bill C
-- Leslie C
+- [L, C (@LeslieCassert)](https://github.com/LeslieCassert/liftoff-assignments)
 - Vasundhara C
 - Lucas C
 - Robert C
