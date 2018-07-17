@@ -79,7 +79,7 @@
 - Matthew K
 - Johanna K
 - Joshua K
-- [Kumar, Anil (@anilkumar21k](https://github.com/anilkumar21k/liftoff-assignments.git)
+- [Kumar, Anil (@anilkumar21k)](https://github.com/anilkumar21k/liftoff-assignments.git)
 - Sunita L
 - Deon L
 - Julian L
@@ -88,7 +88,7 @@
 - Judith L
 - Gary L
 - Rebecca L
-- Mary M
+- [Mackey, Mary (@petem981)](https://github.com/petem981/liftoff-assignments.git)
 - Ther M
 - Jonathan M
 - [McCool, John (@j-mccool)](https://github.com/j-mccool/liftoff-assignments.git)
