@@ -155,7 +155,7 @@
 - Manuel W
 - Michelle W
 - Joey W
-- Jared W
+- [Wood, Jared (@pocolius)] (https://github.com/Pocolius/liftoff-assignments)
 - Richard Z
 
 
