@@ -161,3 +161,5 @@
 - Joey W
 - [Wood, Jared (@pocolius)](https://github.com/Pocolius/liftoff-assignments)
 - Richard Z
+- Phu N
+- [PHU, NGUYEN (@phucodes)(https://github.com/phucodes/liftoff-assignments)]
