@@ -69,7 +69,7 @@
 - [H, K (@PhilosopherKing)](https://github.com/PhilosopherKing/liftoff-assignments)
 - Terry H
 - [Held, Zach (@zachtheld)](https://github.com/zachtheld/liftoff-assignments.git)
-- Kirk H
+- [Kirk H (@khvictoryman)] (https://github.com/khvictoryman/liftoff-assignments.git)
 - [Herd, Jasmine (@jasmineHerd)](https://www.github.com/jasmineHerd/liftoff-assignments)
 - [Hotz, Dustin (@dehotz)] (https://github.com/dehotz/liftoff-assignments)
 - Adele K
