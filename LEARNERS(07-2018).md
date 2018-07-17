@@ -96,7 +96,7 @@
 - [McCool, John (@j-mccool)](https://github.com/j-mccool/liftoff-assignments.git)
 - Patrick M
 - Jonny M
-- Brian M
+- [McGirk, Brian (@Brian-McGirk)](https://www.github.com/Brian-McGirk/liftoff-assignments)
 - Jayde M
 - Miles M
 - Aida M
