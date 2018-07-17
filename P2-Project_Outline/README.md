@@ -23,6 +23,4 @@ My family and several of our friends enjoy camping and we are always looking for
 
 
 ### What I'll Have to Learn
-Learn more about incorporating bootstrap. Building User signup. Learn more about verification and how to use Hashing.
-
-•  Project Tracker: Pivotal
+Include what you will need to learn here
