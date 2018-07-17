@@ -64,7 +64,7 @@
 - Megan H
 - Hiroko H
 - Joshua H
-- [K, H (@PhilosopherKing)](https://github.com/PhilosopherKing/liftoff-assignments)
+- [H, K (@PhilosopherKing)](https://github.com/PhilosopherKing/liftoff-assignments)
 - Terry H
 - Zach H
 - Kirk H
