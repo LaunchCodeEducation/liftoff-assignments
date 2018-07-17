@@ -66,7 +66,7 @@
 - Joshua H
 - [H, K (@PhilosopherKing)](https://github.com/PhilosopherKing/liftoff-assignments)
 - Terry H
-- Zach H
+- [Held, Zach (@zachtheld)] (https://github.com/zachtheld/liftoff-assignments.git)
 - Kirk H
 - [Herd, Jasmine (@jasmineHerd)](https://www.github.com/jasmineHerd/liftoff-assignments)
 - Dustin H
