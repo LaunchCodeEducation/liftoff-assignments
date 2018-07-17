@@ -36,7 +36,7 @@
 - Robert C
 - [Darnell, Steven (@stevendlc101)](https://github.com/stevendlc101/liftoff-assignments.git)
 - [Detra, Brandon (@bdtra)](https://github.com/bdtra/liftoff-assignments)
-- Andrew D
+- [D, A (@SnowCrashOverride](https://github.com/SnowCrashOverride/liftoff-assignments.git)
 - Gnanaprasuna D
 - Andrew E
 - Sandra E
