@@ -51,7 +51,7 @@
 - [Gadel, Earl (@earl-gadel)](https://github.com/earl-gadel/liftoff-assignments)
 - [Gaidhani, Rupali (@mail2rupalig)](https://github.com/mail2rupalig/liftoff-assignments)
 - [Gallagher, John (@jackpg09)](https://github.com/jackpg09/liftoff-assignments.git)
-- Nicholas G
+- [Gallion, Nicholas (@ngallion)](https://github.com/ngallion/liftoff-assignments)
 - Jon G
 - [Gillis, Carl (cagill3)](https://github.com/cagill3/liftoff-assignments.git)
 - Ken G
