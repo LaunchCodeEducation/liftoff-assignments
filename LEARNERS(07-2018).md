@@ -49,7 +49,7 @@
 - John G
 - Nicholas G
 - Jon G
-- Carl G
+- [Gillis, Carl (cagill3)](https://github.com/cagill3/liftoff-assignments.git)
 - Ken G
 - Edward G
 - Vicki G
