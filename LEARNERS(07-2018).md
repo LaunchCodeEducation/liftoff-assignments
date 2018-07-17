@@ -53,7 +53,7 @@
 - Ken G
 - Edward G
 - Vicki G
-- Sean G
+- [Gorman, Sean (@mrseangorman)](https://github.com/MrSeanGorman/liftoff-assignments)
 - Kevin G
 - David H
 - Mark H
