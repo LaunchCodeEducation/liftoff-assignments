@@ -16,7 +16,7 @@
 - Randy A
 - Geetha A
 - Jenelle B
-- Jose B
+- [Berrio, Jose (@aldarisbm)](https://github.com/aldarisbm/liftoff-assignments.git)
 - Ryan B
 - Drew B
 - Erwin B
