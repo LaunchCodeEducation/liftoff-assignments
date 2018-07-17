@@ -123,7 +123,7 @@
 - Jeffrey R
 - Robert R
 - Sehar S
-- Sailaja S
+- [Sakthivel, Sailaja (@ssailaja)](https://github.com/ssailaja/liftoff-assignments)
 - Derek S
 - Michael S
 - Jakob S
