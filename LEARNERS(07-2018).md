@@ -87,7 +87,7 @@
 - Sunita L
 - Deon L
 - [L , J (@Jtiger1841)](https://github.com/Jtiger1841/liftoff-assignments.git)
-- Daniel L
+- [Leib, Daniel (@InternDan)](https://github.com/InternDan/liftoff-assignments)
 - Kyle L
 - [Light, Judith (@judy2001)](https://github.com/judy2001/liftoff-assignments)
 - Gary L
