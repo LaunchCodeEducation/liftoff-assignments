@@ -62,7 +62,7 @@
 - David H
 - Allyn H
 - Megan H
-- Hiroko H
+- [H, H (@hiroko-lc101)](https://github.com/hiroko-lc101/liftoff-assignments)
 - Joshua H
 - [H, K (@PhilosopherKing)](https://github.com/PhilosopherKing/liftoff-assignments)
 - Terry H
