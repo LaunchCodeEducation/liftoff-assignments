@@ -32,7 +32,7 @@
 - Vasundhara C
 - Lucas C
 - Robert C
-- Steven D
+- [Darnell, Steven (@stevendlc101)](https://github.com/stevendlc101/liftoff-assignments.git)
 - Brandon D
 - Andrew D
 - Gnanaprasuna D
