@@ -151,7 +151,7 @@
 - Caroline W
 - Jacob W
 - [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
-- Julian W
+- [White, Julian (@jcwhite99)](https://github.com/jcwhite99/liftoff-assignments)
 - Miriam W
 - Jesse W
 - Manuel W
