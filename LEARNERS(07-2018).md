@@ -45,7 +45,7 @@
 - Carl F
 - Lucas F
 - Earl G
-- Rupali G
+- [Gaidhani, Rupali (@mail2rupalig)](https://github.com/mail2rupalig/liftoff-assignments)
 - John G
 - Nicholas G
 - Jon G
@@ -90,7 +90,7 @@
 - Rebecca L
 - [Mackey, Mary (@petem981)](https://github.com/petem981/liftoff-assignments.git)
 - Ther M
-- Jonathan M
+- [Mayher, Jonathan (@JMayher)](https://github.com/JMayher/liftoff-assignments.git)
 - [McCool, John (@j-mccool)](https://github.com/j-mccool/liftoff-assignments.git)
 - Patrick M
 - Jonny M
