@@ -26,8 +26,8 @@
 - Andrea B
 - [Budreau, Bryan (@bbudreau)](http://github.com/bbudreau/liftoff-assignments)
 - Jack B
-- Burghardt, Joe (@jmburghardt)(https://github.com/jmburghardt/liftoff-assignments.git)
-- Grace C
+- [Burghardt, Joe (@jmburghardt)](https://github.com/jmburghardt/liftoff-assignments.git)
+- [Callahan, Grace (@smallar-achnid)](https://www.github.com/smallar-achnid/liftoff-assignments)
 - Andrew C
 - Bill C
 - Leslie C
