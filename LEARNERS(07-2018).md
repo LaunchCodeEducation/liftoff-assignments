@@ -89,7 +89,7 @@
 - Kyle L
 - Judith L
 - Gary L
-- Rebecca L
+- [R, L (@SharpeLombard)](https://github.com/SharpeLombard/liftoff-assignments)
 - [Mackey, Mary (@petem981)](https://github.com/petem981/liftoff-assignments.git)
 - Ther M
 - [Mayher, Jonathan (@JMayher)](https://github.com/JMayher/liftoff-assignments.git)
