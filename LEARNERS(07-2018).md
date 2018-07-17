@@ -101,7 +101,7 @@
 - Miles M
 - [A, M (@armoussa)](https://github.com/armoussa/liftoff-assignments)
 - Richard M
-- Robert N
+- [R, N (@Bluewalker117)](https://github.com/Bluewalker117/liftoff-assignments.git)
 - Jessica N
 - [Ngetich, Brian (@bngetich)](https://github.com/bngetich/liftoff-assignments)
 - Phu N
