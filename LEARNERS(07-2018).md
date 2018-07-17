@@ -137,7 +137,7 @@
 - Tim S
 - Kelly S
 - Saranyadevi S
-- Joseph S
+- [Stegall, Joseph (@Josephstegall)](https://github.com/Josephstegall/liftoff-assignments)
 - [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
 - Samuel T
 - Jonathan T
