@@ -145,7 +145,7 @@
 - Jareson V
 - Francesco V
 - Nicholas V
-- [Voisey, Jonathan (@VoijaRisa)](https://github.com/VoijaRisa)
+- [Voisey, Jonathan (@VoijaRisa)](https://github.com/VoijaRisa/liftoff-assignments)
 - Caroline W
 - Jacob W
 - [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
