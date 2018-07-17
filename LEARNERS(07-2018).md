@@ -22,7 +22,7 @@
 - Erwin B
 - Alysia B
 - Andrea B
-- Bryan B
+- [Budreau, Bryan (@bbudreau)](http://github.com/bbudreau/liftoff-assignments)
 - Jack B
 - Joe B
 - Grace C
