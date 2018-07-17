@@ -61,7 +61,7 @@
 - Mark H
 - David H
 - Allyn H
-- Megan H
+- [Hart, Megan (@ki42)](https://www.github.com/ki42/liftoff-assignments)
 - [H, H (@hiroko-lc101)](https://github.com/hiroko-lc101/liftoff-assignments)
 - Joshua H
 - [H, K (@PhilosopherKing)](https://github.com/PhilosopherKing/liftoff-assignments)
