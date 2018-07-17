@@ -22,7 +22,7 @@
 - [Blosser, Drew (@drewb101)](https://github.com/drewb101/liftoff-assignments.git)
 - Erwin B
 - Alysia B
-- Andrea B
+- [Brown, Andrea (@AndreaBrown7286)](https://github.com/AndreaBrown7286/liftoff-assignments)
 - [Budreau, Bryan (@bbudreau)](http://github.com/bbudreau/liftoff-assignments)
 - Jack B
 - [Burghardt, Joe (@jmburghardt)](https://github.com/jmburghardt/liftoff-assignments.git)
