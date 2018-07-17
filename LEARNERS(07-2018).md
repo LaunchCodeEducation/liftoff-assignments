@@ -44,7 +44,7 @@
 - Rim F
 - Carl F
 - Lucas F
-- Earl G
+- [Gadel, Earl (@earl-gadel)](https://github.com/earl-gadel/liftoff-assignments)
 - Rupali G
 - John G
 - Nicholas G
