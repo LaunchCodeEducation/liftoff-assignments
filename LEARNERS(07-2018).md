@@ -9,9 +9,8 @@
 
 ### Students Replace Your Name Below With Your Formatted Link
 
-=======
 - [A, J (@Jamesadams1988)](https://github.com/Jamesadams1988/liftoff-assignments)
-- Aparna A
+- [Akula, Aparna(@aparnaakula)](https://github.com/aparnaakula/liftoff-assignments)
 - [Albers, Haley (@haalbers)](https://github.com/haalbers/liftoff-assignments.git)
 - Benjamin A
 - Randy A
