@@ -158,7 +158,7 @@
 - Jesse W
 - Manuel W
 - [Williams, Michelle (@mcwilli94)](https://github.com/mcwilli94/liftoff-assignments.git)
-- Joey W
+- [Wilson, Joey @jrwilson5116](https://github.com/jrwilson5116/liftoff-assignments)
 - [Wood, Jared (@pocolius)](https://github.com/Pocolius/liftoff-assignments)
 - Richard Z
 - Phu N
