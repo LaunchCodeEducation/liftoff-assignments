@@ -118,7 +118,7 @@
 - Peshonna P
 - [Patel, Dhawani (@DannyLC101)](https://www.github.com/DannyLC101/liftoff-assignments)
 - Sri Neha P
-- Brandon P
+- [P, Brandon] (@Intendant-)](https://github.com/intendant-/liftoff-assignments)
 - Jesse P
 - [Buvaneshwari, Rajendiran (@buvanapandu)](https://github.com/buvanapandu/liftoff-assignments)
 - Galen R
