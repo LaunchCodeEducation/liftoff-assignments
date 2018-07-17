@@ -140,7 +140,7 @@
 - Lori T
 - Danielle T
 - Denise T
-- Ariel T
+- [Tuley, Ariel (@arielsarah)](https://github.com/arielsarah/liftoff-assignments)
 - Douglas U
 - Jareson V
 - Francesco V
