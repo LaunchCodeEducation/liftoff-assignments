@@ -104,7 +104,7 @@
 - [A, M (@armoussa)](https://github.com/armoussa/liftoff-assignments)
 - [Munie, Richard (@RichardMunie)](https://github.com/RichardMunie/liftoff-assignments)
 - [R, N (@Bluewalker117)](https://github.com/Bluewalker117/liftoff-assignments.git)
-- Jessica N
+- [Nations, Jessica (@JessicaNations)](https://github.com/JessicaNations/liftoff-assignments)
 - [Ngetich, Brian (@bngetich)](https://github.com/bngetich/liftoff-assignments)
 - Phu N
 - [Novak, Timothy (@tnovak123)](https://github.com/tnovak123/liftoff-assignments.git)
