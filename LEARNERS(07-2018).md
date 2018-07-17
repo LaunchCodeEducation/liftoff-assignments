@@ -42,7 +42,7 @@
 - Sandra E
 - Jonathan E
 - Uche E
-- Paul F
+- [Fannon, Paul (@bluenote87)](https://github.com/bluenote87/liftoff-assignments)
 - [Fardiyev, Rim (@Dreammaster13)](https://github.com/Dreammaster13/liftoff-assignments.git)
 - [Filler, Carl (@cfiller123)](https://github.com/cfiller123/liftoff-assignments)
 - Lucas F
