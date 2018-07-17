@@ -108,7 +108,7 @@
 - Terence O
 - Daniel O
 - Amanda O
-- Nicholas O
+- [Owens, Nicholas (@Nowens17)](https://github.com/Nowens17/liftoff-assignments)
 - [Pabst, Melissa (@MelissaPabst)](https://www.github.com/MelissaPabst/liftoff-assignments)
 - [P, R (@ritusp)](https://github.com/ritusp/liftoff-assignments)
 - [Pandey, Sumit (@sumitpandey11)](https://www.github.com/sumitpandey11/liftoff-assignments)
