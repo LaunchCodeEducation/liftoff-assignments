@@ -148,7 +148,7 @@
 - Nicholas V
 - [Voisey, Jonathan (@VoijaRisa)](https://github.com/VoijaRisa/liftoff-assignments)
 - Caroline W
-- Jacob W
+- [Wells, Jacob (@jaykewells)](https://github.com/jaykewells/liftoff-assignments)
 - [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
 - Julian W
 - Miriam W
