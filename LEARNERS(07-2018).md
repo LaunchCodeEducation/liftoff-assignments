@@ -45,7 +45,7 @@
 - Carl F
 - Lucas F
 - Earl G
-- Rupali G
+- [Gaidhani, Rupali (@mail2rupalig)](https://github.com/mail2rupalig/liftoff-assignments)
 - John G
 - Nicholas G
 - Jon G
