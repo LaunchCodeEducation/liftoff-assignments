@@ -82,7 +82,7 @@
 - [Kumar, Anil (@anilkumar21k)](https://github.com/anilkumar21k/liftoff-assignments.git)
 - Sunita L
 - Deon L
-- Julian L
+- [J , L (@Jtiger1841)](https://github.com/Jtiger1841/liftoff-assignments.git)
 - Daniel L
 - Kyle L
 - Judith L
