@@ -7,22 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-I have an upcoming interview with Google based on completing the Foobar challenge, which is a light-hearted game that involves understanding numbers very well. In order to create a compelling project that aligns with the values I witnessed in the Foobar challenge, I would like to create and deploy a numbers-based game.
-
-The game will give children an interactive space to practice completing patterns. It will involve listing 9 numbers and asking the child what the 10th number should be. The pattern will either be arithmetic or geometric, and the game itself will be played on site (using JavaScript). I will also keep track of each user's stats in a database (using phpMyAdmin and Python): Longest streak, current streak, win/loss percentage. The user will have the ability to reset the data at any point--returning all stats to 0.
-
-In addition to putting the code on my GitHub page, I want to have it actively deployed on my website. (And I want to update my website so that it looks more attractive and has information about my interests and my goals.)
+Include overview here
 
 ### Features
--Log-in
--Guessing Game
--Stats Tracking
--Stats Reset Option
-
-### Extended Features
-I would love to add some of the following fairly straightforward features if time allows:
-- A button that takes the user to: Definitions of geometric and arithmetic patterns
-- A button that takes the user to: Examples of practical uses of geometric and arithmetic sequences
+Include Features here
 
 ### Technologies
 -Javascript
@@ -31,7 +19,17 @@ I would love to add some of the following fairly straightforward features if tim
 -Flask?
 -HTML/CSS
 
-### What I'll Have to Learn
-I'll need to learn Javascript. I also plan to host this on my current website--graceerincallahan.com--so I'll want to figure out how to use FTP. I've been using WordPress up to this point, but I don't like it. I'll also want to revisit Bootstrap because we glanced at it in LC101, and I'm not solid on it just yet.
+Java
+Spring Boot
+Thymeleaf
+Java Persistence Annotation
+Hibernate
+MySQL
+Bootstrap (HTML, CSS & Javascript)
+Safecast API to pull background radiation readings
+To-be-decided weather API to pull air quality, UV levels and wind direction readings
+Google Maps API to display locations
+Heroku to deploy the app on the Internet
 
-I'm also at the point of researching what the best framework would be because I haven't used Javascript before.
+### What I'll Have to Learn
+Include what you will need to learn here
