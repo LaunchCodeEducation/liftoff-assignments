@@ -41,7 +41,7 @@
 - [D, A (@SnowCrashOverride](https://github.com/SnowCrashOverride/liftoff-assignments.git)
 - Gnanaprasuna D
 - Andrew E
-- Sandra E
+- [Edwards, Sandra (@lilsan23)](https://github.com/lilsan23/liftoff-assignments.git)
 - Jonathan E
 - Uche E
 - [Fannon, Paul (@bluenote87)](https://github.com/bluenote87/liftoff-assignments)
