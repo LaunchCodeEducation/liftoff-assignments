@@ -6,6 +6,7 @@
 
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Walker, Ryan (@ryanawalker)](https://www.github.com/ryanawalker/liftoff-assignments)
+- [Wang, Lin (@linwang929)](https://www.github.com/linwang929/liftoff-assignments)
 
 ### Students Replace Your Name Below With Your Formatted Link
 
@@ -124,7 +125,7 @@
 - Robert R
 - Sehar S
 - Sailaja S
-- Derek S
+- [Sanabria, Derek (@dsanabria1023)](https://github.com/dsanabria1023/liftoff-assignments)
 - Michael S
 - Jakob S
 - Amy S
@@ -136,8 +137,8 @@
 - Joseph S
 - Nick S
 - Samuel T
-- Jonathan T
-- Lori T
+- [Thompson, Jonathan (@sirjdt)](https://github.com/sirjdt/liftoff-assignments)
+- [Lori T (@lorithurman87)](https://github.com/lorithurman87/liftoff-assignments.git)
 - Danielle T
 - Denise T
 - Ariel T
