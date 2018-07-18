@@ -106,7 +106,7 @@
 - [R, N (@luewalker117)](https://github.com/Bluewalker117/liftoff-assignments.git)
 - [Nations, Jessica (@JessicaNations)](https://github.com/JessicaNations/liftoff-assignments)
 - [Ngetich, Brian (@bngetich)](https://github.com/bngetich/liftoff-assignments)
-- Phu N
+- [PHU, NGUYEN (@phucodes)](https://github.com/phucodes/liftoff-assignments)
 - [Novak, Timothy (@tnovak123)](https://github.com/tnovak123/liftoff-assignments.git)
 - Terence O
 - Daniel O
@@ -160,5 +160,4 @@
 - [Williams, Michelle (@mcwilli94)](https://github.com/mcwilli94/liftoff-assignments.git)
 - [Wilson, Joey @jrwilson5116](https://github.com/jrwilson5116/liftoff-assignments)
 - [Wood, Jared (@pocolius)](https://github.com/Pocolius/liftoff-assignments)
-- Richard Z
-- [PHU, NGUYEN (@phucodes)(https://github.com/phucodes/liftoff-assignments)]
+- [Ziegler, Richard (@richardziegler)](https://github.com/richardziegler/liftoff-assignments)
