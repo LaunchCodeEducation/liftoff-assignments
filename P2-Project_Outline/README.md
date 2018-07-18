@@ -7,11 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+System to track attendees, vehicles, theme camps, shifts, events, and maybe even send text messages to people working that day
+
 ### Features
-Include Features here
+Sign-in for staff
+Templates for entering attendees, vehicles, theme camps, events
+
+
 ### Technologies
-Include Technologies here
+Java
+MySQL
+Javascript
+?? Twilio ??
+
 
 ### What I'll Have to Learn
 Include what you will need to learn here
