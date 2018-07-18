@@ -73,7 +73,7 @@
 - [Herd, Jasmine (@jasmineHerd)](https://www.github.com/jasmineHerd/liftoff-assignments)
 - [Hotz, Dustin (@dehotz)](https://github.com/dehotz/liftoff-assignments)
 - Adele K
-- Jared H
+- [Howard, Jared (@Jrhowar)](https://github.com/Jrhowar/liftoff-assignments)
 - [Johnson, Jesse (@diejessedie)](https://github.com/diejessedie/liftoff-assignments)
 - [Johnson, Mark (@mrkish)](https://www.github.com/mrkish/liftoff-assignments.git)
 - [Karr, Adam (@BobbyTheUnspeakable)](https://github.com/BobbyTheUnspeakable/liftoff-assignments)
