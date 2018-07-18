@@ -132,7 +132,7 @@
 - Michael S
 - [Schneider, Jakob (@jschneids)](https://github.com/JSchneids/liftoff-assignments)
 - [Schremp, Amy (@amyschremp)](https://github.com/amyschremp/liftoff-assignments)
-- Thomas S
+- [Shuman, Thomas (@thomasshumanjr)](https://github.com/ThomasShumanJr/liftoff-assignments)
 - [Smith, Gunnar (@gumnar)](https://github.com/gumnar/liftoff-assignments)
 - Tim S
 - [Sorbello, Kelly (@ksorbello)](https://github.com/ksorbello/liftoff-assignments.git)
