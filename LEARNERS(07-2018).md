@@ -63,7 +63,7 @@
 - Hiroko H
 - Joshua H
 - Kyle H
-- Terry H
+- [Haynie, Terry (@Talapine)](https://github.com/Talapine/liftoff-assignments.git)
 - Zach H
 - Kirk H
 - Jasmine H
