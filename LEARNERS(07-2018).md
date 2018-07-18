@@ -155,7 +155,7 @@
 - [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
 - [White, Julian (@jcwhite99)](https://github.com/jcwhite99/liftoff-assignments)
 - Miriam W
-- Jesse W
+- [Williams, Jesse (@74Jesse19)](https://github.com/74Jesse19/liftoff-assignments.git)
 - Manuel W
 - [Williams, Michelle (@mcwilli94)](https://github.com/mcwilli94/liftoff-assignments.git)
 - [Wilson, Joey @jrwilson5116](https://github.com/jrwilson5116/liftoff-assignments)
