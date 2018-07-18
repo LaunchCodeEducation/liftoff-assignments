@@ -34,4 +34,4 @@ Object selection: Users should be able to put objects (sets) into different list
 --How to move an object from one list to another
 --More CSS/Javascript for an improved look
 --Best way to query Databases for speed
---Password hashing
+--Password hashing (Spring security)
