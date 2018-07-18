@@ -131,7 +131,7 @@
 - Amy S
 - Thomas S
 - Gunnar S
-- Tim S
+- [T, S (@timconseevable)](https://github.com/timconseevable/liftoff-assignments)
 - Kelly S
 - Saranyadevi S
 - Joseph S
