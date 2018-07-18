@@ -15,7 +15,7 @@ STLGDC community and board members for various purposes.
 
 ### Features
 * **Member signup:** Users will be able to create accounts and pay their membership dues
-via PayPal.  Will include email validation and verify dues payment with PayPal before adding 
+via PayPal.  Will include email validation and verify dues are paid with PayPal before adding 
 member to the database.
 
 * **Email confirmation:** A confirmation email will be sent with a link to confirm member 
@@ -26,12 +26,15 @@ to join the STLGDC Slack workspace.
 logged into the site.  Users will be able to set their profile to either be viewable by the 
 public or available only to other members.
 
-* **Active/Inactive Members:** Each profile will have an active field which will be updated 
-when they pay their annual dues.  Will use PayPal API to varify payment.  Slack access will 
+* **Active/Inactive Members:** Each profile will have an _'active'_ field which will be updated 
+when they pay their annual dues.  Will use PayPal API to verify payment.  Slack access will 
 also be updated using this system.
 
 * **Search/Sort:** Users will be able to search the member directory for member profiles 
 matching their search criteria and sort the list by a desired profile field (ie. skills).
+
+* **Pre-existing Members:** an automated system for adding current active members to the new 
+database will need to be devised so that hopefully current members do not need to sign up again.
 
 
 
