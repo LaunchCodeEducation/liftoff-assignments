@@ -34,7 +34,7 @@
 - Bill C
 - [L, C (@LeslieCassert)](https://github.com/LeslieCassert/liftoff-assignments)
 - Vasundhara C
-- Lucas C
+- [Cima, Lucas (@TheRazzness)](https://github.com/TheRazzness/liftoff-assignments)
 - Robert C
 - [Darnell, Steven (@stevendlc101)](https://github.com/stevendlc101/liftoff-assignments.git)
 - [Detra, Brandon (@bdtra)](https://github.com/bdtra/liftoff-assignments)
