@@ -129,7 +129,7 @@
 - [Rose, Robert (@rarose67)](https://github.com/rarose67/liftoff-assignments)
 - [Sagarwala, Sehar (@ssagarwala)](https://github.com/ssagarwala/liftoff-assignments)
 - Sailaja S
-- Derek S
+- [Sanabria, Derek (@dsanabria1023)](https://github.com/dsanabria1023/liftoff-assignments)
 - Michael S
 - [Schneider, Jakob (@jschneids)](https://github.com/JSchneids/liftoff-assignments)
 - [Schremp, Amy (@amyschremp)](https://github.com/amyschremp/liftoff-assignments)
