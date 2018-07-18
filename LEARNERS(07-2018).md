@@ -38,7 +38,7 @@
 - Andrew D
 - Gnanaprasuna D
 - Andrew E
-- Sandra E
+- [Edwards, Sandra (@lilsan23)](https://github.com/lilsan23/liftoff-assignments.git)
 - Jonathan E
 - [Erondu, Uche (@UcheE)](https://github.com/UcheE/liftoff-assignments)
 - Paul F
@@ -159,7 +159,6 @@
 - Jared W
 - Richard Z
 - [O'Neill, Terence (@zlemihl)](https://github.com/zlemihl/liftoff-asssignments)
-
 
 
 
