@@ -6,6 +6,7 @@
 
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Walker, Ryan (@ryanawalker)](https://www.github.com/ryanawalker/liftoff-assignments)
+- [Wang, Lin (@linwang929)](https://www.github.com/linwang929/liftoff-assignments)
 
 ### LaunchCode Mentor Repos
 
