@@ -145,7 +145,7 @@
 - Danielle T
 - Denise T
 - [Tuley, Ariel (@arielsarah)](https://github.com/arielsarah/liftoff-assignments)
-- Douglas U
+- [Urban, Douglas (@durban9)](https://github.com/durban9/liftoff-assignments)
 - [Vardisec, Jareson (@Jareson)](https://github.com/Jareson/liftoff-assignments)
 - [Velocci, Francesco (@FrancescoVelocci)](https://github.com/FrancescoVelocci/liftoff-assignments)
 - Nicholas V
