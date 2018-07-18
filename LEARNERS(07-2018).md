@@ -141,7 +141,7 @@
 - [Stegall, Joseph (@Josephstegall)](https://github.com/Josephstegall/liftoff-assignments)
 - [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
 - Samuel T
-- Jonathan T
+- [Thompson, Jonathan (@sirjdt)](https://github.com/sirjdt/liftoff-assignments)
 - [Lori T (@lorithurman87)](https://github.com/lorithurman87/liftoff-assignments.git)
 - Danielle T
 - Denise T
