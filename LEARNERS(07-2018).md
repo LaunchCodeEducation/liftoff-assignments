@@ -147,7 +147,7 @@
 - Francesco V
 - Nicholas V
 - Jonathan V
-- Caroline W
+- [Caroline W (@cwallace18)](https://github.com/cwallace18/liftoff-assignments)
 - Jacob W
 - [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
 - Julian W
