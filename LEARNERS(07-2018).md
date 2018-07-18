@@ -57,7 +57,7 @@
 - Ken G
 - Edward G
 - Vicki G
-- Sean G
+- [Gorman, Sean (@mrseangorman)](https://github.com/MrSeanGorman/liftoff-assignments)
 - [Kevin, Grier (@kgriermetalworks)](https://github.com/kgriermetalworks/liftoff-assignments)
 - [Haarmann, David (@dhaarm11)](https://github.com/dhaarm11/liftoff-assignments)
 - Mark H
