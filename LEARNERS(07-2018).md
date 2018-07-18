@@ -158,6 +158,7 @@
 - Joey W
 - Jared W
 - Richard Z
+- [O'Neill, Terence (@zlemihl)](https://github.com/zlemihl/liftoff-asssignments)
 
 
 
