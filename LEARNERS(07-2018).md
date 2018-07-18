@@ -69,9 +69,9 @@
 - [H, K (@PhilosopherKing)](https://github.com/PhilosopherKing/liftoff-assignments)
 - Terry H
 - [Held, Zach (@zachtheld)](https://github.com/zachtheld/liftoff-assignments.git)
-- [Kirk H (@khvictoryman)] (https://github.com/khvictoryman/liftoff-assignments.git)
+- [Kirk H (@khvictoryman)](https://github.com/khvictoryman/liftoff-assignments.git)
 - [Herd, Jasmine (@jasmineHerd)](https://www.github.com/jasmineHerd/liftoff-assignments)
-- [Hotz, Dustin (@dehotz)] (https://github.com/dehotz/liftoff-assignments)
+- [Hotz, Dustin (@dehotz)](https://github.com/dehotz/liftoff-assignments)
 - Adele K
 - Jared H
 - [Johnson, Jesse (@diejessedie)](https://github.com/diejessedie/liftoff-assignments)
@@ -104,7 +104,7 @@
 - [A, M (@armoussa)](https://github.com/armoussa/liftoff-assignments)
 - [Munie, Richard (@RichardMunie)](https://github.com/RichardMunie/liftoff-assignments)
 - [R, N (@luewalker117)](https://github.com/Bluewalker117/liftoff-assignments.git)
-- Jessica N
+- [Nations, Jessica (@JessicaNations)](https://github.com/JessicaNations/liftoff-assignments)
 - [Ngetich, Brian (@bngetich)](https://github.com/bngetich/liftoff-assignments)
 - Phu N
 - [Novak, Timothy (@tnovak123)](https://github.com/tnovak123/liftoff-assignments.git)
@@ -161,5 +161,4 @@
 - [Wilson, Joey @jrwilson5116](https://github.com/jrwilson5116/liftoff-assignments)
 - [Wood, Jared (@pocolius)](https://github.com/Pocolius/liftoff-assignments)
 - Richard Z
-- Phu N
 - [PHU, NGUYEN (@phucodes)(https://github.com/phucodes/liftoff-assignments)]
