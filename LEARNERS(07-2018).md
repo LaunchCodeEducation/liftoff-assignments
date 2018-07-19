@@ -139,7 +139,7 @@
 - Saranyadevi S
 - Joseph S
 - [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
-- Samuel T
+- [Tekle, Samuel (@taman7771)](https://github.com/taman7771/liftoff-assignments)
 - Jonathan T
 - Lori T
 - Danielle T
