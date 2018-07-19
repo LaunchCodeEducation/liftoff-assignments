@@ -69,8 +69,8 @@
 - Kirk H
 - Jasmine H
 - Dustin H
-- Adele K
 - Jared H
+- [Hounakey, Adele Koomi(@hadelesko)](https://github.com/hadelesko/liftoff-assignments)
 - Jesse J
 - Mark J
 - Adam K
@@ -84,7 +84,7 @@
 - Sunita L
 - Deon L
 - Julian L
-- Daniel L
+- [Leib, Daniel (@InternDan)](https://github.com/InternDan/liftoff-assignments)
 - Kyle L
 - Judith L
 - Gary L
