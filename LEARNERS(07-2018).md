@@ -41,13 +41,13 @@
 - [Edwards, Sandra (@lilsan23)](https://github.com/lilsan23/liftoff-assignments.git)
 - Jonathan E
 - [Erondu, Uche (@UcheE)](https://github.com/UcheE/liftoff-assignments)
-- Paul F
-- Rim F
-- Carl F
-- Lucas F
-- Earl G
-- Rupali G
-- John G
+- [Fannon, Paul (@bluenote87)](https://github.com/bluenote87/liftoff-assignments)
+- [Fardiyev, Rim (@Dreammaster13)](https://github.com/Dreammaster13/liftoff-assignments.git)
+- [Filler, Carl (@cfiller123)](https://github.com/cfiller123/liftoff-assignments)
+- [Finnern, Lucas (@lucasfinnern)](https://github.com/lucasfinnern/liftoff-assignments)Lucas F
+- [Gadel, Earl (@earl-gadel)](https://github.com/earl-gadel/liftoff-assignments)
+- [Gaidhani, Rupali (@mail2rupalig)](https://github.com/mail2rupalig/liftoff-assignments)
+- [Gallagher, John (@jackpg09)](https://github.com/jackpg09/liftoff-assignments.git)
 - Nicholas G
 - Jon G
 - Carl G
