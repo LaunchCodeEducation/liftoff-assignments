@@ -135,8 +135,8 @@
 - Kelly S
 - Saranyadevi S
 - Joseph S
-- Nick S
-- Samuel T
+- [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
+- [Tekle, Samuel (@taman7771)](https://github.com/taman7771/liftoff-assignments)
 - [Thompson, Jonathan (@sirjdt)](https://github.com/sirjdt/liftoff-assignments)
 - [Lori T (@lorithurman87)](https://github.com/lorithurman87/liftoff-assignments.git)
 - Danielle T
