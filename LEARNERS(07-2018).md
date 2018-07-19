@@ -115,7 +115,7 @@
 - Peshonna P
 - Dhawani P
 - Sri Neha P
-- Brandon P
+- [P, Brandon] (@Intendant-)](https://github.com/intendant-/liftoff-assignments)
 - Jesse P
 - Buvaneshwari R
 - Galen R
