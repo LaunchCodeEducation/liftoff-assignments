@@ -124,7 +124,7 @@
 - Jeffrey R
 - Robert R
 - Sehar S
-- Sailaja S
+- [Sakthivel, Sailaja (@ssailaja)](https://github.com/ssailaja/liftoff-assignments)
 - [Sanabria, Derek (@dsanabria1023)](https://github.com/dsanabria1023/liftoff-assignments)
 - Michael S
 - Jakob S
