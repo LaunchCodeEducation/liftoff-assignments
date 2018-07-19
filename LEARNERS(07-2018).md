@@ -150,7 +150,7 @@
 - Jacob W
 - [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
 - Julian W
-- Miriam W
+- [Wiegand, Miriam (@mnwiegand)](https://github.com/mnwiegand/liftoff-assignments)
 - Jesse W
 - Manuel W
 - Michelle W
