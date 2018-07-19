@@ -130,7 +130,7 @@
 - Amy S
 - Thomas S
 - Gunnar S
-- Tim S
+- [S, T (@timconseevable)](https://github.com/timconseevable/liftoff-assignments)
 - Kelly S
 - Saranyadevi S
 - Joseph S
@@ -141,7 +141,7 @@
 - Danielle T
 - Denise T
 - Ariel T
-- Douglas U
+- [Urban, Douglas (@durban9)](https://github.com/durban9/liftoff-assignments)
 - Jareson V
 - Francesco V
 - Nicholas V
