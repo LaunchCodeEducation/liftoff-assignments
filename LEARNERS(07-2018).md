@@ -69,8 +69,8 @@
 - Kirk H
 - Jasmine H
 - Dustin H
-- Jared H
 - [Hounakey, Adele Koomi(@hadelesko)](https://github.com/hadelesko/liftoff-assignments)
+- Jared H
 - Jesse J
 - Mark J
 - Adam K
