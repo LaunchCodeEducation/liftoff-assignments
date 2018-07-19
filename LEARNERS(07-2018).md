@@ -79,7 +79,7 @@
 - Vincent K
 - Matthew K
 - Johanna K
-- Joshua K
+- [Krigelman, Joshua (@krigelmanj)](https://github.com/krigelmanj/liftoff-assignments)
 - [Kumar, Anil (@anilkumar21k](https://github.com/anilkumar21k/liftoff-assignments.git)
 - Sunita L
 - Deon L
