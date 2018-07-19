@@ -52,7 +52,7 @@
 - Jon G
 - Carl G
 - Ken G
-- Edward G
+- [Goering, Edward (@e-aaron-goering)](https://github.com/e-aaron-goering/liftoff-assignments)
 - Vicki G
 - Sean G
 - Kevin G
@@ -103,9 +103,9 @@
 - Robert N
 - Jessica N
 - Brian N
-- Phu N
+- [NGUYEN, PHU (@phucodes)(https://github.com/phucodes/liftoff-assignments)]
 - Timothy N
-- Terence O
+- [O'Neill, Terence (@zlemihl)](https://github.com/zlemihl/liftoff-asssignments)
 - Daniel O
 - Amanda O
 - Nicholas O
@@ -115,7 +115,7 @@
 - Peshonna P
 - Dhawani P
 - Sri Neha P
-- Brandon P
+- [P, Brandon] (@Intendant-)](https://github.com/intendant-/liftoff-assignments)
 - Jesse P
 - Buvaneshwari R
 - Galen R
@@ -124,7 +124,7 @@
 - Jeffrey R
 - Robert R
 - Sehar S
-- Sailaja S
+- [Sakthivel, Sailaja (@ssailaja)](https://github.com/ssailaja/liftoff-assignments)
 - [Sanabria, Derek (@dsanabria1023)](https://github.com/dsanabria1023/liftoff-assignments)
 - Michael S
 - Jakob S
@@ -158,4 +158,3 @@
 - Joey W
 - Jared W
 - Richard Z
-- [PHU, NGUYEN (@phucodes)(https://github.com/phucodes/liftoff-assignments)]
