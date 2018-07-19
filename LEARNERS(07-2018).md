@@ -18,7 +18,7 @@
 - Geetha A
 - Jenelle B
 - Jose B
-- Ryan B
+- [Best, Ryan (@rabvc4)](https://www.github.com/Rabvc4/liftoff-assignments)
 - Drew B
 - Erwin B
 - Alysia B
@@ -69,7 +69,7 @@
 - Kirk H
 - Jasmine H
 - Dustin H
-- Adele K
+- [Hounakey, Adele Koomi(@hadelesko)](https://github.com/hadelesko/liftoff-assignments)
 - Jared H
 - Jesse J
 - Mark J
@@ -84,7 +84,7 @@
 - Sunita L
 - Deon L
 - Julian L
-- Daniel L
+- [Leib, Daniel (@InternDan)](https://github.com/InternDan/liftoff-assignments)
 - Kyle L
 - Judith L
 - Gary L
