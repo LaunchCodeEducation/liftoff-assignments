@@ -6,158 +6,155 @@
 
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Walker, Ryan (@ryanawalker)](https://www.github.com/ryanawalker/liftoff-assignments)
-
-### LaunchCode Mentor Repos
-
-- [Haggerty, Ken (@kenmhaggerty)](https://github.com/kenmhaggerty/liftoff-assignments)
+- [Wang, Lin (@linwang929)](https://www.github.com/linwang929/liftoff-assignments)
 
 ### Students Replace Your Name Below With Your Formatted Link
 
-- [A, J (@Jamesadams1988)](https://github.com/Jamesadams1988/liftoff-assignments)
-- [Akula, Aparna(@aparnaakula)](https://github.com/aparnaakula/liftoff-assignments)
-- [Albers, Haley (@haalbers)](https://github.com/haalbers/liftoff-assignments.git)
+- James A
+- Aparna A
+- Haley A
 - Benjamin A
 - Randy A
-- [Avvaru, Geetha (@gavvaru](https://github.com/gavvaru/liftoff-assignments/liftoff-assignments.git)
-- [Basinger, Jenelle (@Jenellebas)](https://github.com/Jenellebas/liftoff-assignments)
-- [Berrio, Jose (@aldarisbm)](https://github.com/aldarisbm/liftoff-assignments.git)
-- Ryan B
-- [Blosser, Drew (@drewb101)](https://github.com/drewb101/liftoff-assignments.git)
-- [Bohnert, Erwin (@Jbohn44)](https://www.github.com/Jbohn44/liftoff-assignments)
+- Geetha A
+- Jenelle B
+- Jose B
+- [Best, Ryan (@rabvc4)](https://www.github.com/Rabvc4/liftoff-assignments)
+- Drew B
+- Erwin B
 - Alysia B
 - Andrea B
-- [Budreau, Bryan (@bbudreau)](http://github.com/bbudreau/liftoff-assignments)
+- Bryan B
 - Jack B
-- [Burghardt, Joe (@jmburghardt)](https://github.com/jmburghardt/liftoff-assignments.git)
-- [Callahan, Grace (@smallar-achnid)](https://www.github.com/smallar-achnid/liftoff-assignments)
+- Joe B
+- Grace C
 - Andrew C
 - Bill C
-- [L, C (@LeslieCassert)](https://github.com/LeslieCassert/liftoff-assignments)
+- Leslie C
 - Vasundhara C
-- Lucas C
+- [Cima, Lucas (@TheRazzness)](https://github.com/TheRazzness/liftoff-assignments)
 - Robert C
-- [Darnell, Steven (@stevendlc101)](https://github.com/stevendlc101/liftoff-assignments.git)
-- [Detra, Brandon (@bdtra)](https://github.com/bdtra/liftoff-assignments)
-- [D, A (@SnowCrashOverride](https://github.com/SnowCrashOverride/liftoff-assignments.git)
+- Steven D
+- Brandon D
+- Andrew D
 - Gnanaprasuna D
 - Andrew E
-- Sandra E
+- [Edwards, Sandra (@lilsan23)](https://github.com/lilsan23/liftoff-assignments.git)
 - Jonathan E
-- Uche E
+- [Erondu, Uche (@UcheE)](https://github.com/UcheE/liftoff-assignments)
 - [Fannon, Paul (@bluenote87)](https://github.com/bluenote87/liftoff-assignments)
 - [Fardiyev, Rim (@Dreammaster13)](https://github.com/Dreammaster13/liftoff-assignments.git)
 - [Filler, Carl (@cfiller123)](https://github.com/cfiller123/liftoff-assignments)
-- Lucas F
+- [Finnern, Lucas (@lucasfinnern)](https://github.com/lucasfinnern/liftoff-assignments)Lucas F
 - [Gadel, Earl (@earl-gadel)](https://github.com/earl-gadel/liftoff-assignments)
 - [Gaidhani, Rupali (@mail2rupalig)](https://github.com/mail2rupalig/liftoff-assignments)
 - [Gallagher, John (@jackpg09)](https://github.com/jackpg09/liftoff-assignments.git)
 - Nicholas G
 - Jon G
-- [Gillis, Carl (cagill3)](https://github.com/cagill3/liftoff-assignments.git)
+- Carl G
 - Ken G
-- Edward G
+- [Goering, Edward (@e-aaron-goering)](https://github.com/e-aaron-goering/liftoff-assignments)
 - Vicki G
 - Sean G
-- [Kevin, Grier (@kgriermetalworks)](https://github.com/kgriermetalworks/liftoff-assignments)
+- Kevin G
 - David H
 - Mark H
-- [Hackett, David (@davidhackett12)](https://github.com/davidhackett12/liftoff-assignments)
+- David H
 - Allyn H
-- [Hart, Megan (@ki42)](https://www.github.com/ki42/liftoff-assignments)
-- [H, H (@hiroko-lc101)](https://github.com/hiroko-lc101/liftoff-assignments)
+- Megan H
+- Hiroko H
 - Joshua H
-- [H, K (@PhilosopherKing)](https://github.com/PhilosopherKing/liftoff-assignments)
+- Kyle H
 - Terry H
-- [Held, Zach (@zachtheld)](https://github.com/zachtheld/liftoff-assignments.git)
+- Zach H
 - Kirk H
-- [Herd, Jasmine (@jasmineHerd)](https://www.github.com/jasmineHerd/liftoff-assignments)
-- [Hotz, Dustin (@dehotz)] (https://github.com/dehotz/liftoff-assignments)
-- Adele K
+- Jasmine H
+- Dustin H
+- [Hounakey, Adele Koomi(@hadelesko)](https://github.com/hadelesko/liftoff-assignments)
 - Jared H
-- [Johnson, Jesse (@diejessedie)](https://github.com/diejessedie/liftoff-assignments)
-- [Johnson, Mark (@mrkish)](https://www.github.com/mrkish/liftoff-assignments.git)
-- [Karr, Adam (@BobbyTheUnspeakable)](https://github.com/BobbyTheUnspeakable/liftoff-assignments)
+- Jesse J
+- Mark J
+- Adam K
 - John K
-- [Ke, Xiaoyu (@xiaoyuk)](https://www.github.com/xiaoyuk/liftoff-assignments.git)
-- [Kitowski, Vince (@kitowskiv)](https://github.com/kitowskiv/liftoff-assignments)
+- Xiaoyu K
+- Vincent K
 - Matthew K
 - Johanna K
 - Joshua K
-- [Kumar, Anil (@anilkumar21k)](https://github.com/anilkumar21k/liftoff-assignments.git)
+- [Kumar, Anil (@anilkumar21k](https://github.com/anilkumar21k/liftoff-assignments.git)
 - Sunita L
 - Deon L
-- [L , J (@Jtiger1841)](https://github.com/Jtiger1841/liftoff-assignments.git)
-- Daniel L
+- Julian L
+- [Leib, Daniel (@InternDan)](https://github.com/InternDan/liftoff-assignments)
 - Kyle L
-- [Light, Judith (@judy2001)](https://github.com/judy2001/liftoff-assignments)
+- Judith L
 - Gary L
-- [L, R (@SharpeLombard)](https://github.com/SharpeLombard/liftoff-assignments)
-- [Mackey, Mary (@petem981)](https://github.com/petem981/liftoff-assignments.git)
-- [M, T (@emeraldvision)](https://github.com/emeraldvision/liftoff-assignments)
-- [Mayher, Jonathan (@JMayher)](https://github.com/JMayher/liftoff-assignments.git)
-- [McCool, John (@j-mccool)](https://github.com/j-mccool/liftoff-assignments.git)
+- Rebecca L
+- Mary M
+- Ther M
+- Jonathan M
+- John M
 - Patrick M
 - Jonny M
-- [McGirk, Brian (@Brian-McGirk)](https://www.github.com/Brian-McGirk/liftoff-assignments)
+- Brian M
 - Jayde M
 - Miles M
-- [A, M (@armoussa)](https://github.com/armoussa/liftoff-assignments)
-- [Munie, Richard (@RichardMunie)](https://github.com/RichardMunie/liftoff-assignments)
-- [R, N (@Bluewalker117)](https://github.com/Bluewalker117/liftoff-assignments.git)
+- Aida M
+- Richard M
+- Robert N
 - Jessica N
-- [Ngetich, Brian (@bngetich)](https://github.com/bngetich/liftoff-assignments)
-- Phu N
-- [Novak, Timothy (@tnovak123)](https://github.com/tnovak123/liftoff-assignments.git)
-- Terence O
+- Brian N
+- [NGUYEN, PHU (@phucodes)(https://github.com/phucodes/liftoff-assignments)]
+- Timothy N
+- [O'Neill, Terence (@zlemihl)](https://github.com/zlemihl/liftoff-asssignments)
 - Daniel O
-- [Owens, Amanda (@amanda7641)](https://github.com/amanda7641/liftoff-assignments)
-- [Owens, Nicholas (@Nowens17)](https://github.com/Nowens17/liftoff-assignments)
-- [Pabst, Melissa (@MelissaPabst)](https://www.github.com/MelissaPabst/liftoff-assignments)
-- [P, R (@ritusp)](https://github.com/ritusp/liftoff-assignments)
+- Amanda O
+- Nicholas O
+- Melissa P
+- Ritu P
 - [Pandey, Sumit (@sumitpandey11)](https://www.github.com/sumitpandey11/liftoff-assignments)
 - Peshonna P
-- [Patel, Dhawani (@DannyLC101)](https://www.github.com/DannyLC101/liftoff-assignments)
-- Sri Neha P
-- Brandon P
+- Dhawani P
+- [P, Sri (@srineha92)](https://github.com/Srineha92/liftoff-assignments.git)
+- [P, Brandon] (@Intendant-)](https://github.com/intendant-/liftoff-assignments)
 - Jesse P
-- [Buvaneshwari, Rajendiran (@buvanapandu)](https://github.com/buvanapandu/liftoff-assignments)
+- Buvaneshwari R
 - Galen R
 - Joseph R
 - Mitchell R
-- [Ricker, Jeffrey (@rickerje)](https://www.github.com/rickerje/liftoff-assignments)
-- [Rose, Robert (@rarose67)](https://github.com/rarose67/liftoff-assignments)
-- [Sagarwala, Sehar (@ssagarwala)](https://github.com/ssagarwala/liftoff-assignments)
-- Sailaja S
-- Derek S
+- Jeffrey R
+- Robert R
+- Sehar S
+- [Sakthivel, Sailaja (@ssailaja)](https://github.com/ssailaja/liftoff-assignments)
+- [Sanabria, Derek (@dsanabria1023)](https://github.com/dsanabria1023/liftoff-assignments)
 - Michael S
-- [Schneider, Jakob (@jschneids)](https://github.com/JSchneids/liftoff-assignments)
-- [Schremp, Amy (@amyschremp)](https://github.com/amyschremp/liftoff-assignments)
+- Jakob S
+- Amy S
 - Thomas S
-- [Smith, Gunnar (@gumnar)](https://github.com/gumnar/liftoff-assignments)
+- Gunnar S
 - Tim S
 - Kelly S
 - Saranyadevi S
 - Joseph S
 - [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
 - [Tekle, Samuel (@taman7771)](https://github.com/taman7771/liftoff-assignments)
-- Jonathan T
-- Lori T
+- [Thompson, Jonathan (@sirjdt)](https://github.com/sirjdt/liftoff-assignments)
+- [Lori T (@lorithurman87)](https://github.com/lorithurman87/liftoff-assignments.git)
 - Danielle T
 - Denise T
-- [Tuley, Ariel (@arielsarah)](https://github.com/arielsarah/liftoff-assignments)
+- Ariel T
 - Douglas U
-- [Vardisec, Jareson (@Jareson)](https://github.com/Jareson/liftoff-assignments)
-- [Velocci, Francesco (@FrancescoVelocci)](https://github.com/FrancescoVelocci/liftoff-assignments)
+- Jareson V
+- Francesco V
 - Nicholas V
-- [Voisey, Jonathan (@VoijaRisa)](https://github.com/VoijaRisa/liftoff-assignments)
-- Caroline W
-- [Wells, Jacob (@jaykewells)](https://github.com/jaykewells/liftoff-assignments)
+- Jonathan V
+- [Wallace, Caroline (@cwallace18)](https://github.com/cwallace18/liftoff-assignments)
+- Jacob W
 - [Wettroth, Paige (@pwettroth)](https://github.com/pwettroth/liftoff-assignments)
 - Julian W
-- Miriam W
+- [Wiegand, Miriam (@mnwiegand)](https://github.com/mnwiegand/liftoff-assignments)
 - Jesse W
-- Manuel W
-- [Williams, Michelle (@mcwilli94)](https://github.com/mcwilli94/liftoff-assignments.git)
+- [Williams, Manuel (@NOBLEMBW)](https://github.com/NOBLEMBW/liftoff-assignments.git)
+- Michelle W
 - Joey W
-- [Wood, Jared (@pocolius)](https://github.com/Pocolius/liftoff-assignments)
+- Jared W
 - Richard Z
