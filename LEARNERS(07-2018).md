@@ -132,8 +132,8 @@
 - Thomas S
 - Gunnar S
 - [S, T (@timconseevable)](https://github.com/timconseevable/liftoff-assignments)
-- Kelly S
-- Saranyadevi S
+- Kelly 
+- [Soundararajan, Saranya (@saran0103)](https://github.com/saran0103/liftoff-assignments)
 - Joseph S
 - [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
 - [Tekle, Samuel (@taman7771)](https://github.com/taman7771/liftoff-assignments)
