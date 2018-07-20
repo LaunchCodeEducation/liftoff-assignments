@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-[https://github.com/krgirard33](https://github.com/krgirard33)
+[krgirard33](https://github.com/krgirard33)
 
 ### LinkedIn
-[https://www.linkedin.com/in/kengirard/](https://www.linkedin.com/in/kengirard/)
+[kengirard](https://www.linkedin.com/in/kengirard/)
 
 ### Resume
 Working on writing such. It has been a long time since I needed one.
