@@ -24,12 +24,12 @@ Location services -<br/>
      Users can find out how far location of activities are from their location<br/>
 
 ### Technologies
-MySQL
-Java
-Spring Boot
-HTML
-JavaScript
-Hibernate/JPA
+MySQL <br/>
+Java <br/>
+Spring Boot <br/>
+HTML <br/>
+JavaScript <br/>
+Hibernate/JPA <br/>
 
 
 ### What I'll Have to Learn
