@@ -86,7 +86,7 @@
 - Daniel L
 - Kyle L
 - Judith L
-- Gary L
+- [Lodge, Gary(@gwl7499)](https://github.com/gwl7499/liftoff-assignments)
 - Rebecca L
 - Mary M
 - Ther M
