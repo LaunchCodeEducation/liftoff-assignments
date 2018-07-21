@@ -7,11 +7,30 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+	You’re a person who likes to stay active and you've just moved to a new city. Many of your hobbies are things that incorporate staying active such as mountain biking, hiking, or swimming, and you would love to meet people who share your same interests and hobbies. This web application will allow you to make an account with a schedule that includes your planned activities. Each  scheduled activity will show the skill level plus the date, time, and location of your planned activity. You will also be able to browse other user accounts to find people in your area with the same activities and skill level as yourself. You will be able to connect with them and coordinate together. This idea was thought of because things like hiking and mountain biking are not always safe to do alone and are just more fun in the company of others so creating something that is specifically designed to bring these types of people together seemed useful. 
+
 ### Features
-Include Features here
+User signup -
+    Users will create an account be able to login and out to a profile that will display user attributes
+Add activities -
+    Each user will be able to add activities to their calendars that will include activity type, skill level, date, time, and location.
+Browse users and their activities -
+    View other users profiles to see their planned activities and ways to contact 
+Complete activities -
+    Users can mark activities as completed to display achievements 
+Add profile picture -
+    Add a profile picture to their account for other users to view
+Location services -
+     Users can find out how far location of activities are from their location
+
 ### Technologies
-Include Technologies here
+MySQL
+Java
+Spring Boot
+HTML
+JavaScript
+Hibernate/JPA
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+New features we plan to learn are ways to upload pictures to an account and location services to track how far a certain address is from the address a user inputs. Integration of various APIs with our web app (Google Maps, haveibeenpwned.com).
