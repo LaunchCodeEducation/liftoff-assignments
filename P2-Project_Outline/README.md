@@ -38,5 +38,5 @@ MySQL
 Include what you will need to learn here
 
 I am thinking of adding a calendar that will show which dates are already booked so that is something I am going to need
-to research how to do. I was also want to learn some javascript so I can make my site more visually appealing to the user.
-things like adding a 5 star rating system with comments.
+to research how to do. I was also want to learn some javascript so I can make my site more visually appealing to the
+user, things like adding a 5 star rating system with comments.
