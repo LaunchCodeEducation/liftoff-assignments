@@ -38,6 +38,7 @@
 - Andrew D
 - Gnanaprasuna D
 - Andrew E
+- [Kautzner, John (@misterkautzner)](https://github.com/misterkautzner/liftoff-assignments)
 - [Edwards, Sandra (@lilsan23)](https://github.com/lilsan23/liftoff-assignments.git)
 - Jonathan E
 - [Erondu, Uche (@UcheE)](https://github.com/UcheE/liftoff-assignments)
