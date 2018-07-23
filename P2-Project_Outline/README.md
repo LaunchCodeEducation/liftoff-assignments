@@ -17,14 +17,14 @@ your workout results and also prevent someone from over working out and causing 
 
 ### Features
 Include Features here
-User Login/Signup
-User Profiles
-Create Workouts
-Create Durations/Sets
-Create Workout Plans
-Rank Workout Plans
-Comment on Plans
-Upload Youtube videos
+User Login/Signup: Allow a user to signup and login or out(Done)
+User Profiles: Show all the workout plans that a user has created(Done)
+Create Workouts: Create workouts that can be added to a workout plan(Done)
+Create Durations/Sets: Create the number of sets or he duration of time a workout last(Done)
+Create Workout Plans: Allows a user to add workouts in order(Done)
+Rank Workout Plans: on the home page allow users to rank workout plans up or down
+Comment on Plans: Allow users to comment on a workout plan and ask questions(In Progress)
+Upload Youtube videos: Allow a user to upload a video of a workout and view it on the page.
 
 ### Technologies
 Include Technologies here
