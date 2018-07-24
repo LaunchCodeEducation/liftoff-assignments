@@ -143,7 +143,7 @@
 - Jonathan T
 - Lori T
 - Danielle T
-- Denise T
+- [Tims, Denise (@denisetims)] (https://github.com/denisetims/liftoff-assignments)
 - [Tuley, Ariel (@arielsarah)](https://github.com/arielsarah/liftoff-assignments)
 - Douglas U
 - [Vardisec, Jareson (@Jareson)](https://github.com/Jareson/liftoff-assignments)
