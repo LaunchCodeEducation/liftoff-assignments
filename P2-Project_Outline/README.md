@@ -7,27 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-1. Overview: An application that will allow automotive service departments and their customers stay in contact easier and able to keep records of service easier. Many service departments have software that allow record keeping but customers do not have the same app on their end. Also, many times customers are kept out of the loop when their cars are being serviced. This app will allow notifications with every stage their car is in and also a timeline on how long they should be expecting their car to be in service. It will also be able to keep transferable car records so that if customers want to sell their car, the records will transfer via the app.
+An application that will allow automotive service departments customers to be able to keep records of their car service easier. Many service departments have software that allow record keeping but customers do not have the same app on their end. Also, many times customers lose paperwork that pertains to car service records. This app will allow customers to log in to a secure account, to update their profile with current and previous cars owned and their service records, and to make a list that shows all automotive work done to each car.
 
 ### Features
-2. Features:
-
-Shop Login
-Customer Login
-Search by Terms
-Record keeping Database
-Form to fill in work done by date
-Form to select which car you have and what work you need done
-Bar that shows the progress of car being serviced and estimated time done
-Picture sharing service that allows shops to show customers car problems immediately
+Customer Login: Customer login will be a username/password field that will direct customers to their own profile that will display their previous and current cars.
+Search by Terms: Customers will be able to search their profile for terms such as work that was performed or makes and models of specific cars.
+Record keeping Database: Customers will be able to keep up with cars and service records via MySQL database.
+Form to fill in work done: Customers will have mutiple fields that they can fill in to describe work done to a specific automobile and the date it was performed.
+Form to select automobile: Customers will have drop down menus to select their cars year make and model and to save it to their profile.
 ### Technologies
-3. Technologies:
-
 Java
-Springboot
+Spring
 Bootstrap
-React
+
 
 ### What I'll Have to Learn
-4. What Ill have to learn:
-I will have to learn React and how it will best suit my needs for creating my app. I will also have to learn how to input and recover data by timestamp. I will have to learn how to make some of the information accessible to customers and shops alike, while keeping customers from being able to access and edit other information. I will also have to learn about notifications and how to implement a bar that will keep customers up to date on the progress of there car being serviced.
+I will have to learn how to incorporate multiple drop down menus on the same page and store them as separate items in the database, in order to search for certain terms, but then to be able to display them in a one line format. I will also have to learn how to really incorporate some bootstrap templates to make the page exciting and not boring. 
