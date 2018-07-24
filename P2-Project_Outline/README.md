@@ -28,6 +28,8 @@ Spring
 
 Bootstrap
 
+MySQL
+
 
 ### What I'll Have to Learn
 I will have to learn how to incorporate multiple drop down menus on the same page and store them as separate items in the database, in order to search for certain terms, but then to be able to display them in a one line format. I will also have to learn how to really incorporate some bootstrap templates to make the page exciting and not boring. 
