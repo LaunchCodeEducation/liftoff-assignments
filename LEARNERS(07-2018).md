@@ -14,7 +14,7 @@
 - Aparna A
 - Haley A
 - Benjamin A
-- Randy A
+- [A, Randy (@RandallJohn)](https://github.com/RandallJohn/liftoff-assignments)
 - Geetha A
 - [Basinger, Jenelle (@jenellebas)](https://www.github.com/Jenellebas/liftoff-assignments)
 - Jose B
