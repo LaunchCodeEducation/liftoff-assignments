@@ -6,14 +6,9 @@ Form submission for amenities, rating, review, other product details
 Search database by product or features
 Exact address validation via autocomplete (using Google Maps)?
 3. Technologies:
-Python
-Flask
+Java
+Spring Boot
 MySQL
-SQLAlchemy
-Jinja2templates
 JavaScript
-JQuery
-AJAX
-React
 4. What I’ll have to learn: I will have to learn how/whether I can integrate my existing Python-based login/form-submission website (which I built during Unit 2) with JavaScript and AJAX. I will have to learn how to use data from several APIs (with any luck), in order to integrate a useful user experience. I also plan on using this project as a way to learn to use React. I hope this isn’t too disjointed or over-ambitious ?
 
