@@ -11,7 +11,7 @@ For this assignment, you'll create some initial plans for your project.
 <ul>
   <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/HOME%20PAGE.pdf"/>HOME PAGE </a></li>
   
-  <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/EXISTING%20CUSTOMER%20LOGIN%20PAGE.pdf"/> EXISTING CUSTOMER PAGE</a></li>
+  <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/EXISTING%20CUSTOMER%20LOGIN%20PAGE.pdf"/> EXISTING CUSTOMER LOGIN PAGE</a></li>
   
   <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/NEW%20CUSTOMER%20REGISTRY.pdf"/>NEW CUSTOMER PAGE</a></li>
   
