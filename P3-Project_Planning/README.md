@@ -9,11 +9,21 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 <ul>
-  <li><a href="liftoff-assignments/P3-Project_Planning/HOME PAGE.pdf"/>HOME PAGE </a></li>
+  <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/HOME%20PAGE.pdf"/>HOME PAGE </a></li>
   
-  <li><a href="liftoff-assignments/P3-Project_Planning/EXISTING CUSTOMER LOGIN PAGE.pdf"/> EXISTING CUSTOMER PAGE</a></li>
+  <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/EXISTING%20CUSTOMER%20LOGIN%20PAGE.pdf"/> EXISTING CUSTOMER PAGE</a></li>
   
-  <li><a href=" liftoff-assignments/P3-Project_Planning/NEW CUSTOMER REGISTRY.pdf"/>NEW CUSTOMER PAGE</a></li>
+  <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/NEW%20CUSTOMER%20REGISTRY.pdf"/>NEW CUSTOMER PAGE</a></li>
+  
+  <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/EXISTING%20CUSTOMER%20PROFILE%20PAGE.pdf"/>EXISTING CUSTOMER PROFILE PAGE</a></li>
+  
+  <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/VEHICLE%20EDIT%20PAGE.pdf"/>VEHICLE EDIT PAGE</a></li>
+  
+  <li><a href="https://github.com/Josephstegall/liftoff-assignments/blob/master/P3-Project_Planning/ADD%20VEHICLE%20PAGE.pdf"/>ADD VEHICLE PAGE</a></li>
+  
+  
+  
+ 
 </ul>
 
 ### Project Tracker
