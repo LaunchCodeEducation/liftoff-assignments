@@ -18,4 +18,4 @@ The linked PDF includes nine wireframes:
 
 I added seven user stories to the current/iteration backlog. I left two in the icebox that will not be part of the MVP for this project. Here is a screenshot:
 
-![Spring 1 Stories](./sprint1-pivotal-tracker-screenshot.pdf)
+![Sprint 1 Stories](./sprint1-pivotal-tracker-screenshot.pdf)
