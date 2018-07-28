@@ -1,7 +1,7 @@
 # Project Planning
 
 ### Wireframes
-[Wireframes](https://github.com/deonlee1125/liftoff-assignments/glass-shop-wireframes.pdf)
+[Wireframes](./liftoff-assignments/glass-shop-wireframes.pdf)
 
 The linked PDF includes nine wireframes:
 - Landing/login page
@@ -18,4 +18,4 @@ The linked PDF includes nine wireframes:
 
 I added seven user stories to the current/iteration backlog. I left two in the icebox that will not be part of the MVP for this project. Here is a screenshot:
 
-![Sprint 1 Stories](./sprint1-pivotal-tracker-screenshot.pdf)
+![Sprint 1 Stories](./liftoff-assignments/sprint1-pivotal-tracker-screenshot.pdf)
