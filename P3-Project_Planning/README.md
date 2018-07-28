@@ -1,7 +1,7 @@
 # Project Planning
 
 ### Wireframes
-[Wireframes](./glass-shop-wireframes.pdf)
+[Wireframes](https://github.com/deonlee1125/liftoff-assignments/glass-shop-wireframes.pdf)
 
 The linked PDF includes nine wireframes:
 - Landing/login page
