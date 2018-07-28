@@ -15,5 +15,7 @@ For this assignment, you'll create some initial plans for your project.
 Not really happy with the look. Wasted to much time learning how to use Moqups.
 
 ### Project Tracker
+* [Ember @ Asana](https://app.asana.com/0/754079267979969/list)
 
-https://app.asana.com/0/754079267979969/list
+### Github Repository
+* [Ember @ Github](https://github.com/krgirard33/Ember)
