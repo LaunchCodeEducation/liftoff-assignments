@@ -10,16 +10,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 System to track attendees, vehicles, theme camps, shifts, events, and maybe even send text messages to people working that day
 
 ### Features
-Sign-in for staff
-Templates for entering attendees, vehicles, theme camps, events
+- User login, including different positions (Registration, Leaders, EC)
+- Allow registration to find attendees ticket info, which will come from either a differnt db, or a spreadsheet [need to talk to the folks who have that data])
+- Allow registration to add additional info about attendee (vehicle, camping area, theme camp, cell#, etc)
+- Allow registration to add volunteers to shifts in various departments
+- Allow leaders to see lists of each shift, and who is staffing it
+- Stretch Goal: Be able to send SMS message to each volunteer their schedule the day they have a shift
+- Stretch Goal: Be able to generate a report listing each volunteer, and the number of hous they worked
 
 
 ### Technologies
-Java
-MySQL
-Javascript
-?? Twilio ??
+- Java
+- MySQL
+- Javascript
+- Spring Boot
+- Thymeleaf templates
+- ?? Twilio ??
 
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+- Twilio
+- How to import the data from either a different database (which I am not currently aware of what it is written in, if it has an API, etc), or how to import the data from a spreadsheet
+- Wireframing
+- Agile
