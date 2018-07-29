@@ -8,8 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- Landing Page.  Sign in or sign up. (https://github.com/misterkautzner/liftoff-assignments/blob/master/P3-Project_Planning/IMG_6681.jpg)
+- Create User/profile page.  (https://github.com/misterkautzner/liftoff-assignments/blob/master/P3-Project_Planning/IMG_6682.jpg)
+- Browse other users.  (https://github.com/misterkautzner/liftoff-assignments/blob/master/P3-Project_Planning/IMG_6683.jpg)
+- View another user's profile.  (https://github.com/misterkautzner/liftoff-assignments/blob/master/P3-Project_Planning/IMG_6684.jpg)
+- Mailbox. See who has messaged you.  (https://github.com/misterkautzner/liftoff-assignments/blob/master/P3-Project_Planning/IMG_6685.jpg)
+- Chat.  View messages.  (https://github.com/misterkautzner/liftoff-assignments/blob/master/P3-Project_Planning/IMG_6686.jpg)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+Trello:  Liftoff LL.  (https://trello.com/b/sEa2TIZH/liftoff-ll)
