@@ -8,8 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Landing Page](wireframes/lfp_landing.png)
+* [Login Page](wireframes/lfp_login.png)
+* [Account Creation Page](wireframes/lfp_newuser.png)
+* [Home Page](wireframes/lfp_home.png)
+* [Profile Page](wireframes/lfp_profile.png)
+* [Inbox](wireframes/lfp_inbox.png)
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Link to LFP on Pivotal Tracker](https://www.pivotaltracker.com/projects/2185442)
+
+### Git Repository
+
+[Link to LFP Git Repository](https://github.com/dsanabria1023/lfp-app)
