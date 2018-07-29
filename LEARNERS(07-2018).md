@@ -96,7 +96,7 @@
 - Patrick M
 - Jonny M
 - Brian M
-- Jayde M
+- [Mitchell, Jayde (@jaydedm)](https://github.com/jaydedm/liftoff-assignments)
 - Miles M
 - Aida M
 - Richard M
