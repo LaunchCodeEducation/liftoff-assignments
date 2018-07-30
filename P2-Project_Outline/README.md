@@ -12,20 +12,20 @@ Website that will allow people to study and research philosophy. It will also al
 
 ### Features
 
-•	User login
-•	Search database by philosophical branch.
-•	Make post and comments, for discussion and philosophical debate.
-•	Form submission for user’s writings.
-•	Upload files
+*	User login
+* Search database by philosophical branch.
+*	Make post and comments, for discussion and philosophical debate.
+*	Form submission for user’s writings.
+*	Upload files
 
 ### Technologies
 
-•	Java
-•	MySQL
-•	SQLAlchemy
-•	SpringBoot
-•	ThymeLeaf
-•	JavaScript
+*	Java
+*	MySQL
+*	SQLAlchemy
+*	SpringBoot
+*	ThymeLeaf
+*	JavaScript
 
 ### What I'll Have to Learn
 
