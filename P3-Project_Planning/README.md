@@ -10,9 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-* ![Search WireFrame](file:///C:/Users/Fidget's%20Pass/Downloads/IMG_20180728_222332721.jpg)
-* ![Comment WireFrame](IMG_20180728_222351233~2.jpg)
-* ![Upload WireFrame](IMG_20180728_222344677~3.jpg)
+* ![Search WireFrame](https://user-images.githubusercontent.com/37670375/43372981-3e5d0840-936c-11e8-9960-73a964cac725.jpg)
+* ![Comment WireFrame](https://user-images.githubusercontent.com/37670375/43372982-4085e786-936c-11e8-809a-9fe7647e7f40.jpg)
+* ![Upload WireFrame](https://user-images.githubusercontent.com/37670375/43372980-3b862390-936c-11e8-87ec-6d88065dde1b.jpg)
 
 ### Project Tracker
 
