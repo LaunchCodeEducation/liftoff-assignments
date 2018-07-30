@@ -8,6 +8,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ### GitHub
 Provide a link to your GitHub account here.
+[GitHub Link - PhilosopherKing](https://github.com/PhilosopherKing)
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
