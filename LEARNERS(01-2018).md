@@ -21,6 +21,7 @@
 - [Matney, David (@Dmatney)](https://github.com/Dmatney/liftoff-assignments)
 - [Morrow, Jeff (@jwmorrow1s)](https://github.com/jwmorrow1s/liftoff-assignments)
 - [Zong, Connor (@DJN0)](https://github.com/DJN0/liftoff-assignments.git)
+- [Sunita, Lanka (@sunitalanka)](https://github.com/sunitalanka/liftoff-assignments)
 
 ### Justin Ketterman's Group
 - Apprill, Benjamin
