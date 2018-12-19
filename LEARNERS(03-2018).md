@@ -5,6 +5,7 @@
 - [King, Micah(@NinjaTanuki)](https://github.com/NinjaTanuki/liftoff-assignments)
 - [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
 - [Hawash, Eshe (@ehawash)](https://www.github.com/ehawash/liftoff-assignments)
+- [Rani, Sangeetha (@sangeetharani82)](https://github.com/sangeetharani82/liftoff-assignments)
 
 ### Ryan's Group
 - [Boria, Joseph (@jboria13)](https://github.com/jboria13/liftoff-assignments)
