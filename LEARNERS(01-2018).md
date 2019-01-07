@@ -23,15 +23,8 @@
 - [Zong, Connor (@DJN0)](https://github.com/DJN0/liftoff-assignments.git)
 
 
->We're living in the future
->So the present is our past
-
-*This is supposed to be italic*
-
-* This is a list
-  * These are items in the list
-  
-># What does this do
+This :EMOJICODE: :
+:EMOJICODE:This is it:+1
 
 ![GitHub Logo](/images/logo.png)
 
