@@ -42,7 +42,7 @@
 - [Owens, Chris (@ChristopherMichaelOwens)](https://github.com/ChristopherMichaelOwens/liftoff-assignments)
 - [Schulte, Colin (@pezhead53)](https://github.com/pezhead53/liftoff-assignments)
 - [Tenholder, Andy (@AndyTenholder)](https://github.com/AndyTenholder/liftoff-assignments)
-
+~~crossout~~
 ### Max Dobberstein's Group
 - Champion, Mike
 - [Frank, Mia (@rebelalien)](https://github.com/rebelalien/liftoff-assignments)
