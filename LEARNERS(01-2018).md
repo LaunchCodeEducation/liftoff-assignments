@@ -22,6 +22,17 @@
 - [Morrow, Jeff (@jwmorrow1s)](https://github.com/jwmorrow1s/liftoff-assignments)
 - [Zong, Connor (@DJN0)](https://github.com/DJN0/liftoff-assignments.git)
 
+
+>We're living in the future
+>So the present is our past
+
+*This is supposed to be italic*
+
+* This is a list
+  * These are items in the list
+
+
+
 ### Justin Ketterman's Group
 - Apprill, Benjamin
 - Jeff
@@ -42,7 +53,7 @@
 - [Owens, Chris (@ChristopherMichaelOwens)](https://github.com/ChristopherMichaelOwens/liftoff-assignments)
 - [Schulte, Colin (@pezhead53)](https://github.com/pezhead53/liftoff-assignments)
 - [Tenholder, Andy (@AndyTenholder)](https://github.com/AndyTenholder/liftoff-assignments)
-~~crossout~~
+
 ### Max Dobberstein's Group
 - Champion, Mike
 - [Frank, Mia (@rebelalien)](https://github.com/rebelalien/liftoff-assignments)
