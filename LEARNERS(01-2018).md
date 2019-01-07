@@ -30,6 +30,11 @@
 
 * This is a list
   * These are items in the list
+  
+># What does this do
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 
 
