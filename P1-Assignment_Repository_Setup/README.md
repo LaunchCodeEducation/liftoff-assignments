@@ -8,7 +8,7 @@ If you are enrolled in the Liftoff program, fork this repository and then clone 
 
 ## Enable GitHub Issues
 
-After Making a pull request you will need to *enable GitHub issues* for your newly minted repository. GitHub issues are a great tool for communication with other developers. GitHub issues isn't automatically enabled for forked repositories. You will need to enable them so your mentor will be able to give you feedback through GitHub. To do this you will need to:
+After forking the repository, you will need to *enable GitHub issues* for your newly minted repository. GitHub issues are a great tool for communication with other developers. GitHub issues isn't automatically enabled for forked repositories. You will need to enable them so your mentor will be able to give you feedback through GitHub. To do this you will need to:
 
 1. Go to your GitHub profile
 2. Select your Liftoff-Assignments repository
