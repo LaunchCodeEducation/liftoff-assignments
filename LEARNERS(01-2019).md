@@ -1,6 +1,6 @@
 # Liftoff Learners
 
-## Section: St. Louis (July 2018)
+## Section: St. Louis (January 2019)
 
 ### LaunchCode Staff Repos
 
