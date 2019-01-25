@@ -11,9 +11,13 @@ For this assignment, you'll create some initial plans for your project.
 The linked PDF contains 5 wireframes.
 
 •	KnowYourZone Home Page
+
 •	User-Selected Condition page
+
 •	WhatsYourZone Questionnaire Page
+
 •	KnowYourCondition Description of Condition Page
+
 •	KnowYourProvider Provider Location Page
 
 ### Project Tracker
