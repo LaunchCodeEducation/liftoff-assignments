@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The user must log in or create an account.
+Based on the users' selected stocks the app 
+will inform the user whether or not they should 
+buy the stocks at that moment. The decision to 
+purchase or not to will be made easy for the user. 
+
 ### Features
-Include Features here
+1* User Login
+2* List of Stocks that have increased in the past month
+3* Save users favorite stocks to purchase from
+
 ### Technologies
-Include Technologies here
+1- C#
+2- API Intrinio
+3- MySQL
+4- SQL Alchemy
+5- JSON
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+    How to extract information from an API. Can you use multiple APIs. Should I use multiple APIs. Which APIs should I use?
