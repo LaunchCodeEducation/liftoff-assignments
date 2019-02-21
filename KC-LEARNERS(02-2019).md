@@ -84,7 +84,6 @@
 - [Maldonado, Axel (@axelmaldonado)](https://github.com/axelmaldonado/liftoff-assignments)
 - [Crowder, Joe (@xxxxxxxx)](#)
 - [Givens, Kenny (@xxxxxxxx)](#)
-- [Maldonado, Axel (@xxxxxxxx)](#)
 
 
 ### Joe's Group
@@ -98,4 +97,3 @@
 - [Barrett, Shym (@xxxxxxxx)](#)
 - [Pillai, Radhakrishnan (@xxxxxxxx)](#)
 - [Mackenzie, Thomas (@xxxxxxxx)](#)
-- [Maldonado, Axel (@xxxxxxxx)](#)
