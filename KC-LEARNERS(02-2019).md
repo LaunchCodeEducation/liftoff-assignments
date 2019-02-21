@@ -48,7 +48,6 @@
 - [Boehme, Robert (@R-bB)](https://github.com/R-bB/liftoff-assignments)
 - [Aubry, Brian (@bdaubry)](https://github.com/bdaubry/liftoff-assignments)
 - [Adams, Michael (@xxxxxxxx)](#)
-- [Arumugam, Meena (@xxxxxxxx)](#)
 - [Bhasima, Surendra (@xxxxxxxx)](#)
 - [Dixon, Sarah (@xxxxxxxx)](#)
 
@@ -83,7 +82,6 @@
 - [Kincaid, Jessica (@j-kincaid)](https://github.com/j-kincaid/liftoff-assignments)
 - [Maldonado, Axel (@axelmaldonado)](https://github.com/axelmaldonado/liftoff-assignments)
 - [Crowder, Joe (@xxxxxxxx)](#)
-- [Givens, Kenny (@xxxxxxxx)](#)
 
 
 ### Joe's Group
@@ -95,5 +93,5 @@
 - [Myers, Scotty (@s7webworks)](https://github.com/s7webworks/liftoff-assignments)
 - [McFall, Dennis (@tarksin)](https://github.com/tarksin/liftoff-assignments)
 - [Barrett, Shym (@xxxxxxxx)](#)
-- [Pillai, Radhakrishnan (@xxxxxxxx)](#)
+- [Pillai, Radhakrishnan (@srpillai)](https://github.com/srpillai/liftoff-assignments)
 - [Mackenzie, Thomas (@xxxxxxxx)](#)
