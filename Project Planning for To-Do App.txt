@@ -1,0 +1,17 @@
+User Stories:
+
+As a user I want to edit my tasks that are currently in progress, so that if anything changes or I need to input a important detail I can do that with ease.
+
+As a user, I want to login to my account, in order to post updates, see the days current tasks and check completion so I can continue using effective time management.
+
+As a personal assistant with many clients, I need to be able to quickly view my tasks using a view tasks button, so that I can manage tasks for each client.
+
+As a small business owner, I spend a lot of time keeping the books, tracking inventory & doing payroll due to staff limitations, so having an app that I can enter tasks, edit tasks and also get the specific details about the task helps keep me in-the-know day to day.
+
+
+
+Link to Public Pivotal Tracker: https://app.gitkraken.com/glo/board/XEIdaDlDSQAP5i7Q/card/XEIhrTlDSQAP5i-8
+
+
+
+Link to Project Repo: https://github.com/LaunchCodeLiftoffProjects/to-do
