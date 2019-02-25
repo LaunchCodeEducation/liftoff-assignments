@@ -39,7 +39,7 @@
 - [Woolbright, John (@jwoolbright23)](https://github.com/jwoolbright23/liftoff-assignments)
 - [Staton, Danny (@xxxxxxxx)](#)
 - [Thompson, Sam (@kividid)](https://github.com/kividid/liftoff-assignments)
-- [Wood, Ronald (@xxxxxxxx)](#)
+- [Wood, Ronald (@d4v1d-us)](https://github.com/d4v1d-us/liftoff-assignments)
 
 
 ### Macy's Group
