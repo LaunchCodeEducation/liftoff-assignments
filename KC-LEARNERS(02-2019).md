@@ -13,7 +13,7 @@
 - [Hopper, Dale (@dalehopper)](https://github.com/dalehopper/liftoff-assignments)
 - [Beckerman, Hal (@xxxxxxxx)](#)
 - [Landingham, Luke (@xxxxxxxx)](#)
-- [Mohamed, Mohamed (@xxxxxxxx)](#)
+- [Mohamed, Mohamed (@mmoha4115)](https://github.com/mmoha4115/liftoff-assignments)
 - [Morioni, Paul (@xxxxxxxx)](#)
 - [Muhumed, Sahnun (@xxxxxxxx)](#)
 - [Murphy, Kyle (@xxxxxxxx)](#)
@@ -23,7 +23,7 @@
 - [Camp, Lynelle (@lcamp118)](https://github.com/lcamp118/liftoff-assignments)
 - [Sailaja Dangudubiyyam, Satya (@SatyaSailaja)](https://github.com/SatyaSailaja/liftoff-assignments)
 - [Klingler, Shannon (@mb13apy)](https://github.com/mb13apy/liftoff-assignments)
-- [Cardarella, John (@xxxxxxxx)](#)
+- [Cardarella, John (@Pandaradox)](https://github.com/Pandaradox/liftoff-assignments)
 - [Grayson, Yemeda (@xxxxxxxx)](#)
 - [Kramer, Sally (@xxxxxxxx)](#)
 - [Lockrow, Josh (@xxxxxxxx)](#)
@@ -38,7 +38,7 @@
 - [Worcester, Nathaniel (@NJWorce)](https://github.com/NJWorce/liftoff-assignments)
 - [Woolbright, John (@jwoolbright23)](https://github.com/jwoolbright23/liftoff-assignments)
 - [Staton, Danny (@xxxxxxxx)](#)
-- [Thompson, Sam (@xxxxxxxx)](#)
+- [Thompson, Sam (@kividid)](https://github.com/kividid/liftoff-assignments)
 - [Wood, Ronald (@xxxxxxxx)](#)
 
 
@@ -49,7 +49,7 @@
 - [Aubry, Brian (@bdaubry)](https://github.com/bdaubry/liftoff-assignments)
 - [Adams, Michael (@xxxxxxxx)](#)
 - [Bhasima, Surendra (@xxxxxxxx)](#)
-- [Dixon, Sarah (@xxxxxxxx)](#)
+- [Dixon, Sarah (@dixonspectives)](https://github.com/dixonspectives/liftoff-assignments)
 
 
 ### Shiquann's Group
