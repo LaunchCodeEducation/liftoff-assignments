@@ -23,5 +23,6 @@ https://trello.com/invite/b/PEUAldLv/4a49101fa41ad182d785173db661af59/what-s-for
 
 ### Project Repo Link
 
-![The name of the repo will change most likely]
-(https://github.com/lfaines/inspirationProject)
+The name of the repo will change most likely:
+
+https://github.com/lfaines/inspirationProject
