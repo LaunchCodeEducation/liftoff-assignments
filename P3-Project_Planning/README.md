@@ -7,8 +7,8 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-#testing to see if image shows below
-![Image of Wireframes] (https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F47%2FProfilewireframe.png&f=1)
+
+![Image of Wireframes](https://media.balsamiq.com/img/examples/mytunez-sketch.png)
 Project Planning Wireframe Link to images: https://wireframe.cc/J4Fis9
 
 ### Project Tracker
