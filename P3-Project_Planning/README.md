@@ -7,11 +7,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-
-[Project Planning Wireframe Images] (
-[Project Planning Wireframe Link] (https://wireframe.cc/J4Fis9)
+#testing to see if image shows below
+![Image of Wireframes] (https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F47%2FProfilewireframe.png&f=1)
+Project Planning Wireframe Link to images: https://wireframe.cc/J4Fis9
 
 ### Project Tracker
 
