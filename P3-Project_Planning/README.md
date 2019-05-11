@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Wireframe 1](https://ibb.co/LZF6GN6)
-![Wireframe 2](https://ibb.co/y5fmpXr)
-![Wireframe 3](https://ibb.co/yBxFqCQ)
+![Wireframe 1](https://myeclecticportfolio.files.wordpress.com/2019/05/wireframe2.png)
+![Wireframe 2](https://myeclecticportfolio.files.wordpress.com/2019/05/wireframe1.png)
+![Wireframe 3](https://myeclecticportfolio.files.wordpress.com/2019/05/wireframe1.png)
 Project Planning Wireframe Link to images: https://wireframe.cc/J4Fis9
 
 ### Project Tracker
