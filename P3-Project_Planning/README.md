@@ -8,12 +8,21 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+![Wireframe 1](https://myeclecticportfolio.files.wordpress.com/2019/05/wireframe2.png)
+![Wireframe 2](https://myeclecticportfolio.files.wordpress.com/2019/05/wireframe1.png)
+![Wireframe 3](https://myeclecticportfolio.files.wordpress.com/2019/05/wireframe1.png)
+
+
+Link to all wireframes for project planning outline:
+https://wireframe.cc/J4Fis9
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/invite/b/PEUAldLv/4a49101fa41ad182d785173db661af59/what-s-for-dinner
+
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+The name of the repo will change most likely:
+
+https://github.com/lfaines/inspirationProject
