@@ -4,7 +4,7 @@ For this assignment you will be going through a live coding session with a Mento
 Your live coding administrator will be grading your ability to demonstrate your problem solving ability, and will expect you to: gather requiremetns, break down problems, logic, code, test, and make changes.
 
 ## Assignment Description
-[Live Coding Assignment](https://education.launchcode.org/liftoff/assignments/live-coding/)
+[Live Coding Assignment](https:/education.launchcode.org/liftoff-OLD/assignments/live-coding/)
 
 ## Submission Instructions
 You are not required to submit anything via GitHub, but you are responsible for ensuring your grade is recorded correctly. Check your grade in Canvas after completing this assignment.

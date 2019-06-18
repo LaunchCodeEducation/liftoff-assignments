@@ -1,6 +1,6 @@
 # Liftoff Assignments
 
-This repository is the base repo for all assignments in LaunchCode's [Liftoff](http://education.launchcode.org/liftoff/) course.
+This repository is the base repo for all assignments in LaunchCode's [Liftoff](http:/education.launchcode.org/liftoff-OLD/) course.
 
 ## Getting Started
 

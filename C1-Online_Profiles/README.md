@@ -2,7 +2,7 @@
 For this assignment you will need to upload your resume, and provide links to your GitHub account, and your LinkedIn account.
 
 ## Assignment Description
-[Online Profiles Assignment](https://education.launchcode.org/liftoff/assignments/online-profiles/)
+[Online Profiles Assignment](https:/education.launchcode.org/liftoff-OLD/assignments/online-profiles/)
 
 ## Submission Instructions
  

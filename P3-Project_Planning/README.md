@@ -2,7 +2,7 @@
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
+[Project Planning Assignment](https:/education.launchcode.org/liftoff-OLD/assignments/planning/)
 
 ## Submission Instructions
 
