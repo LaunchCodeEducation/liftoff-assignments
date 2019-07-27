@@ -62,11 +62,13 @@ Other Features:
 
 ### Technologies
 Include Technologies here
-Java
-Spring MVC
-JavaScript
-HTML - CSS
-Thymeleaf
+Java,
+Spring MVC,
+JavaScript,
+MySQL,
+React,
+HTML - CSS,
+Thymeleaf,
 
 ### What I'll Have to Learn
 Include what you will need to learn here
