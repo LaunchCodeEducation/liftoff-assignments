@@ -15,7 +15,8 @@ Format them as a bulleted/unordered list with links to the files.)
 ### Project Tracker
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/ckcmMm0m/lift-off
 
 ### Project Repo Link
-
+https://github.com/shreyak22/student-attendance
 (Include a link to your project on GitHub)
