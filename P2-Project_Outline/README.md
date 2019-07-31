@@ -71,8 +71,13 @@ HTML - CSS,
 Thymeleaf,
 
 ### What I'll Have to Learn
+I'll also be using test-driven development,
+ writing tests for my code before writing the code itself. 
+ I don't have much experience doing this in Spring, 
+so I'll have to learn how to use its testing capabilities.
 Include what you will need to learn here
 
-JavaScript
-Spring Security
-CSS
+JavaScript <br>
+Spring Security <br>
+CSS <br>
+
