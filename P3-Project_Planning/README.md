@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. 
 Format them as a bulleted/unordered list with links to the files.)
-
+https://github.com/shreyak22/liftoff-assignments/blob/master/P3-Project_Planning/new%20doc%202019-07-18%2012.06.57-20190728170215.pdf
 
 ### Project Tracker
 
