@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+MyBeat - online neighborhood to share the news like the newspapers of old... Post stories about the events in your neighborhood, township or city
 ### Features
-Include Features here
+account creation
+post, edit, & delete stories (text)
+post photos or images
+ability find stories by geographic area
 ### Technologies
-Include Technologies here
+java
+springboot
+thymeleaf
+MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+ground up project development
+deeper database structuring 
+ability to store images in SQL
+additional 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/johanx/boards
