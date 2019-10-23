@@ -23,3 +23,4 @@ Java, Springboot, Thymeleaf, Gradle, JavaScript
 I want to learn more about JavaScript and try to make the front end more interactive because I think that will be interesting to learn. Also, I will be using an API to keep track of where resale shops are located.
 ### Project Tracker
 https://trello.com/b/DUfiX4MS/resale-shop-inventory
+
