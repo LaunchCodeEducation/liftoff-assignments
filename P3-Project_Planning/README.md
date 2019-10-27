@@ -16,4 +16,4 @@ https://trello.com/johanx/boards
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/jetch5/My-Beat.git
