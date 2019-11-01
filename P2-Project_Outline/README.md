@@ -29,4 +29,4 @@ Javascript
 User login
 
 ### Project Tracker
-https://trello.com/b/1kc1hqyW/project
+https://trello.com/b/1kc1hqyW/beer-cans
