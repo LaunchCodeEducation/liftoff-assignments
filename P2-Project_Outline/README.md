@@ -24,7 +24,7 @@ Hibernate
 Thymeleaf 
 
 ### What I'll Have to Learn
+For this project, I would like search results to be plotted on a map. I am not sure if this will require me to link Google mapping technology or if I could use GIS for this. I am currently learning GIS for my current job and would love to use this if applicable. 
 
-Include what you will need to learn here
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/zFyMDKmT/liftoff-project
