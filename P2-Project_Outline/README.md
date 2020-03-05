@@ -7,14 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My project will be a blog website that will people to give and receive advice.
-It will allow people to create a page for diffrent martial arts.
+My project will be a blog website that will let people to give and receive advice.
+It will allow people to create a page for different martial arts.
 Each page will have a comment section. 
+And people will be allowed to create a login.
 ### Features
-Include Features here
+Login page
+comment secton
+home page
+martial art page creation
 ### Technologies
-Include Technologies here
+Java 
+thymleaf
+html
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn about comment sections and how best to implement them.
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/invite/b/QMkRbup9/d62cb57fa95ba11e3ec510239cc0e4e4/project-2020
