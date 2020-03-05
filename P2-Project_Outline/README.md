@@ -7,7 +7,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will be a blog website that will people to give and receive advice.
+It will allow people to create a page for diffrent martial arts.
+Each page will have a comment section. 
 ### Features
 Include Features here
 ### Technologies
