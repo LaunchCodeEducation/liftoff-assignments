@@ -13,7 +13,7 @@ Each page will have a comment section.
 And people will be allowed to create a login.
 ### Features
 Login page
-comment secton
+comment section
 home page
 martial art page creation
 ### Technologies
