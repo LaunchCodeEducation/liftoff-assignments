@@ -1,3 +1,5 @@
+Name: Luke Griffin
+
 # Start Here!
 Welcome to Liftoff! We are excited to have you in this course.
 
