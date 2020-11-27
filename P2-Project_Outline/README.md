@@ -15,20 +15,19 @@ It’s a necessity for life, and as such, most people develop some basic cooking
 
 The McDev Cooking Association is proud to present: [Insert witty App name here]; a straightforward and practical tool designed to provide ideas, inspiration, and easy-to-follow recipes for users who have the materials, but not necessarily the know-how, of what to make for their next meal. Simply provide the app with a list of ingredients you have on hand, and the app will search our database of recipes for potential matches for your next meal, complete with step-by-step instructions!
 ### Features
-User Login [basics] -A basic function to allow users a degree of personalization when using other features of our app.
+- User Login [basics] - A basic function to allow users a degree of personalization when using other features of our app.
 
-CRUD functionality [basics] -Standard app operations to allow the user to provide data to the app to get an expected return datum.
+- CRUD functionality [basics] - Standard app operations to allow the user to provide data to the app to get an expected return datum.
 
-Ingredients input for returned recipes [mvp] -The heart and soul of our app, the user provides our program with available foodstuffs, and we return to the user, recipe options.
+- Ingredients input for returned recipes [mvp] - The heart and soul of our app, the user provides our program with available foodstuffs, and we return to the user, recipe options.
 
-Filter results (by prep/cook times, extra ingredients, ect) -A feature that allows the user to fine tune their returned results, for better versatility to the user
+- Filter results (by prep/cook times, extra ingredients, ect) - A feature that allows the user to fine tune their returned results, for better versatility to the user
 
-Tag system for recipes [mvp] -Some way of tagging the individual ingredients so all recipes on file can be uniformly parsed and handled
+- Tag system for recipes [mvp] - Some way of tagging the individual ingredients so all recipes on file can be uniformly parsed and handled
 
-User uploadable recipes
--Allow users a degree of interactivity by allowing custom recipes/variations of existing recipes
+- User uploadable recipes - Allow users a degree of interactivity by allowing custom recipes/variations of existing recipes
 
-Save/favorite recipes option -Allows users to quickly recall preferred recipes (requires user login)
+- Save/favorite recipes option - Allows users to quickly recall preferred recipes (requires user login)
 ### Technologies
 In order to implement all the features we are looking to incorporate, we will be utilizing different technologies to achieve our vision. These technologies include:
 - SpringBoot Gradle project(for backend development)
