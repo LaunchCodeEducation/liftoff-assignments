@@ -30,7 +30,12 @@ User uploadable recipes
 
 Save/favorite recipes option -Allows users to quickly recall preferred recipes (requires user login)
 ### Technologies
-Include Technologies here
+In order to implement all the features we are looking to incorporate, we will be utilizing different technologies to achieve our vision. These technologies include:
+- SpringBoot Gradle project(for backend development)
+- Angular(for frontend development)
+- AWS(for deployment)
+- MySQL(for data persistence)
+- Spoonacular API(for access to data pertaining to recipes and ingredients)
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
