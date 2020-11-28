@@ -36,6 +36,15 @@ In order to implement all the features we are looking to incorporate, we will be
 - MySQL(for data persistence)
 - Spoonacular API(for access to data pertaining to recipes and ingredients)
 ### What I'll Have to Learn
-Include what you will need to learn here
+Looking at the list of technologies our team is using, there will be a number of things that need be learned:
+
+How to seamlessly have our frontend: Angular(using TypeScript), and our backend: SpringBoot (using Java) interact.
+AWS as a whole is unknown and will require learning from scratch.
+While we have experience with MySQL as a whole, we'll still need to figure out how to set up a database that isn't specifically a programmers local machine. Otherwise, if our project goes live all database traffic would be handled by a personal computer, where a purpose-built server would be more applicable.
+As with AWS, Spoontacular is unfamiliar, and the programmers will need to familiarize themselves.
+In addition to the technologies we've chosen to use, there are several non-programming related topics that will need to be learned:
+
+Working as a team through the process of building a program will be a learning experience.
+The members of the development team will need to learn how to delegate tasks, and support one another.
 ### Project Tracker
 https://trello.com/b/PuCw1855/the-food-app-name-tbd
