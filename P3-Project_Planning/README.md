@@ -12,8 +12,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/PuCw1855/the-food-app-name-tbd
 
 ### Project Repo Link
+https://github.com/LaunchCodeLiftoffProjects/team_mcdev
 
-Include a link to your project on GitHub.
