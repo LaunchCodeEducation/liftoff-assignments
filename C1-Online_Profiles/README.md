@@ -7,12 +7,14 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/diegomendez11117
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+linkedin.com/in/enriquemendezroger
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+•	Computer engineer with an experience of more than 5 years in the field of software development and control of computer network systems. 
+•	Experience in development and maintenance of accounting-financial management systems. 
+•	Experience in agile methodologies and the complete software development life cycle from requirements, design, development, testing, launch, to the launch / implementation phases. 
+•	Experience working in high workload and high-pressure environments. Fast learner, hard worker and team player. Proficient in a variety of programming languages. 
+•	Experience using Frameworks for web development, object-oriented programming, and implementation of web and desktop applications.
