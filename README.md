@@ -1,22 +1,23 @@
-# Start Here!
-Welcome to Liftoff! We are excited to have you in this course.
+StyleStorm
+Overview
+My project will allow people to get instant feedback on whether a style is appropriate for various situations.
 
-You are currently viewing the Liftoff Assignments Repository. This repo contains information about all of the assignments in the course, and will be how you will submit much of your work.
+This project is created as a stand in for those who don't have or are lacking
+a social consciousness
 
-## Repo Explanation
-In Liftoff we are focusing on two things: your Personal Project, and Career Readiness skills. Throughout this course you will have assignments related to both of those core areas. Looking through this repo you can see Personal Project assignments, and Career Readiness assignments.
+Features
+-User login: Users will be able to log in, either by creating accounts in the system, or by using a third-party authentication provider (e.g. Google Authentication). All access to the site will be restricted to logged-in users.
+-Create and edit posts: Users will be able to create new posts in the system by entering in a mixture of required (title, description, etc) and optional fields (photos, videos etc).
+-View random posts: Users will be able to view a listing of recent and or popular posts, and by clicking on a post, view details about that post.
+-Volunteer tracking: Users will be able to add users to follow
+-Delete posts: Users will be able to delete posts.
 
-Personal Project Assignments are flagged with P#, and Career Readiness assignments are flagged with C#, both are followed by the name of the assignment.
+Technologies
+Java
+JavaScript
+Spring Boot
+MySQL
+Thymeleaf templates
+Bootstrap
 
-You will use this repository in tandem with Canvas. All of your grades will be recorded in Canvas, however you will submit your work through this GitHub repository.
-
-We are making you use GitHub for two important reasons:
-<ol>
-<li>You will get more practice with GitHub</li>
-<li>Your assignments are all stored in one place</li>
-</ol>
-
-## Next Step
-Now that you know what this repo is for let's get it setup.
-
-Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) repo for further instructions.
+What I'll Have to Learn
