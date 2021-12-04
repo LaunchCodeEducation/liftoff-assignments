@@ -35,6 +35,8 @@ Service Category Name, Area/Location, View
 Display Service Registration Form in view/read only mode
 
 
+
+
 ### Technologies
 Technologies Used:
 -Java and JavaScript.
@@ -48,6 +50,41 @@ Technologies Used:
 ### What I'll Have to Learn
 Include what you will need to learn here
      Handling project as a team and executing it.
+
+Technical Requirements
+Task 1
+Create and name Github Repository with basic requirements
+ex:"Hello World"
+30 minute
+Task 2
+Isolate the technical aspect we need to get to for each page
+Create users
+Authenticate users
+Users searching for categories(Graded assignment 4)
+CRUD library(Graded assignment 4)
+Create categories/database
+Create employees(drop down Spa Day)
+Create employers(drop down Spa Day)
+Job Description (email/phone#.... possible direct messaging)
+Accept
+Reject
+Complete(email completion)
+Maybe payment
+Task 3
+Project task list
+Post Skills
+Post Jobs
+Broad Categories(use label for job ..... employees and employers)
+Pick category
+employees posting(skills)
+Users posting (jobs)
+Job acceptance
+Job declanation
+Final Completion email
+Task 4
+Find simplistic functional templates(Bootstrap)
+Copy paste starter code from other projects
+Entrance page
 
 ### Project Tracker
 Link to your Trello board here
