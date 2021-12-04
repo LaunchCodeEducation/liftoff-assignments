@@ -11,9 +11,18 @@ End User who wants service can find and contact the service provider.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+<!DOCTYPE html>
+<html>
+<head>Project Outline</head>
+<body><div>
+<ul>
+<li><img src="Images/Project Outline.jpg"></li>
+<li><img src="Images/Project Outline1.jpg"></li>
+<li><img src="Images/Project Outline2.jpg"></li>
+</ul>
+</div></body>
+</html>
 
-###![](Project Outline.jpg)
-###![](Project Outline1.jpg)
 
 ### Project Tracker
 
