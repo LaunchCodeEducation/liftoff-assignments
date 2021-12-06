@@ -33,4 +33,4 @@ https://trello.com/b/SzwmgoD8/launchcode-liftoffproject
 ### Project Repo Link
 
 Include a link to your project on GitHub.
-https://github.com/vaishnavi-sr/LiftoffProgect
+https://github.com/vaishnavi-sr/Kaboodles/tree/master/LiftOff-Project
