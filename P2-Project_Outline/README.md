@@ -20,13 +20,14 @@ End User who wants service can find and contact the service provider.
 ### Features
 Feature -1
 
-Register Service  --->1) User Register and Login/Logout
-2) Fill Service Registration Form
-1)First Name, Last Name, Age, Address, Contact Phone Number,Email ID
-3) Service Category (DropDown), Service Description
-4) Service Cost/Per hour
-5) Area in which service is given
-5)Update/ Delete Service Registration Form
+Register Service  --->
+   a)User Register and Login/Logout
+   1) Fill Service Registration Form
+   1)First Name, Last Name, Age, Address, Contact Phone Number,Email ID
+   2) Service Category (DropDown), Service Description
+   3) Service Cost/Per hour
+   4) Area in which service is given
+   5)Update/ Delete Service Registration Form
 
 Feature -2
 
