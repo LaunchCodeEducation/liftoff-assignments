@@ -11,6 +11,11 @@ Upload a .PDF of your presentation here for review.
 https://docs.google.com/presentation/d/17nnodGQ2V4FSjhhvfUJbrfR8skf199GwuQ007wME-q4/edit#slide=id.g274a2c8ef6_0_0
 
 
+https://www.linkedin.com/in/vaishnavi-srinivasan-111319227/
+
+https://docs.google.com/presentation/d/17nnodGQ2V4FSjhhvfUJbrfR8skf199GwuQ007wME-q4/edit#slide=id.p
+
+
 
 
 
