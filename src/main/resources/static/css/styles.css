@@ -1,0 +1,20 @@
+header {
+    padding: 10px;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+.center {
+    text-align: center;
+}
+
+.btn-find {
+    background-color: #FF0000;  /* red */
+    color: white;
+    padding-left: 3px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
