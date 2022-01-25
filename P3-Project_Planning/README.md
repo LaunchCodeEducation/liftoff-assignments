@@ -13,10 +13,12 @@ Include at least 3 wireframes here, adding images or files to your repository as
 Nics Wireframes
 * Registration (pet owner)
 
-![Pet Owner Registration](Nicolas Burbinski/2)Registration (pet owner).jpg)
-
+![Pet Owner Registration](Nicolas Burbinski/2\)Registration \(pet owner\).jpg)
 
 * Add Office Entry
+
+![Pet Owner Registration](Nicolas Burbinski/2\)Registration (pet owner).jpg)
+
 * Search Results
 
 
