@@ -1,0 +1,24 @@
+header {
+    padding: 10px;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+.div-search {
+    max-width: 485px;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.btn-find {
+    background-color: #FF0000;  /* red */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
