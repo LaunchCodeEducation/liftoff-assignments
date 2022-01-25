@@ -37,7 +37,7 @@ For this assignment, you'll create some initial plans for your project.
 
 - Add Office Entry
 > Contributed By Nicolas Burbinski
-![Add Office Entry](/P3-Project_Planning/Nicolas%20Burbinski/3)Add%20office%20entry.jpg)
+![Add Office Entry](/P3-Project_Planning/Nicolas%20Burbinski/3\)Add%20office%20entry.jpg)
 
 - Edit Office Entry
 > Contributed By Eric Nguyen
@@ -81,7 +81,7 @@ For this assignment, you'll create some initial plans for your project.
 
 - Registration - Pet Owner
 > Contributed by Nicolas Burbinski
-![Registration - Pet Owner](/P3-Project_Planning/Nicolas%20Burbinski/2)Registration%20(pet%20owner).jpg)
+![Registration - Pet Owner](/P3-Project_Planning/Nicolas%20Burbinski/2\)Registration%20\(pet%20owner\).jpg)
 
 - Registration - Vet/Clinic
 > Contributed by Barbara Thompson
