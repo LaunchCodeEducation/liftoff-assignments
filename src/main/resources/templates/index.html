@@ -6,16 +6,41 @@
     <header><h1>Search for a Vet Clinic</h1></header>
     <div class="container-fluid">
 
-        <form>
-            <div class="div-search row">
-                <div class="input-group col">
-                    <input type="text"
-                       class="form-control"
-                       id="term"
-                       name="term"
-                       placeholder="Enter a city or state to search for a vet clinic..."
+        <form  action="/search-results.html" method="GET">
+            <div class="div-search">
+                <h4>Find a vet clinic near me</h4>
+                <div class="form-check">
+                    <input
+                        class="form-check-input"
+                        type="radio"
+                        name="searchType"
+                        id="city"
+                        value="city"
+                        checked
                     />
-                    <input type="submit" class="btn btn-find" value="Find" />
+                    <label class="form-check-label"  for="city">Search by city</label>
+                </div>
+                <div class="form-check">
+                    <input
+                        class="form-check-input"
+                        type="radio"
+                        name="searchType"
+                        id="state"
+                        value="state"
+                    />
+                    <label class="form-check-label"  for="city">Search by state</label>
+                </div>
+            </div>
+            <div class="div-search">
+                <div class="input-group">
+                    <input
+                        type="text"
+                        class="form-control"
+                        id="term"
+                        name="term"
+                        placeholder="Enter a search term (city or full state name)..."
+                    />
+                    <input type="submit" class="btn btn-find" value="&#x1f50e;" />
                 </div>
             </div>
         </form>
