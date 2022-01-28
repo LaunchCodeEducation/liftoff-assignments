@@ -37,10 +37,10 @@ public class HomeController {
         {
             List<Clinic> results = new ArrayList<>();
             if (searchType.equals("city")) {
-                results = clinicRepository.findByCity(term);
+                results = clinicRepository.findByCityIgnoreCaseContaining(term);
             }
             else if (searchType.equals("state")) {
-                results = clinicRepository.findByState(term);
+                results = clinicRepository.findByStateIgnoreCaseContaining(term);
             }
             if (results.isEmpty()) {
                 model.addAttribute("results_heading", "No search results found for " + searchType + ": '" + term + "'");

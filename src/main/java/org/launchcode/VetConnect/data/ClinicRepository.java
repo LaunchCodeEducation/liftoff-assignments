@@ -9,8 +9,8 @@ import java.util.List;
 @Repository
 public interface ClinicRepository extends CrudRepository<Clinic, Integer> {
 
-    List<Clinic> findByCity(String city);
-    List<Clinic> findByState(String state);
+    List<Clinic> findByCityIgnoreCaseContaining(String city);
+    List<Clinic> findByStateIgnoreCaseContaining(String state);
 
 
 }
