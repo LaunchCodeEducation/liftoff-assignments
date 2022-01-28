@@ -1,3 +1,11 @@
+body {
+    background-color: #cae4fd;
+}
+
+nav {
+    background-color: #2d4b66;
+}
+
 header {
     padding: 10px;
 }
@@ -11,6 +19,12 @@ h1 {
     margin: 0 auto;
 }
 
+.row-images {
+    padding: 40px 0px;
+    max-width: 75%;
+    margin: auto;
+}
+
 .center {
     text-align: center;
 }
@@ -22,3 +36,4 @@ h1 {
     border-radius: 5px;
     font-size: 16px;
 }
+

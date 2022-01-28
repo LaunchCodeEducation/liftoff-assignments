@@ -1,7 +1,10 @@
 package org.launchcode.VetConnect.models;
 
+
+import javax.persistence.Entity;
 import java.util.Objects;
 
+@Entity
 public class Clinic extends AbstractEntity{
 
     private String name;

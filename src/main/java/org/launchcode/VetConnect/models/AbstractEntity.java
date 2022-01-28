@@ -1,10 +1,17 @@
 package org.launchcode.VetConnect.models;
 
+
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.MappedSuperclass;
 import java.util.Objects;
 
+@MappedSuperclass
 public abstract class AbstractEntity {
 
-    private int id;
+    @Id
+    @GeneratedValue
+  private int id;
 
     public int getId() {
         return id;
