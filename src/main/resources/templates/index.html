@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org/">
+<head th:replace="fragments :: head"></head>
+<body>
+    <nav th:replace="fragments :: nav"></nav>
+    <header><h1>Search for a Vet Clinic</h1></header>
+    <div class="container-fluid">
+
+        <form  th:action="@{/search-results}" method="POST">
+            <div class="div-search">
+                <h4>Find a vet clinic near me</h4>
+                <div class="form-check">
+                    <input
+                        class="form-check-input"
+                        type="radio"
+                        name="searchType"
+                        id="city"
+                        value="city"
+                        checked
+                    />
+                    <label class="form-check-label"  for="city">Search by city</label>
+                </div>
+                <div class="form-check">
+                    <input
+                        class="form-check-input"
+                        type="radio"
+                        name="searchType"
+                        id="state"
+                        value="state"
+                    />
+                    <label class="form-check-label"  for="state">Search by state</label>
+                </div>
+            </div>
+            <div class="div-search">
+                <div class="input-group">
+                    <input
+                        type="text"
+                        class="form-control"
+                        id="term"
+                        name="term"
+                        placeholder="Enter a search term (city or full state name)..."
+                    />
+                    <input type="submit" class="btn btn-find" value="&#x1f50e;" />
+                </div>
+            </div>
+        </form>
+
+        <div class="container">
+            <div class="row justify-content-center row-images">
+                    <img th:src="@{/image/cat-dog.jpg}" class="col-lg-3" alt="cat and dog resting" />
+                    <img th:src="@{/image/hamster.jpg}" class="col-lg-3" alt="hamster sitting" />
+                    <img th:src="@{/image/bunny.jpg}" class="col-lg-3" alt="bunny sitting" />
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

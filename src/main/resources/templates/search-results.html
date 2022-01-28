@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org/">
+<head th:replace="fragments :: head"></head>
+
+<body>
+<nav th:replace="fragments :: nav"></nav>
+
+<header><h1>Search Results</h1></header>
+
+<th:block th:each="clinic : ${clinics}">
+    <table class="table table-striped">
+
+        <tr>
+            <td> <a th:href="@{/clinic-profile(clinicId=${clinic.id})}" th:text="${clinic.name}"></a></td>
+        </tr>
+        <tr>
+            <td th:text="${clinic.address}"></td>
+        </tr>
+        <tr>
+            <td th:text="${clinic.city} + ', ' + ${clinic.state} + ' ' + ${clinic.zip}"></td>
+        </tr>
+    </table>
+</th:block>
+
+</body>
+</html>

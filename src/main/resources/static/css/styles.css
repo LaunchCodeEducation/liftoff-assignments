@@ -1,0 +1,39 @@
+body {
+    background-color: #cae4fd;
+}
+
+nav {
+    background-color: #2d4b66;
+}
+
+header {
+    padding: 10px;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+.div-search {
+    max-width: 485px;
+    margin: 0 auto;
+}
+
+.row-images {
+    padding: 40px 0px;
+    max-width: 75%;
+    margin: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.btn-find {
+    background-color: #FF0000;  /* red */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
