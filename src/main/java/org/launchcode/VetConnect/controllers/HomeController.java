@@ -47,7 +47,7 @@ public class HomeController {
             }
             else {
                 // search results were found!
-                model.addAttribute("results_heading", "Search results for" + searchType + " name: '" + term + "'");
+                model.addAttribute("results_heading", "Search results for " + searchType + " name: '" + term + "'");
                 model.addAttribute("clinics", results);
             }
         }
