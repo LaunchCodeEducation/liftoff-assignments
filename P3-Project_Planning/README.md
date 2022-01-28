@@ -91,10 +91,24 @@ For this assignment, you'll create some initial plans for your project.
 > Contributed by Michael Huerta
 ![Registration - Vet/Clinic](/P3-Project_Planning/Michael%20Huerta/Screen%20Shot%202022-01-24%20at%205.55.21%20PM.png)
 
+Nics Wireframes
+* Registration (pet owner)
+
+![Pet Owner Registration](/Nicolas Burbinski/2\)Registration \(pet owner\).jpg)
+
+* Add Office Entry
+
+![Pet Owner Registration](Nicolas Burbinski/2\)Registration (pet owner).jpg)
+
+* Search Results
+
+
 ### Project Tracker
 
 https://trello.com/b/ORoboRNu/launch-code-project
 
 ### Project Repo Link
 
+
 https://github.com/bthomp5061/liftoff-assignments
+

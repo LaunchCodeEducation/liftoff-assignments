@@ -1,5 +1,6 @@
 package org.launchcode.VetConnect.models;
 
+
 import javax.persistence.Entity;
 import java.util.Objects;
 
