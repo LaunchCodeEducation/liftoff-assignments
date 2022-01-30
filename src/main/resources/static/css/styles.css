@@ -46,3 +46,12 @@ h2 {
     border-radius: 5px;
     font-size: 16px;
 }
+
+.cprofile {
+   border: 5px outset black;
+   background-color: white;
+   text-align: center;
+   border-radius: 10px;
+   margin: auto;
+   width: 90%;
+}
