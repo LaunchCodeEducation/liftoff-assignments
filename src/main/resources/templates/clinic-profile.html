@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org/">
+<head th:replace="fragments :: head"></head>
+
+<body>
+<nav th:replace="fragments :: nav"></nav>
+
+<header>
+    <h1>Clinic Profile</h1>
+</header>
+
+<div class="cprofile">
+  <h2>Clinic Name</h2>
+  <p th:text="${clinic.name}"></p>
+    <h2>Address</h2>
+    <p th:text="${clinic.address}"></p>
+    <p th:text="${clinic.city} + ', ' + ${clinic.state} + ' ' + ${clinic.zip}"></p>
+    <h2>Phone Number</h2>
+    <p th:text="${clinic.number}"></p>
+    <h2>Website</h2>
+    <p th:text="${clinic.website}"></p>
+</div>
+</body>
+</html>
