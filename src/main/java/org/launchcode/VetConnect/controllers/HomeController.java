@@ -26,7 +26,7 @@ public class HomeController {
     }
 
 
-    @PostMapping(value="search-results")
+    @GetMapping(value="search-results")
     public String displaySearchResults(Model model, @RequestParam String searchType, @RequestParam String term)
     {
         if (searchType.isEmpty() || term.isEmpty())
