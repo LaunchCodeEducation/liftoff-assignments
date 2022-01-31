@@ -8,7 +8,7 @@ import java.util.Objects;
 public class Clinic extends AbstractEntity{
 
     private String name;
-    private String number;
+    private String phoneNumber;
     private String address;
     private String city;
     private String state;
@@ -18,10 +18,10 @@ public class Clinic extends AbstractEntity{
     public Clinic() {}
 
 //    Initialize the id and value fields
-    public Clinic(String name, String number, String address, String city, String state, String zip, String website) {
+    public Clinic(String name, String phoneNumber, String address, String city, String state, String zip, String website) {
         super();
         this.name = name;
-        this.number = number;
+        this.phoneNumber = phoneNumber;
         this.address = address;
         this.city = city;
         this.state = state;
@@ -38,12 +38,12 @@ public class Clinic extends AbstractEntity{
         this.name = name;
     }
 
-    public String getNumber() {
-        return number;
+    public String getPhoneNumber() {
+        return phoneNumber;
     }
 
-    public void setNumber(String number) {
-        this.number = number;
+    public void setPhoneNumber(String phoneNumber) {
+        this.phoneNumber = phoneNumber;
     }
 
     public String getAddress() {

@@ -37,17 +37,17 @@ public class HomeController {
         {
             List<Clinic> results = new ArrayList<>();
             if (searchType.equals("city")) {
-                results = clinicRepository.findByCity(term);
+                results = clinicRepository.findByCityIgnoreCaseContaining(term);
             }
             else if (searchType.equals("state")) {
-                results = clinicRepository.findByState(term);
+                results = clinicRepository.findByStateIgnoreCaseContaining(term);
             }
             if (results.isEmpty()) {
                 model.addAttribute("results_heading", "No search results found for " + searchType + ": '" + term + "'");
             }
             else {
                 // search results were found!
-                model.addAttribute("results_heading", "Search results for" + searchType + " name: '" + term + "'");
+                model.addAttribute("results_heading", "Search results for " + searchType + " name: '" + term + "'");
                 model.addAttribute("clinics", results);
             }
         }
@@ -57,7 +57,7 @@ public class HomeController {
     @GetMapping("clinic-profile")
     public String displayClinicProfile(@RequestParam Integer clinicId, Model model)
     {
-        model.addAttribute("clinic", clinicRepository.findById(clinicId));
-        return ("clinic-profile");
+        model.addAttribute("clinic", clinicRepository.findById(clinicId).get());
+        return "clinic-profile";
     }
 }

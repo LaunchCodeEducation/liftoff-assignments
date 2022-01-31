@@ -5,11 +5,14 @@
 <body>
 <nav th:replace="fragments :: nav"></nav>
 
-<header><h1>Search Results</h1></header>
+<header>
+    <h1>Search Results</h1>
+    <p th:if="${results_heading}" th:text="${results_heading}"></p>
+</header>
 
+<div class="container">
 <th:block th:each="clinic : ${clinics}">
-    <table class="table table-striped">
-
+    <table class="table table-sm table-light table-borderless">
         <tr>
             <td> <a th:href="@{/clinic-profile(clinicId=${clinic.id})}" th:text="${clinic.name}"></a></td>
         </tr>
@@ -21,6 +24,7 @@
         </tr>
     </table>
 </th:block>
+</div>
 
 </body>
 </html>
