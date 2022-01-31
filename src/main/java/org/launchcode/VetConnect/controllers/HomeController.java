@@ -29,7 +29,7 @@ public class HomeController {
     @GetMapping(value="search-results")
     public String displaySearchResults(Model model, @RequestParam String searchType, @RequestParam String term)
     {
-        if (searchType.isEmpty() || term.isEmpty() || searchType == null || term == null)
+        if (searchType.isEmpty() || term.isEmpty())
         {
             model.addAttribute("results_heading", "No search results were found.  Please enter a search term.");
         }
