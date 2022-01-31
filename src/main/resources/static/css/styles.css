@@ -40,7 +40,7 @@ h2 {
 }
 
 .btn-find {
-    background-color: #FF0000;  /* red */
+    background-color: red;
     color: white;
     border: none;
     border-radius: 5px;
@@ -48,10 +48,10 @@ h2 {
 }
 
 .cprofile {
-   border: 5px outset black;
    background-color: white;
    text-align: center;
+   padding: 10px;
    border-radius: 10px;
    margin: auto;
-   width: 90%;
+   max-width: 90%;
 }
