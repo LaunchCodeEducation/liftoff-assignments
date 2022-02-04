@@ -11,4 +11,9 @@ public class AuthenticationController {
         return "login";
     }
 
+    @GetMapping(value="register")
+    public String register() {
+        return "register";
+    }
+
 }
