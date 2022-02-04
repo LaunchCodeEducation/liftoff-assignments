@@ -11,7 +11,18 @@ header {
 }
 
 h1 {
-    font-size: 18px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+/* Bootstrap modification */
+.navbar-brand {
+    font-size: x-large;
+    padding: 0px;
 }
 
 .div-search {
@@ -20,9 +31,8 @@ h1 {
 }
 
 .row-images {
-    padding: 40px 0px;
-    max-width: 75%;
-    margin: auto;
+    max-width: 750px;
+    padding: 30px 10px;
 }
 
 .center {
@@ -30,10 +40,18 @@ h1 {
 }
 
 .btn-find {
-    background-color: #FF0000;  /* red */
+    background-color: red;
     color: white;
     border: none;
     border-radius: 5px;
     font-size: 16px;
 }
 
+.cprofile {
+   background-color: white;
+   text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   margin: auto;
+   max-width: 90%;
+}

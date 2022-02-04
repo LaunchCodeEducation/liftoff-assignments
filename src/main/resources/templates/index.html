@@ -6,9 +6,9 @@
     <header><h1>Search for a Vet Clinic</h1></header>
     <div class="container-fluid">
 
-        <form  th:action="@{/search-results}" method="POST">
+        <form th:action="@{/search-results}" method="GET">
             <div class="div-search">
-                <h4>Find a vet clinic near me</h4>
+                <h2 class="pb-1">Find a vet clinic near me</h2>
                 <div class="form-check">
                     <input
                         class="form-check-input"
@@ -45,11 +45,17 @@
             </div>
         </form>
 
-        <div class="container">
-            <div class="row justify-content-center row-images">
-                    <img th:src="@{/image/cat-dog.jpg}" class="col-lg-3" alt="cat and dog resting" />
-                    <img th:src="@{/image/hamster.jpg}" class="col-lg-3" alt="hamster sitting" />
-                    <img th:src="@{/image/bunny.jpg}" class="col-lg-3" alt="bunny sitting" />
+        <div class="container row-images">
+            <div class="row g-4 center">
+                <div class="col-sm">
+                    <img class="img-fluid rounded-1" th:src="@{/image/cat-dog.jpg}" alt="cat and dog resting" />
+                </div>
+                <div class="col-sm">
+                    <img class="img-fluid rounded-1" th:src="@{/image/hamster.jpg}" alt="hamster sitting" />
+                </div>
+                <div class="col-sm">
+                    <img class="img-fluid rounded-1" th:src="@{/image/bunny.jpg}" alt="bunny sitting" />
+                </div>
             </div>
         </div>
 
