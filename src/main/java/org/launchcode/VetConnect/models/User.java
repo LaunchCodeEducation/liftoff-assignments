@@ -7,7 +7,7 @@ import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 
 @Entity
-public class User {
+public class User extends AbstractEntity {
 
     @NotBlank
     private String userType;
