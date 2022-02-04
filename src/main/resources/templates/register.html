@@ -18,16 +18,16 @@
                             <div class="row">
                                 <div class="col-md-6 mb-4">
                                     <div class="form-outline">
-                                        <input type="text" id="firstName" class="form-control form-control-lg" />
-                                        <label class="form-label" for="firstName">First Name</label>
+                                        <input type="text" id="firstName" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="firstName">First Name</label>
 <!--                                        <span th:errors="${registerFormDTO.firstName}" class="error"></span>-->
                                     </div>
                                 </div>
                                 <div class="col-md-6 mb-4">
 
                                     <div class="form-outline">
-                                        <input type="text" id="lastName" class="form-control form-control-lg" />
-                                        <label class="form-label" for="lastName">Last Name</label>
+                                        <input type="text" id="lastName" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="lastName">Last Name</label>
 <!--                                        <span th:errors="${registerFormDTO.lastName}" class="error"></span>-->
                                     </div>
 
@@ -37,8 +37,8 @@
                             <div class="row">
                                 <div class="col mb-4 pb-2">
                                     <div class="form-outline">
-                                        <input type="email" id="emailAddress" class="form-control form-control-lg" />
-                                        <label class="form-label" for="emailAddress">Email</label>
+                                        <input type="email" id="emailAddress" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="emailAddress">Email</label>
 <!--                                        <span th:errors="${registerFormDTO.emailAddress}" class="error"></span>-->
                                     </div>
 
@@ -48,16 +48,16 @@
                             <div class="row">
                                 <div class="col-md-6 mb-4 pb-2">
                                     <div class="form-outline">
-                                        <input type="password" id="password" class="form-control form-control-lg" />
-                                        <label class="form-label" for="password">Password</label>
+                                        <input type="password" id="password" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="password">Password</label>
 <!--                                        <span th:errors="${registerFormDTO.password}" class="error"></span>-->
                                     </div>
 
                                 </div>
                                 <div class="col-md-6 mb-4 pb-2">
                                     <div class="form-outline">
-                                        <input type="password" id="confirmPassword" class="form-control form-control-lg" />
-                                        <label class="form-label" for="confirmPassword">Confirm Password</label>
+                                        <input type="password" id="confirmPassword" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="confirmPassword">Confirm Password</label>
 <!--                                        <span th:errors="${registerFormDTO.verifyPassword}" class="error"></span>-->
                                     </div>
 
@@ -66,7 +66,7 @@
 
                             <div class="row justify-content-center align-items-center" >
                                 <div  class="col-md-6 mb-3 pb-2 user-type " onclick="userTypeClick('petOwner')">
-                                    <div id="petOwner" class="form-outline p-3 border rounded bg-primary text-light">
+                                    <div id="petOwner" class="form-outline p-3 border border-dark rounded bg-primary text-light">
                                             <h2 class="text-center">I am a Pet Owner!</h2>
                                             <p>As a Pet Owner you will be able to </p>
                                             <ul>
@@ -77,12 +77,12 @@
                                 </div>
 
                                 <div class="col-md-6 mb-3 pb-2 user-type" onclick="userTypeClick('vet')" >
-                                    <div id="vet" class="form-outline p-3 border rounded ">
+                                    <div id="vet" class="form-outline p-3 border border-dark rounded ">
                                         <h2 class="text-center">I am a Vet!</h2>
                                         <p>As a vet you will be able to </p>
                                         <ul>
                                             <li>Claim a clinic</li>
-                                            <li>Update information for that clinic</li>
+                                            <li>Update information for your clinic</li>
                                         </ul>
                                     </div>
                                 </div>
