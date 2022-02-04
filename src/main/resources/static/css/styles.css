@@ -55,3 +55,13 @@ h2 {
    margin: auto;
    max-width: 90%;
 }
+
+.user-type:hover {
+    opacity: 80%;
+    cursor: pointer;
+}
+
+.selected {
+    background-color: blue;
+}
+
