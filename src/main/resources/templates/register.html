@@ -1,6 +1,7 @@
 <!DOCTYPE>
 <html lang="en" xmlns:th="http://www.thymeleaf.org/">
 <head th:replace="fragments :: head"></head>
+<script src="../js/index.js"></script>
 
 
 <body>
@@ -63,24 +64,35 @@
                                 </div>
                             </div>
 
-                            <div class="row justify-content-center align-items-center">
-                                <div class="col-md-6 mb-4 pb-2 ">
+                            <div class="row justify-content-center align-items-center" >
 
-                                    <div class="form-outline pb-2 border rounded text-center">
-                                        <h2>I am a Pet Owner!</h2>
-                                        <p></p>
+                                <div  class="col-md-6 mb-3 pb-2 user-type" onclick="userTypeClick('petOwner')">
+                                    <div id="petOwner" class="form-outline p-2 border rounded">
+                                            <h2 class="text-center">I am a Pet Owner!</h2>
+                                            <p>As a Pet Owner you will be able to </p>
+                                            <ul>
+                                                <li>Add a clinic listing</li>
+                                                <li>Leave a review on clinics</li>
+                                            </ul>
                                     </div>
-
                                 </div>
-                                <div class="col-md-6 mb-4 pb-2">
 
-                                    <div class="form-outline pb-2 border rounded text-center">
-                                        <h2>I am a Vet!</h2>
+                                <div class="col-md-6 mb-3 pb-2 user-type" onclick="userTypeClick('vet')" >
+                                    <div id="vet" class="form-outline p-2 border rounded ">
+                                        <h2 class="text-center">I am a Vet!</h2>
+                                        <p>As a vet you will be able to </p>
+                                        <ul>
+                                            <li>Claim a clinic</li>
+                                            <li>Update information for that clinic</li>
+                                        </ul>
                                     </div>
-
-
                                 </div>
                             </div>
+
+                            <select id='userType' class="d-none">
+                                <option value="petOwner">petOwner</option>
+                                <option value="vet">vet</option>
+                            </select>
 
                             <div class="mt-4 pt-2">
                                 <input class="btn btn-primary btn-lg" type="submit" value="Register" />
