@@ -6,13 +6,13 @@
 <body>
 <nav th:replace="fragments :: nav"></nav>
 <section class="vh-100">
-    <div class="container py-5 h-100">
+    <div class="container py-3 h-100">
         <div class="row d-flex justify-content-center align-items-center h-100">
             <div class="col-12 col-md-8 col-lg-6 col-xl-5">
                 <div class="card shadow-2-strong" style="border-radius: 1rem;">
-                    <div class="card-body p-5 text-center">
+                    <div class="card-body p-5">
                         <form method="POST">
-                        <h3 class="mb-5">Sign in</h3>
+                        <h3 class="mb-4 text-center">Sign in</h3>
 
                         <div class="form-outline mb-4">
                             <label class="form-label" th:for="email">Email</label>
@@ -28,8 +28,8 @@
                         </div>
                         <button class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
                     </form>
-                        <p>Don't have an account? <a href="/register">Register here</a></p>
 
+                    <p class="mt-4 mb-0">Don't have an account? <a href="/register">Register here</a></p>
                     </div>
                 </div>
             </div>
