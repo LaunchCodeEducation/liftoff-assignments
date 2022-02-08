@@ -25,4 +25,14 @@ public class LoginFormDTO {
         return password;
     }
 
+    // setters
+
+    public void setEmailAddress(String emailAddress) {
+        this.emailAddress = emailAddress;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
 }
