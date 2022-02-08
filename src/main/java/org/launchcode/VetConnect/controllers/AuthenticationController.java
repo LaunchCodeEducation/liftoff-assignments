@@ -15,5 +15,4 @@ public class AuthenticationController {
     public String register() {
         return "register";
     }
-
 }
