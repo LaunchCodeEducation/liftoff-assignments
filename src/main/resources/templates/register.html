@@ -1,0 +1,111 @@
+<!DOCTYPE>
+<html lang="en" xmlns:th="http://www.thymeleaf.org/">
+<head th:replace="fragments :: head"></head>
+<script src="../js/index.js"></script>
+
+
+<body>
+<nav th:replace="fragments :: nav"></nav>
+<section class="vh-100 gradient-custom">
+    <div class="container py-5 h-100">
+        <div class="row justify-content-center align-items-center h-100">
+            <div class="col-12 col-lg-9 col-xl-7">
+                <div class="card shadow-2-strong card-registration" style="border-radius: 15px;">
+                    <div class="card-body p-4 p-md-5">
+                        <h3 class="mb-4 pb-2 pb-md-0 mb-md-5">Registration Form</h3>
+
+                        <form method="post">
+                            <div class="row">
+                                <div class="col-md-6 mb-4">
+                                    <div class="form-outline">
+                                        <input th:field="${registerFormDTO.firstName}" type="text" id="firstName" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="firstName">First Name</label>
+                                        <p th:errors="${registerFormDTO.firstName}" class="alert alert-danger"></p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-4">
+
+                                    <div class="form-outline">
+                                        <input th:field="${registerFormDTO.lastName}" type="text" id="lastName" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="lastName">Last Name</label>
+                                        <p th:errors="${registerFormDTO.lastName}" class="alert alert-danger"></p>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col mb-4 pb-2">
+                                    <div class="form-outline">
+                                        <input th:field=${registerFormDTO.emailAddress} type="email" id="emailAddress" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="emailAddress">Email</label>
+                                        <p th:errors="${registerFormDTO.emailAddress}" class="alert alert-danger"></p>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6 mb-4 pb-2">
+                                    <div class="form-outline">
+                                        <input type="password" th:field=${registerFormDTO.password} id="password" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="password">Password</label>
+                                        <p th:errors="${registerFormDTO.password}" class="alert alert-danger"></p>
+
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 mb-4 pb-2">
+                                    <div class="form-outline">
+                                        <input th:field=${registerFormDTO.verifyPassword} type="password" id="verifyPassword" class="form-control form-control-lg mb-1" />
+                                        <label class="form-label" th:for="verifyPassword">Confirm Password</label>
+                                        <p th:errors="${registerFormDTO.verifyPassword}" class="alert alert-danger"></p>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="row justify-content-center align-items-center" >
+                                <div  class="col-md-6 mb-3 pb-2 user-type " onclick="userTypeClick('petOwner')">
+                                    <div id="petOwner" class="form-outline p-3 border border-dark rounded bg-primary text-light">
+                                            <h2 class="text-center">I am a Pet Owner!</h2>
+                                            <p>As a Pet Owner you will be able to </p>
+                                            <ul>
+                                                <li>Add a clinic listing</li>
+                                                <li>Leave a review on clinics</li>
+                                            </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 mb-3 pb-2 user-type" onclick="userTypeClick('vet')" >
+                                    <div id="vet" class="form-outline p-3 border border-dark rounded ">
+                                        <h2 class="text-center">I am a Vet!</h2>
+                                        <p>As a vet you will be able to </p>
+                                        <ul>
+                                            <li>Claim a clinic</li>
+                                            <li>Update information for your clinic</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <select id='userType' class="d-none" th:field="${registerFormDTO.userType}">
+                                <option default value="petOwner">petOwner</option>
+                                <option value="vet">vet</option>
+                            </select>
+
+                            <span th:errors="${registerFormDTO.userType}" class="alert alert-danger"></span>
+
+                            <div class="mt-4 pt-2">
+                                <input class="btn btn-primary btn-lg" type="submit" value="Register" />
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+</html>

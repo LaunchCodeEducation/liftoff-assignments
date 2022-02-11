@@ -1,4 +1,4 @@
-package org.launchcode.VetConnect.data;
+package org.launchcode.VetConnect.models.data;
 
 import org.launchcode.VetConnect.models.Clinic;
 import org.springframework.data.repository.CrudRepository;
