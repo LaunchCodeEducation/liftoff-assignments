@@ -16,14 +16,14 @@
 
                         <div class="form-outline mb-4">
                             <label class="form-label" th:for="email">Email</label>
-                            <input type="email" id="email" class="form-control form-control-lg" />
-                            <span class="error"></span>
+                            <input th:field=${loginFormDTO.emailAddress} type="email" id="email" class="form-control form-control-lg mb-1" />
+                            <p th:errors="${loginFormDTO.emailAddress}" class="alert alert-danger"></p>
                         </div>
 
                         <div class="form-outline mb-4">
                             <label class="form-label" th:for="password">Password</label>
-                            <input type="password" id="password" class="form-control form-control-lg" />
-                            <span class="error"></span>
+                            <input th:field=${loginFormDTO.password} type="password" id="password" class="form-control form-control-lg mb-1" />
+                            <p th:errors="${loginFormDTO.password}" class="alert alert-danger"></p>
 
                         </div>
                         <button class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
