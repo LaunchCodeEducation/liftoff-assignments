@@ -14,45 +14,56 @@
                             <h3 class="mb-4 text-center">Add a clinic</h3>
                             <div class="form-outline mb-4">
                                 <label class="form-label" th:for="name">Clinic Name</label>
-                                <input  type="text" id="name" class="form-control form-control-lg mb-1" />
-<!--                                <p th:errors="${loginFormDTO.emailAddress}" class="alert alert-danger"></p>-->
+                                <input  th:field=${addClinicDTO.name} type="text" id="name" class="form-control form-control-lg mb-1" />
+                                <p th:errors="${addClinicDTO.name}" class="alert alert-danger"></p>
                             </div>
 
                             <div class="form-outline mb-4">
                                 <label class="form-label" th:for="address">Address</label>
-                                <input  type="text" id="address" class="form-control form-control-lg mb-1" />
-<!--                                <p th:errors="${loginFormDTO.password}" class="alert alert-danger"></p>-->
+                                <input  th:field=${addClinicDTO.address} type="text" id="address" class="form-control form-control-lg mb-1" />
+                                <p th:errors="${addClinicDTO.address}" class="alert alert-danger"></p>
                             </div>
 
-                            <div class="form-outline mb-4">
-                                <label class="form-label" th:for="city">City</label>
-                                <input  type="text" id="city" class="form-control form-control-lg mb-1" />
-                                <!--                                <p th:errors="${loginFormDTO.password}" class="alert alert-danger"></p>-->
+                            <div class="row">
+                                <div class="col">
+                                    <div class="form-outline mb-4">
+                                        <label class="form-label" th:for="city">City</label>
+                                        <input  th:field=${addClinicDTO.city} type="text" id="city" class="form-control form-control-lg mb-1" />
+                                        <p th:errors="${addClinicDTO.city}" class="alert alert-danger"></p>
+                                    </div>
+                                </div>
+
+
+                                <div class="col">
+                                    <div class="form-outline mb-4">
+                                        <label class="form-label" th:for="state">State</label>
+                                        <input  th:field=${addClinicDTO.state} type="text" id="state" class="form-control form-control-lg mb-1" />
+                                        <p th:errors="${addClinicDTO.state}" class="alert alert-danger"></p>
+                                    </div>
+                                </div>
+
+
+                                <div class="col">
+                                    <div class="form-outline mb-4">
+                                        <label class="form-label" th:for="zip">Zip Code</label>
+                                        <input  th:field=${addClinicDTO.zip} type="text" id="zip" class="form-control form-control-lg mb-1" />
+                                        <p th:errors="${addClinicDTO.zip}" class="alert alert-danger"></p>
+                                    </div>
+                                </div>
 
                             </div>
 
-                            <div class="form-outline mb-4">
-                                <label class="form-label" th:for="state">State</label>
-                                <input  type="text" id="state" class="form-control form-control-lg mb-1" />
-                                <!--                                <p th:errors="${loginFormDTO.password}" class="alert alert-danger"></p>-->
-                            </div>
-
-                            <div class="form-outline mb-4">
-                                <label class="form-label" th:for="zip">Zip Code</label>
-                                <input  type="number" id="zip" class="form-control form-control-lg mb-1" />
-                                <!--                                <p th:errors="${loginFormDTO.password}" class="alert alert-danger"></p>-->
-                            </div>
 
                             <div class="form-outline mb-4">
                                 <label class="form-label" th:for="phone">Phone Number</label>
-                                <input  type="number" id="phone" class="form-control form-control-lg mb-1" />
-                                <!--                                <p th:errors="${loginFormDTO.password}" class="alert alert-danger"></p>-->
+                                <input  th:field=${addClinicDTO.number} type="text" id="phone" class="form-control form-control-lg mb-1" />
+                                <p th:errors="${addClinicDTO.number}" class="alert alert-danger"></p>
                             </div>
 
                             <div class="form-outline mb-4">
                                 <label class="form-label" th:for="website">Website</label>
-                                <input  type="number" id="website" class="form-control form-control-lg mb-1" />
-                                <!--                                <p th:errors="${loginFormDTO.password}" class="alert alert-danger"></p>-->
+                                <input th:field=${addClinicDTO.website} type="text" id="website" class="form-control form-control-lg mb-1" />
+                                <p th:errors="${addClinicDTO.website}" class="alert alert-danger"></p>
                             </div>
 
                             <button class="btn btn-primary btn-lg btn-block" type="submit">Add</button>
