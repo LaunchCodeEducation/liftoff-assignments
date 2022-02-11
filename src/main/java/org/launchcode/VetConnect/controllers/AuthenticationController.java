@@ -103,7 +103,7 @@ public class AuthenticationController {
         User theUser = userRepository.findByEmailAddress(loginFormDTO.getEmailAddress());
 
         if (theUser == null) {
-            errors.rejectValue("username", "user.invalid", "The given username does not exist");
+            errors.rejectValue("emailAddress", "user.invalid", "The given email address does not exist");
             //model.addAttribute("title", "Log In");
             return "login";
         }
