@@ -20,7 +20,7 @@ public class AuthenticationFilter implements HandlerInterceptor {
     @Autowired
     AuthenticationController authenticationController;
 
-    private static final List<String> allowedlist = Arrays.asList("/login", "/register", "/logout", "/css", "/js", "/image", "/clinic-profile", "/search-results");
+    private static final List<String> allowedlist = Arrays.asList("/login", "/register", "/logout", "/css", "/js", "/image", "/clinic-profile", "/search-results", "/add");
 
     private static boolean isAllowedlisted(String path) {
         if (path.equals("/")) {
