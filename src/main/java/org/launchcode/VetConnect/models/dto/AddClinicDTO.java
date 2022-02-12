@@ -24,10 +24,12 @@ public class AddClinicDTO {
 
     @NotBlank(message = "Phone Number required")
     @NumberFormat
-    private String number;
+    private String phoneNumber;
 
     @NotBlank(message = "Website required")
     private String website;
+
+    private String emergency;
 
     public String getName() {
         return name;
@@ -69,12 +71,12 @@ public class AddClinicDTO {
         this.zip = zip;
     }
 
-    public String getNumber() {
-        return number;
+    public String getPhoneNumber() {
+        return phoneNumber;
     }
 
-    public void setNumber(String number) {
-        this.number = number;
+    public void setPhoneNumber(String phoneNumber) {
+        this.phoneNumber = phoneNumber;
     }
 
     public String getWebsite() {
@@ -83,5 +85,13 @@ public class AddClinicDTO {
 
     public void setWebsite(String website) {
         this.website = website;
+    }
+
+    public String getEmergency() {
+        return emergency;
+    }
+
+    public void setEmergency(String emergency) {
+        this.emergency = emergency;
     }
 }

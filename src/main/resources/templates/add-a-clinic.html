@@ -56,14 +56,21 @@
 
                             <div class="form-outline mb-4">
                                 <label class="form-label" th:for="phone">Phone Number</label>
-                                <input  th:field=${addClinicDTO.number} type="text" id="phone" class="form-control form-control-lg mb-1" />
-                                <p th:errors="${addClinicDTO.number}" class="alert alert-danger"></p>
+                                <input  th:field=${addClinicDTO.phoneNumber} type="text" id="phone" class="form-control form-control-lg mb-1" />
+                                <p th:errors="${addClinicDTO.phoneNumber}" class="alert alert-danger"></p>
                             </div>
 
                             <div class="form-outline mb-4">
                                 <label class="form-label" th:for="website">Website</label>
                                 <input th:field=${addClinicDTO.website} type="text" id="website" class="form-control form-control-lg mb-1" />
                                 <p th:errors="${addClinicDTO.website}" class="alert alert-danger"></p>
+                            </div>
+
+                            <div class="form-check">
+                                <input th:field=${addClinicDTO.emergency} class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Open 24 Hours?
+                                </label>
                             </div>
 
                             <button class="btn btn-primary btn-lg btn-block" type="submit">Add</button>

@@ -2,7 +2,6 @@ package org.launchcode.VetConnect.models;
 
 
 import javax.persistence.Entity;
-import java.util.Objects;
 
 @Entity
 public class Clinic extends AbstractEntity{
@@ -14,11 +13,12 @@ public class Clinic extends AbstractEntity{
     private String state;
     private String zip;
     private String website;
+    private int emergency;
 
     public Clinic() {}
 
 //    Initialize the id and value fields
-    public Clinic(String name, String phoneNumber, String address, String city, String state, String zip, String website) {
+    public Clinic(String name, String phoneNumber, String address, String city, String state, String zip, String website, int emergency) {
         super();
         this.name = name;
         this.phoneNumber = phoneNumber;
@@ -27,9 +27,10 @@ public class Clinic extends AbstractEntity{
         this.state = state;
         this.zip = zip;
         this.website = website;
+        this.emergency = emergency;
     }
 
-//    Getters and Setters
+    //    Getters and Setters
     public String getName() {
         return name;
     }
@@ -86,4 +87,11 @@ public class Clinic extends AbstractEntity{
         this.website = website;
     }
 
+    public int getEmergency() {
+        return emergency;
+    }
+
+    public void setEmergency(int emergency) {
+        this.emergency = emergency;
+    }
 }
