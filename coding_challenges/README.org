@@ -1,7 +1,7 @@
-#+title: My_submissions
+* Liftoff Coding Challenges :TOC:
+  - [[#class-1---area-of-a-triangle][Class 1 - Area of A Triangle]]
+  - [[#class-2---find-the-smallest-and-biggest-numbers][Class 2 - Find the Smallest and Biggest Numbers]]
 
-
-* Liftoff Coding Challenges
 ** Class 1 - Area of A Triangle
 Write a function that takes the base and height of a triangle and return its area.
 
@@ -25,8 +25,6 @@ function triArea(base: number, height: number): number {
     return (base * height) / 2;
 }
 #+end_src
-
-
 
 ** Class 2 - Find the Smallest and Biggest Numbers
 Create a function that takes an array of numbers and return both the minimum and maximum numbers, in that order.
